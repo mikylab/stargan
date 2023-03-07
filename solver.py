@@ -8,7 +8,9 @@ import numpy as np
 import os
 import time
 import datetime
-
+import csv
+import cv2
+os.environ['CUDA_VISIBLE_DEVICES'] ='0'
 
 class Solver(object):
     """Solver for training and testing StarGAN."""
@@ -540,14 +542,42 @@ class Solver(object):
 
                 # Translate images.
                 x_fake_list = [x_real]
+                #print(c_org.shape)
+                #print(c_org[i].item())
+                #dist = [c_org[i].shape]
+                
+                #dist = [c_org[i]]
+                dist = []
                 for c_trg in c_trg_list:
-                    x_fake_list.append(self.G(x_real, c_trg))
+                    #print("in c_trg")
+                    ## Distance Calculation
+                    produced_image = self.G(x_real, c_trg)
+                    x_fake_list.append(produced_image)
+                    ## Convert to numpy
+                    produced = produced_image.cpu().numpy()
+                    
+                    real = x_real.cpu().numpy()
+                    translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
+                    #print(translationDistance)
+                    dist.append(translationDistance)
 
+                with open('/home/mikylab/stargan/stargan_ExpW0303/testDistances.csv', 'a') as f:
+                    # create the csv writer
+                    writer = csv.writer(f)
+
+                    # write a row to the csv file
+                    writer.writerow(dist)
+                    
                 # Save the translated images.
+                
                 x_concat = torch.cat(x_fake_list, dim=3)
-                result_path = os.path.join(self.result_dir, '{}-images.jpg'.format(i+1))
+
+                result_path = os.path.join(self.result_dir, 'new-{}-images.jpg'.format(i+1))
                 save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
                 print('Saved real and fake images into {}...'.format(result_path))
+                #break
+                
+            
 
     def test_multi(self):
         """Translate images using StarGAN trained on multiple datasets."""

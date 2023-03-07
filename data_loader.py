@@ -32,6 +32,7 @@ class CelebA(data.Dataset):
         """Preprocess the CelebA attribute file."""
         lines = [line.rstrip() for line in open(self.attr_path, 'r')]
         all_attr_names = lines[1].split()
+        #print(all_attr_names)
         for i, attr_name in enumerate(all_attr_names):
             self.attr2idx[attr_name] = i
             self.idx2attr[i] = attr_name
@@ -43,10 +44,11 @@ class CelebA(data.Dataset):
             split = line.split()
             filename = split[0]
             values = split[1:]
-
+            #print(values)
             label = []
             for attr_name in self.selected_attrs:
                 idx = self.attr2idx[attr_name]
+                #print(idx)
                 label.append(values[idx] == '1')
 
             if (i+1) < 2000:
