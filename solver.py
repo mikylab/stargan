@@ -8,7 +8,9 @@ import numpy as np
 import os
 import time
 import datetime
-
+import csv
+import cv2
+os.environ['CUDA_VISIBLE_DEVICES'] ='0'
 
 class Solver(object):
     """Solver for training and testing StarGAN."""
@@ -30,6 +32,7 @@ class Solver(object):
         self.d_repeat_num = config.d_repeat_num
         self.lambda_cls = config.lambda_cls
         self.lambda_rec = config.lambda_rec
+        self.lambda_id = config.lambda_id
         self.lambda_gp = config.lambda_gp
 
         # Training configurations.
@@ -274,18 +277,22 @@ class Solver(object):
             # =================================================================================== #
             
             if (i+1) % self.n_critic == 0:
+                # Identity loss.
+                x_ident = self.G(x_real, c_org)
+                g_loss_ident=torch.sum(torch.abs(x_ident-x_real))
+
                 # Original-to-target domain.
                 x_fake = self.G(x_real, c_trg)
                 out_src, out_cls = self.D(x_fake)
                 g_loss_fake = - torch.mean(out_src)
                 g_loss_cls = self.classification_loss(out_cls, label_trg, self.dataset)
-
+                
                 # Target-to-original domain.
                 x_reconst = self.G(x_fake, c_org)
                 g_loss_rec = torch.mean(torch.abs(x_real - x_reconst))
 
                 # Backward and optimize.
-                g_loss = g_loss_fake + self.lambda_rec * g_loss_rec + self.lambda_cls * g_loss_cls
+                g_loss = g_loss_fake + self.lambda_rec * g_loss_rec + self.lambda_cls * g_loss_cls + self.lambda_id * g_loss_ident
                 self.reset_grad()
                 g_loss.backward()
                 self.g_optimizer.step()
@@ -294,6 +301,7 @@ class Solver(object):
                 loss['G/loss_fake'] = g_loss_fake.item()
                 loss['G/loss_rec'] = g_loss_rec.item()
                 loss['G/loss_cls'] = g_loss_cls.item()
+                #loss['G/loss_ident'] = g_loss_ident.item()
 
             # =================================================================================== #
             #                                 4. Miscellaneous                                    #
@@ -537,17 +545,39 @@ class Solver(object):
                 # Prepare input images and target domain labels.
                 x_real = x_real.to(self.device)
                 c_trg_list = self.create_labels(c_org, self.c_dim, self.dataset, self.selected_attrs)
-
+                #print(c_org.item())
                 # Translate images.
                 x_fake_list = [x_real]
+                dist = [c_org.item()]
+                #dist = []
                 for c_trg in c_trg_list:
-                    x_fake_list.append(self.G(x_real, c_trg))
+                    ## Distance Calculation
+                    produced_image = self.G(x_real, c_trg)
+                    x_fake_list.append(produced_image)
+                    ## Convert to numpy
+                    produced = produced_image.cpu().numpy()
+                    
+                    real = x_real.cpu().numpy()
+                    translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
+                    dist.append(translationDistance)
+                 #   print(dist)
+                with open('/home/mikylab/stargan-identity/trainDistances00001_6.csv', 'a') as f:
+                    # create the csv writer
+                    writer = csv.writer(f)
 
+                    # write a row to the csv file
+                    writer.writerow(dist)
+                    
                 # Save the translated images.
+                ''' 
                 x_concat = torch.cat(x_fake_list, dim=3)
-                result_path = os.path.join(self.result_dir, '{}-images.jpg'.format(i+1))
+
+                result_path = os.path.join(self.result_dir, 'new-{}-images.jpg'.format(i+1))
                 save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
                 print('Saved real and fake images into {}...'.format(result_path))
+                #break
+                '''
+            
 
     def test_multi(self):
         """Translate images using StarGAN trained on multiple datasets."""
