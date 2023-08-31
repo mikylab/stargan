@@ -50,6 +50,7 @@ class Solver(object):
 
         # Test configurations.
         self.test_iters = config.test_iters
+        self.dist_file_name = config.dist_file_name
 
         # Miscellaneous.
         self.use_tensorboard = config.use_tensorboard
@@ -556,7 +557,6 @@ class Solver(object):
                     x_fake_list.append(produced_image)
                     ## Convert to numpy
                     produced = produced_image.cpu().numpy()
-                    
                     real = x_real.cpu().numpy()
                     translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
                     dist.append(translationDistance)
@@ -564,13 +564,14 @@ class Solver(object):
                 #print(dist)
                 #break
                     
-                result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
-                with open(result_distances_csv, 'a') as f:
+                #result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
+                with open(self.dist_file_name, 'a') as f:
                     # create the csv writer
                     writer = csv.writer(f)
 
                     # write a row to the csv file
                     writer.writerow(dist)
+                    break
                     
                 # Save the translated images.
                 

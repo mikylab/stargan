@@ -85,6 +85,7 @@ if __name__ == '__main__':
 
     # Test configuration.
     parser.add_argument('--test_iters', type=int, default=200000, help='test model from this step')
+    parser.add_argument('--dist_file_name', type=str, default='stargan/test_distances.csv')
 
     # Miscellaneous.
     parser.add_argument('--num_workers', type=int, default=1)
