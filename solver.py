@@ -561,9 +561,6 @@ class Solver(object):
                     translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
                     dist.append(translationDistance)
 
-                #print(dist)
-                #break
-                
                 #result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
                 with open(self.dist_file_name, 'a') as f:
                     # create the csv writer
