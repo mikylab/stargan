@@ -539,7 +539,7 @@ class Solver(object):
             data_loader = self.celeba_loader
         elif self.dataset == 'RaFD':
             data_loader = self.rafd_loader
-        
+        k = 0  
         with torch.no_grad():
             for i, (x_real, c_org) in enumerate(data_loader):
 
@@ -571,15 +571,29 @@ class Solver(object):
                 
                     
                 # Save the translated images.
-                
-                if i%1000 == 0:
+                nameclass = 'default' 
+                if k <120:
+                    if i < 6972 and k <20:
+                        nameclass = "BLA"
+                    elif 6972 <= i < (22395 + 6972) and k <40:
+                        nameclass = "EBO"
+                    elif 22395 + 6972 <= i < 24242 + 22395 + 6972 and k <60:
+                        nameclass = "LYT"
+                    elif 24242 + 22395 + 6972 <= i < 26864 + 24242 + 22395 + 6972 and k <80:
+                        nameclass = "NGS"
+                    elif 26864 + 24242 + 22395 + 6972 <= i < 29593 + 26864 + 24242 + 22395 + 6972 and k <100:
+                        nameclass = "PLM"
+                    elif 29593 + 26864 + 24242 + 22395 + 6972 <= i:
+                        nameclass = "PMO"
                     
-                    x_concat = torch.cat(x_fake_list, dim=3)
-
-                    result_path = os.path.join(self.result_dir, 'test-{}-images300.jpg'.format(i+1))
-                    save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
-                    print('Saved real and fake images into {}...'.format(result_path))
-                #break
+                    if nameclass != 'default':
+                        x_concat = torch.cat(x_fake_list, dim=3)
+                        result_path = os.path.join(self.result_dir, '{}-{}-images500.jpg'.format(nameclass,i+1))
+                        save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
+                        print('Saved real and fake images into {}...'.format(result_path))
+                        k +=1
+                    if k == 120:
+                        break
                 
                 
                 
