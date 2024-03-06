@@ -5,7 +5,9 @@ from PIL import Image
 import torch
 import os
 import random
-
+from torchvision.transforms.functional import to_pil_image
+from torch.utils.data import Subset
+import pandas as pd
 
 class CelebA(data.Dataset):
     """Dataset class for the CelebA dataset."""
@@ -69,11 +71,12 @@ class CelebA(data.Dataset):
 
 
 def get_loader(image_dir, attr_path, selected_attrs, crop_size=178, image_size=128, 
-               batch_size=16, dataset='CelebA', mode='train', num_workers=1):
+               batch_size=16, dataset='CelebA', mode='train', num_workers=1, subset_dir= 'Full'):
     """Build and return a data loader."""
     transform = []
     if mode == 'train':
         transform.append(T.RandomHorizontalFlip())
+    transform.append(T.Resize(256))
     transform.append(T.CenterCrop(crop_size))
     transform.append(T.Resize(image_size))
     transform.append(T.ToTensor())
@@ -84,6 +87,23 @@ def get_loader(image_dir, attr_path, selected_attrs, crop_size=178, image_size=1
         dataset = CelebA(image_dir, attr_path, selected_attrs, transform, mode)
     elif dataset == 'RaFD':
         dataset = ImageFolder(image_dir, transform)
+
+    #subset_indices = [0, 1, 2,3, 4]
+    #subset_data = Subset(dataset, subset_indices)
+    #x, y = subset_data[0]
+    #x, y = dataset[2]
+    #image = to_pil_image(x)
+    #print(dataset.imgs[0][0])
+    #file_path = "test_crop_image.jpg"
+    #image.save(file_path)
+   
+    if subset_dir != 'Full':
+        df = pd.read_csv(subset_dir)
+        groundTruth = 5
+        predictedVal = 5
+        indices = df.loc[(df['0'] == groundTruth) & (df.predicted_class == predictedVal)].index
+        subset_indices = list(indices[0:5])
+        dataset = Subset(dataset, subset_indices)
 
     data_loader = data.DataLoader(dataset=dataset,
                                   batch_size=batch_size,

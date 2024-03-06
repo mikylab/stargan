@@ -29,11 +29,11 @@ def main(config):
     if config.dataset in ['CelebA', 'Both']:
         celeba_loader = get_loader(config.celeba_image_dir, config.attr_path, config.selected_attrs,
                                    config.celeba_crop_size, config.image_size, config.batch_size,
-                                   'CelebA', config.mode, config.num_workers)
+                                   'CelebA', config.mode, config.num_workers, config.subset_dir)
     if config.dataset in ['RaFD', 'Both']:
         rafd_loader = get_loader(config.rafd_image_dir, None, None,
                                  config.rafd_crop_size, config.image_size, config.batch_size,
-                                 'RaFD', config.mode, config.num_workers)
+                                 'RaFD', config.mode, config.num_workers, config.subset_dir)
     
 
     # Solver for training and testing StarGAN.
@@ -100,6 +100,7 @@ if __name__ == '__main__':
     parser.add_argument('--model_save_dir', type=str, default='stargan/models')
     parser.add_argument('--sample_dir', type=str, default='stargan/samples')
     parser.add_argument('--result_dir', type=str, default='stargan/results')
+    parser.add_argument('--subset_dir', type=str, default='Full')
 
     # Step size.
     parser.add_argument('--log_step', type=int, default=10)
