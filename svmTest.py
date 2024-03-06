@@ -17,19 +17,22 @@ def normalizeData(dataMatrix):
 def main(config):
     #file_path = '/home/mikylab/github/stargan/experiments/stargan_identity.bel01/test_distances.csv'
     #print(file_path)
-    trainDistances = pd.read_csv(config.train_dist_dir)
+    trainDistances = pd.read_csv(config.train_dist_dir, header= None)
     trainArray = np.asarray(trainDistances)
     trainMatrix = trainArray[:, 1:3]
 
     X_train = normalizeData(trainMatrix)
     Y_train = trainArray[:, 0]
 
-    testDistances = pd.read_csv(config.test_dist_dir)
+    testDistances = pd.read_csv(config.test_dist_dir, header = None)
     testArray = np.asarray(testDistances)
     testMatrix = testArray[:, 1:3]
 
+
     X_test = normalizeData(testMatrix)
     Y_test = testArray[:, 0]
+    
+    print(X_test.shape)
 
 
 
@@ -43,6 +46,7 @@ def main(config):
 
     svm_model.fit(X_train, Y_train)
     predicted_values_test = svm_model.predict_proba(X_test)
+    print(predicted_values_test.shape)
     np.save(config.result_dir, predicted_values_test)
     #np.save('/home/mikylab/github/stargan/experiments/stargan_identity.bel01/predicted_beltest_lin.npy', predicted_values_train)
 

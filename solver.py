@@ -61,6 +61,7 @@ class Solver(object):
         self.sample_dir = config.sample_dir
         self.model_save_dir = config.model_save_dir
         self.result_dir = config.result_dir
+        self.subset_dir = config.subset_dir
 
         # Step size.
         self.log_step = config.log_step
@@ -551,49 +552,43 @@ class Solver(object):
                 x_fake_list = [x_real]
                 dist = [c_org.item()]
                 #dist = [c_org]
-                for c_trg in c_trg_list:
-                    ## Distance Calculation
-                    produced_image = self.G(x_real, c_trg)
-                    x_fake_list.append(produced_image)
-                    ## Convert to numpy
-                    produced = produced_image.cpu().numpy()
-                    real = x_real.cpu().numpy()
-                    translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
-                    dist.append(translationDistance)
-
-                #result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
-                with open(self.dist_file_name, 'a') as f:
-                    # create the csv writer
-                    writer = csv.writer(f)
-
-                    # write a row to the csv file
-                    writer.writerow(dist)
+                if self.subset_dir == "Full":
+                    for c_trg in c_trg_list:
+                        ## Distance Calculation
+                        produced_image = self.G(x_real, c_trg)
+                        x_fake_list.append(produced_image)
                 
-                    
+                        ## Convert to numpy
+                        produced = produced_image.cpu().numpy()
+                        real = x_real.cpu().numpy()
+                        translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
+                        dist.append(translationDistance)
+
+                    #result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
+                    with open(self.dist_file_name, 'a') as f:
+                        # create the csv writer
+                        writer = csv.writer(f)
+
+                        # write a row to the csv file
+                        writer.writerow(dist)
+                else:
+                    for c_trg in c_trg_list:
+                        produced_image = self.G(x_real, c_trg)
+                        x_fake_list.append(produced_image)
+
+                    x_concat = torch.cat(x_fake_list, dim=3)
+                    result_path = os.path.join(self.result_dir, 'subtest-{}.jpg'.format(i+1))
+                    save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
+                    print('Saved real and fake images into {}...'.format(result_path))
+                    break
                 # Save the translated images.
-                nameclass = 'default' 
-                if k <120:
-                    if i < 6972 and k <20:
-                        nameclass = "BLA"
-                    elif 6972 <= i < (22395 + 6972) and k <40:
-                        nameclass = "EBO"
-                    elif 22395 + 6972 <= i < 24242 + 22395 + 6972 and k <60:
-                        nameclass = "LYT"
-                    elif 24242 + 22395 + 6972 <= i < 26864 + 24242 + 22395 + 6972 and k <80:
-                        nameclass = "NGS"
-                    elif 26864 + 24242 + 22395 + 6972 <= i < 29593 + 26864 + 24242 + 22395 + 6972 and k <100:
-                        nameclass = "PLM"
-                    elif 29593 + 26864 + 24242 + 22395 + 6972 <= i:
-                        nameclass = "PMO"
-                    
-                    if nameclass != 'default':
-                        x_concat = torch.cat(x_fake_list, dim=3)
-                        result_path = os.path.join(self.result_dir, '{}-{}-images500.jpg'.format(nameclass,i+1))
-                        save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
-                        print('Saved real and fake images into {}...'.format(result_path))
-                        k +=1
-                    if k == 120:
-                        break
+                #if i <= 10:
+                #    x_concat = torch.cat(x_fake_list, dim=3)
+                #    result_path = os.path.join(self.result_dir, 'test-{}-images300.jpg'.format(i+1))
+                #    save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
+                #    print('Saved real and fake images into {}...'.format(result_path))
+                                                        
+                #    break
                 
                 
                 
