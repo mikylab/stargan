@@ -99,8 +99,8 @@ def get_loader(image_dir, attr_path, selected_attrs, crop_size=178, image_size=1
    
     if subset_dir != 'Full':
         df = pd.read_csv(subset_dir)
-        groundTruth = 5
-        predictedVal = 5
+        groundTruth = 0
+        predictedVal = 1
         indices = df.loc[(df['0'] == groundTruth) & (df.predicted_class == predictedVal)].index
         subset_indices = list(indices[0:5])
         dataset = Subset(dataset, subset_indices)

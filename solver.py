@@ -580,7 +580,7 @@ class Solver(object):
                     result_path = os.path.join(self.result_dir, 'subtest-{}.jpg'.format(i+1))
                     save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
                     print('Saved real and fake images into {}...'.format(result_path))
-                    break
+                    #break
                 # Save the translated images.
                 #if i <= 10:
                 #    x_concat = torch.cat(x_fake_list, dim=3)
