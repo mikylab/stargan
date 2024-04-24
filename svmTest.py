@@ -48,6 +48,9 @@ def main(config):
     predicted_values_test = svm_model.predict_proba(X_test)
     print(predicted_values_test.shape)
     np.save(config.result_dir, predicted_values_test)
+    class_predictions_test = np.argmax(predicted_values_test, axis=1)
+    testDistances['predicted'] = class_predictions_test
+    testDistances.to_csv(config.result_dir, index = False)
     #np.save('/home/mikylab/github/stargan/experiments/stargan_identity.bel01/predicted_beltest_lin.npy', predicted_values_train)
 
     class_predictions_test = np.argmax(predicted_values_test, axis =1 )

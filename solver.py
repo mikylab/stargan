@@ -10,6 +10,7 @@ import time
 import datetime
 import csv
 import cv2
+from skimage.metrics import structural_similarity as ssim
 os.environ['CUDA_VISIBLE_DEVICES'] ='1'
 
 class Solver(object):
@@ -562,6 +563,11 @@ class Solver(object):
                         produced = produced_image.cpu().numpy()
                         real = x_real.cpu().numpy()
                         translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
+                        ''' SSIM Calculation
+                        #produced = produced.reshape((128, 128, 3))
+                        #real = real.reshape((128, 128, 3))
+                        #translationDistance = ssim(real/255., produced/255., multichannel = True)
+                        '''
                         dist.append(translationDistance)
 
                     #result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
