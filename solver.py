@@ -282,7 +282,7 @@ class Solver(object):
             if (i+1) % self.n_critic == 0:
                 # Identity loss.
                 x_ident = self.G(x_real, c_org)
-                g_loss_ident=torch.sum(torch.abs(x_ident-x_real))
+                g_loss_ident=torch.mean(torch.abs(x_ident-x_real))
 
                 # Original-to-target domain.
                 x_fake = self.G(x_real, c_trg)
@@ -300,11 +300,15 @@ class Solver(object):
                 g_loss.backward()
                 self.g_optimizer.step()
 
+                #Translation distance
+                g_loss_trans = torch.mean(torch.abs(x_real-x_fake))
+
                 # Logging.
                 loss['G/loss_fake'] = g_loss_fake.item()
                 loss['G/loss_rec'] = g_loss_rec.item()
                 loss['G/loss_cls'] = g_loss_cls.item()
-                #loss['G/loss_ident'] = g_loss_ident.item()
+                loss['G/loss_ident'] = g_loss_ident.item()
+                loss['G/loss_trans'] = g_loss_trans.item()
 
             # =================================================================================== #
             #                                 4. Miscellaneous                                    #
