@@ -8,6 +8,8 @@ import random
 from torchvision.transforms.functional import to_pil_image
 from torch.utils.data import Subset
 import pandas as pd
+from torch.utils.data import WeightedRandomSampler
+from collections import Counter
 
 class CelebA(data.Dataset):
     """Dataset class for the CelebA dataset."""
@@ -70,7 +72,7 @@ class CelebA(data.Dataset):
         return self.num_images
 
 
-def get_loader(image_dir, attr_path, selected_attrs, crop_size=178, image_size=128, 
+def get_loader(image_dir, attr_path, selected_attrs, c_dim, crop_size=178, image_size=128, 
                batch_size=16, dataset='CelebA', mode='train', num_workers=1, subset_dir= 'Full'):
     """Build and return a data loader."""
     transform = []
@@ -105,8 +107,33 @@ def get_loader(image_dir, attr_path, selected_attrs, crop_size=178, image_size=1
         subset_indices = list(indices[0:5])
         dataset = Subset(dataset, subset_indices)
 
+    '''
+    class_dist = Counter(dataset.targets)
+    print(class_dist)
+    #samples_per_class = batch_size // c_dim
+    #class_weights = [samples_per_class] * c_dim
+    class_weights = [1.0 / class_dist[i] for i in range(len(dataset.classes))]
+
+    total_samples = sum(class_dist.values())
+    class_weights = [weight * total_samples for weight in class_weights]
+
+    sampler = WeightedRandomSampler(class_weights, batch_size, replacement = False)
+
+    '''
+    
+    class_dist = Counter(dataset.targets)
+    class_weights = list(class_dist.values())
+
+    total_samples = sum(class_dist.values())
+
+    class_weights = [1/ (i/total_samples) for i in class_weights]
+    print(class_weights)
+    image_weights = [class_weights[target] for target in dataset.targets]
+    sampler = WeightedRandomSampler(image_weights, batch_size, replacement = False)
+
     data_loader = data.DataLoader(dataset=dataset,
                                   batch_size=batch_size,
-                                  shuffle=(mode=='train'),
+                                  sampler = sampler if mode == 'train' else None, 
+                                  #shuffle=(mode=='train'),
                                   num_workers=num_workers)
     return data_loader

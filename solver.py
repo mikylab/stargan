@@ -10,7 +10,7 @@ import time
 import datetime
 import csv
 import cv2
-from skimage.metrics import structural_similarity as ssim
+#from skimage.metrics import structural_similarity as ssim
 os.environ['CUDA_VISIBLE_DEVICES'] ='1'
 
 class Solver(object):
@@ -198,6 +198,7 @@ class Solver(object):
         x_fixed, c_org = next(data_iter)
         x_fixed = x_fixed.to(self.device)
         c_fixed_list = self.create_labels(c_org, self.c_dim, self.dataset, self.selected_attrs)
+        print("Ground truth labels:", c_org)
 
         # Learning rate cache for decaying.
         g_lr = self.g_lr
@@ -294,17 +295,24 @@ class Solver(object):
                 x_reconst = self.G(x_fake, c_org)
                 g_loss_rec = torch.mean(torch.abs(x_real - x_reconst))
 
+                # Original-to-target domain difference
+                g_tran_dist = torch.sum(torch.abs(x_fake - x_real))
+
+
                 # Backward and optimize.
-                g_loss = g_loss_fake + self.lambda_rec * g_loss_rec + self.lambda_cls * g_loss_cls + self.lambda_id * g_loss_ident
+                g_loss = g_loss_fake + self.lambda_rec * g_loss_rec + self.lambda_cls * g_loss_cls + self.lambda_id * g_loss_ident #+ g_tran_dist * g_loss_ident
                 self.reset_grad()
                 g_loss.backward()
                 self.g_optimizer.step()
 
+                
                 # Logging.
                 loss['G/loss_fake'] = g_loss_fake.item()
                 loss['G/loss_rec'] = g_loss_rec.item()
                 loss['G/loss_cls'] = g_loss_cls.item()
-                #loss['G/loss_ident'] = g_loss_ident.item()
+                loss['G/loss_ident'] = g_loss_ident.item()
+                loss['G/g_tran_dist']= g_tran_dist.item()
+                
 
             # =================================================================================== #
             #                                 4. Miscellaneous                                    #
@@ -511,6 +519,7 @@ class Solver(object):
                     for c_fixed in c_rafd_list:
                         c_trg = torch.cat([zero_celeba, c_fixed, mask_rafd], dim=1)
                         x_fake_list.append(self.G(x_fixed, c_trg))
+
                     x_concat = torch.cat(x_fake_list, dim=3)
                     sample_path = os.path.join(self.sample_dir, '{}-images.jpg'.format(i+1))
                     save_image(self.denorm(x_concat.data.cpu()), sample_path, nrow=1, padding=0)
