@@ -96,13 +96,20 @@ def get_loader(image_dir, attr_path, selected_attrs, crop_size=178, image_size=1
     #print(dataset.imgs[0][0])
     #file_path = "test_crop_image.jpg"
     #image.save(file_path)
+    print("Number of images in the dataset:", len(dataset))
    
     if subset_dir != 'Full':
         df = pd.read_csv(subset_dir)
-        groundTruth = 0
-        predictedVal = 1
-        indices = df.loc[(df['0'] == groundTruth) & (df.predicted_class == predictedVal)].index
-        subset_indices = list(indices[0:5])
+        groundTruth = 2
+        predictedVal = 2
+        #indices = df.loc[(df['0'] == groundTruth) & (df.predicted_class == predictedVal)].index
+        #subset_indices = list(indices[0:1])
+        #subset_indices = [0,1,2]
+        filtered_df = df.loc[(df['0'] == groundTruth) & (df['predicted_class'] == predictedVal)]
+        #subset_indices = [df['2'].idxmax()]
+        subset_indices = list(filtered_df.index[0:1])
+        
+        
         dataset = Subset(dataset, subset_indices)
 
     data_loader = data.DataLoader(dataset=dataset,

@@ -557,12 +557,17 @@ class Solver(object):
                         ## Distance Calculation
                         produced_image = self.G(x_real, c_trg)
                         x_fake_list.append(produced_image)
+                        translationDistance = torch.norm((produced_image / 255.0).view(-1) - (x_real / 255.0).view(-1), p=1)
+                        translationDistance = translationDistance.cpu().numpy()
+                        
+                        dist.append(translationDistance)
                 
                         ## Convert to numpy
-                        produced = produced_image.cpu().numpy()
-                        real = x_real.cpu().numpy()
-                        translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
-                        dist.append(translationDistance)
+#                         produced = produced_image.cpu().numpy()
+#                         real = x_real.cpu().numpy()
+#                         translationDistance = np.linalg.norm((produced/.255).ravel() - (real/.255).ravel(), ord =1)
+#                         dist.append(translationDistance)
+                        
 
                     #result_distances_csv = os.path.join(self.result_dir, 'trainDistances_bel60.csv') 
                     with open(self.dist_file_name, 'a') as f:
@@ -571,15 +576,34 @@ class Solver(object):
 
                         # write a row to the csv file
                         writer.writerow(dist)
+                    x_concat = torch.cat(x_fake_list, dim=3)
+                    print(i)
+                    #result_path = os.path.join(self.result_dir, 'here_test-{}-images300.jpg'.format(i+1))
+                    #save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
+#                     break
                 else:
-                    for c_trg in c_trg_list:
+                    result_path = os.path.join(self.result_dir, 'class{}_img{}_real.jpg'.format(c_org.item(),i))
+                    save_image(self.denorm(x_real.data.cpu()), result_path, nrow=1, padding=0)
+                    
+                    for j,c_trg in enumerate(c_trg_list):
                         produced_image = self.G(x_real, c_trg)
                         x_fake_list.append(produced_image)
+                        
+                        translationDistance = torch.norm((produced_image / 255.0).view(-1) - (x_real / 255.0).view(-1), p=1)
+                        translationDistance = translationDistance.cpu().numpy()
+                        
+                        
+                        
+                        ##dist.append(translationDistance)
 
+                        ##x_concat = torch.cat(x_fake_list, dim=3)
+                        print(translationDistance)
+                        result_path = os.path.join(self.result_dir, 'class{}_img{}_pred{}.jpg'.format(c_org.item(),i+1, j))
+                        save_image(self.denorm(produced_image.data.cpu()), result_path, nrow=1, padding=0)
+                        print('Saved real and fake images into {}...'.format(result_path))
                     x_concat = torch.cat(x_fake_list, dim=3)
-                    result_path = os.path.join(self.result_dir, 'subtest-{}.jpg'.format(i+1))
+                    result_path = os.path.join(self.result_dir, 'test-{}-images300.jpg'.format(i+1))
                     save_image(self.denorm(x_concat.data.cpu()), result_path, nrow=1, padding=0)
-                    print('Saved real and fake images into {}...'.format(result_path))
                     #break
                 # Save the translated images.
                 #if i <= 10:
