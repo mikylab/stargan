@@ -1,5 +1,5 @@
 ## Image Class Translation Distance: A Novel Interpretable Feature for Image Classification
-#### Using StarGAN - Official PyTorch Implementation
+#### [Using StarGAN - Official PyTorch Implementation](https://github.com/yunjey/stargan)
 
 > **Image Class Translation Distance: A Novel Interpretable Feature for Image Classification**<br>
 > Mikyla K. Bowen<sup>1</sup>, Jesse W. Wilson <sup>2,3</sup><br/>
