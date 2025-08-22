@@ -1,2 +1,7 @@
 #Ignore files within experiments
 experiments/
+
+#Ignore .DS_store
+.DS_store
+.ipynb_checkpoints/
+ __pycache__/
