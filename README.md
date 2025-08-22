@@ -22,18 +22,6 @@ of the technology to go beyond imagining different stylistic changes and to prov
 image classification and medical imaging datasets.*
 
 
-
-### Original PyTorch StarGAN Requirements 
-This respository is a branch created from the official PyTorch implementation of the paper: 
-
-> **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation**<br>
-> [Yunjey Choi](https://github.com/yunjey)<sup>1,2</sup>, [Minje Choi](https://github.com/mjc92)<sup>1,2</sup>, [Munyoung Kim](https://www.facebook.com/munyoung.kim.1291)<sup>2,3</sup>, [Jung-Woo Ha](https://www.facebook.com/jungwoo.ha.921)<sup>2</sup>, [Sung Kim](https://www.cse.ust.hk/~hunkim/)<sup>2,4</sup>, [Jaegul Choo](https://sites.google.com/site/jaegulchoo/)<sup>1,2</sup>    <br/>
-> <sup>1</sup>Korea University, <sup>2</sup>Clova AI Research, NAVER Corp. <br>
-> <sup>3</sup>The College of New Jersey, <sup>4</sup>Hong Kong University of Science and Technology <br/>
-> https://arxiv.org/abs/1711.09020 <br>
->
-> **Abstract:** *Recent studies have shown remarkable success in image-to-image translation for two domains. However, existing approaches have limited scalability and robustness in handling more than two domains, since different models should be built independently for every pair of image domains. To address this limitation, we propose StarGAN, a novel and scalable approach that can perform image-to-image translations for multiple domains using only a single model. Such a unified model architecture of StarGAN allows simultaneous training of multiple datasets with different domains within a single network. This leads to StarGAN's superior quality of translated images compared to existing models as well as the novel capability of flexibly translating an input image to any desired target domain. We empirically demonstrate the effectiveness of our approach on a facial attribute transfer and a facial expression synthesis tasks.*
-
 ## Dependencies
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0+](http://pytorch.org/)
@@ -126,6 +114,18 @@ Translation Distance data in csv format can be found in the data folder. Additio
 		○ Added weighted random sampling 
 
 
+### Original PyTorch StarGAN Requirements 
+This respository is a branch created from the official PyTorch implementation of the paper: 
+
+> **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation**<br>
+> [Yunjey Choi](https://github.com/yunjey)<sup>1,2</sup>, [Minje Choi](https://github.com/mjc92)<sup>1,2</sup>, [Munyoung Kim](https://www.facebook.com/munyoung.kim.1291)<sup>2,3</sup>, [Jung-Woo Ha](https://www.facebook.com/jungwoo.ha.921)<sup>2</sup>, [Sung Kim](https://www.cse.ust.hk/~hunkim/)<sup>2,4</sup>, [Jaegul Choo](https://sites.google.com/site/jaegulchoo/)<sup>1,2</sup>    <br/>
+> <sup>1</sup>Korea University, <sup>2</sup>Clova AI Research, NAVER Corp. <br>
+> <sup>3</sup>The College of New Jersey, <sup>4</sup>Hong Kong University of Science and Technology <br/>
+> https://arxiv.org/abs/1711.09020 <br>
+>
+> **Abstract:** *Recent studies have shown remarkable success in image-to-image translation for two domains. However, existing approaches have limited scalability and robustness in handling more than two domains, since different models should be built independently for every pair of image domains. To address this limitation, we propose StarGAN, a novel and scalable approach that can perform image-to-image translations for multiple domains using only a single model. Such a unified model architecture of StarGAN allows simultaneous training of multiple datasets with different domains within a single network. This leads to StarGAN's superior quality of translated images compared to existing models as well as the novel capability of flexibly translating an input image to any desired target domain. We empirically demonstrate the effectiveness of our approach on a facial attribute transfer and a facial expression synthesis tasks.*
+
+
 ## Citation
 Research based on the original StarGAN [paper](https://arxiv.org/abs/1711.09020):
 ```
@@ -138,4 +138,7 @@ year={2018}
 ```
 
 ## Acknowledgements
-This work was mainly done while the first author did a research internship at [Clova AI Research, NAVER](https://clova.ai/en/research/research-area-detail.html?id=0). We thank all the researchers at NAVER, especially Donghyun Kwak, for insightful discussions.
+We thank Priya Wolff (University of Colorado School of Medicine) and Yevgeniy Seminov (Mass. General Brigham) for helpful
+conversations and suggestions, and Bill Carpenter (Colorado State University) for technical support with computational resources.
+Experiments were carried out on the Riviera cluster (Data Science Research Institute, Colorado State University). This work was
+funded by the Boettcher Foundation through a Boettcher Collaboration Grant and a Boettcher Educational Enrichment Grant.
