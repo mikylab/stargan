@@ -1,0 +1,1283 @@
+_id,name,meta.clinical.age_approx,meta.clinical.anatom_site_general,meta.clinical.benign_malignant,meta.clinical.clin_size_long_diam_mm,meta.clinical.diagnosis,meta.clinical.diagnosis_confirm_type,meta.clinical.family_hx_mm,meta.clinical.lesion_id,meta.clinical.mel_class,meta.clinical.mel_mitotic_index,meta.clinical.mel_thick_mm,meta.clinical.mel_type,meta.clinical.mel_ulcer,meta.clinical.melanocytic,meta.clinical.nevus_type,meta.clinical.patient_id,meta.clinical.personal_hx_mm,meta.clinical.sex,meta.acquisition.acquisition_day,meta.acquisition.blurry,meta.acquisition.color_tint,meta.acquisition.dermoscopic_type,meta.acquisition.hairy,meta.acquisition.image_type,meta.acquisition.marker_pen,meta.acquisition.pixelsX,meta.acquisition.pixelsY
+5e81070974440928c0be1c66,ISIC_0156642,40,posterior torso,benign,,nevus,histopathology,,IL_2450292,,,,,,True,,IP_6901441,,female,,,,,,,,3264,2448
+5e81009374440928c0be0122,ISIC_0156772,30,posterior torso,benign,,nevus,histopathology,,IL_8784960,,,,,,True,,IP_3586223,,female,,,,,,,,3264,2448
+5e80fcad74440928c0bdfbe2,ISIC_0160455,75,lower extremity,benign,,nevus,histopathology,,IL_9656497,,,,,,True,,IP_1395856,,male,,,,,,,,2592,1936
+5e81072574440928c0be1ec6,ISIC_0163110,40,posterior torso,benign,,nevus,histopathology,,IL_0444455,,,,,,True,,IP_9086201,,female,,,,,,,,3264,2448
+5e8402412a5a4415fe694c5d,ISIC_0166988,45,lower extremity,benign,,nevus,histopathology,,IL_8723617,,,,,,True,,IP_2263216,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8106da74440928c0be1b3e,ISIC_0171983,70,head/neck,benign,,seborrheic keratosis,histopathology,,IL_1610479,,,,,,False,,IP_7665112,,male,,,,,,,,3264,2448
+5e8106da74440928c0be1b36,ISIC_0173213,40,upper extremity,benign,,nevus,histopathology,,IL_2660904,,,,,,True,,IP_2049351,,male,,,,,,,,3264,2448
+5e81034a74440928c0be07ce,ISIC_0185177,40,lower extremity,benign,,nevus,histopathology,,IL_8827061,,,,,,True,,IP_7132179,,male,,,,,,,,2592,1936
+5e95f299396583e25a507887,ISIC_0186161,70,oral/genital,benign,,,histopathology,,IL_5827515,,,,,,,,IP_4116267,,female,,,,,,,,1872,1053
+5e95f345396583e25a5086ce,ISIC_0189333,85,head/neck,benign,,,histopathology,,IL_6204778,,,,,,,,IP_6648913,,female,,,,,,,,1872,1053
+5e80f88374440928c0bdeb98,ISIC_0192893,65,anterior torso,benign,,nevus,histopathology,,IL_8774497,,,,,,True,,IP_4745288,,male,,,,,,,,2592,1936
+5e81072274440928c0be1e7b,ISIC_0204994,30,,benign,,nevus,histopathology,,IL_4482140,,,,,,True,,IP_5549010,,female,,,,,,,,3264,2448
+5e8fbd7b396583e25a50643c,ISIC_0227038,80,posterior torso,benign,,nevus,histopathology,,IL_6732425,,,,,,True,,IP_3557056,,male,,,,,,,,2329,2329
+5e8107dd74440928c0be2843,ISIC_0234140,60,posterior torso,benign,,nevus,histopathology,,IL_4750914,,,,,,True,,IP_7404937,,male,,,,,,,,3264,2448
+5e8f8de74ad5f6bd588b0286,ISIC_0236778,50,upper extremity,benign,,nevus,histopathology,,IL_2959031,,,,,,True,,IP_2898839,,male,,,,,,,,1803,1803
+5e81078d74440928c0be248a,ISIC_0237636,55,lower extremity,benign,,nevus,histopathology,,IL_8181241,,,,,,True,,IP_8215360,,female,,,,,,,,2592,1936
+5e8f91524ad5f6bd588b0dd1,ISIC_0248114,50,posterior torso,benign,,nevus,histopathology,,IL_0667331,,,,,,True,combined,IP_6514499,,male,,,,,,,,4032,3024
+5e80fc6074440928c0bdf8f8,ISIC_0274625,65,posterior torso,benign,,nevus,histopathology,,IL_2536633,,,,,,True,,IP_2860540,,male,,,,,,,,2592,1936
+5e80fbd674440928c0bdf21f,ISIC_0275783,45,anterior torso,benign,,nevus,histopathology,,IL_6010475,,,,,,True,,IP_3676113,,male,,,,,,,,3264,2448
+5e95f293396583e25a5077ff,ISIC_0277727,60,lower extremity,benign,,,histopathology,,IL_1195738,,,,,,,,IP_8326844,,female,,,,,,,,640,480
+5e8106d674440928c0be1ae3,ISIC_0281631,60,palms/soles,benign,,nevus,histopathology,,IL_8383267,,,,,,True,,IP_7753447,,male,,,,,,,,2592,1936
+5e95f2c1396583e25a507bfa,ISIC_0294170,75,lower extremity,benign,,,histopathology,,IL_9229848,,,,,,,,IP_0059113,,female,,,,,,,,1872,1053
+5e8faa31396583e25a50520f,ISIC_0298274,45,posterior torso,benign,,nevus,histopathology,,IL_5166885,,,,,,True,combined,IP_5353630,,female,,,,,,,,4032,3024
+5e80fbf374440928c0bdf430,ISIC_0303421,20,lower extremity,benign,,nevus,histopathology,,IL_6498959,,,,,,True,blue,IP_6601306,,female,,,,,,,,3264,2448
+5e81032f74440928c0be05bb,ISIC_0316484,50,lower extremity,benign,,nevus,histopathology,,IL_2414925,,,,,,True,,IP_2707228,,female,,,,,,,,6000,4000
+5e80fc4974440928c0bdf73d,ISIC_0316826,40,lower extremity,benign,,nevus,histopathology,,IL_0621804,,,,,,True,,IP_0894335,,female,,,,,,,,4288,2848
+5e8107a074440928c0be260b,ISIC_0333589,55,anterior torso,benign,,lentigo NOS,histopathology,,IL_2254613,,,,,,True,,IP_0877882,,female,,,,,,,,3264,2448
+5e80fcb074440928c0bdfc1f,ISIC_0340256,40,posterior torso,benign,,nevus,histopathology,,IL_0293828,,,,,,True,,IP_7291657,,female,,,,,,,,2592,1936
+5e95f36d396583e25a508a46,ISIC_0341350,55,lower extremity,benign,,,histopathology,,IL_3536820,,,,,,,,IP_0093378,,male,,,,,,,,1872,1053
+5e8fbd6e396583e25a5063b9,ISIC_0343061,70,anterior torso,benign,,nevus,histopathology,,IL_8846522,,,,,,True,deep penetrating,IP_4254406,,female,,,,,,,,1763,1763
+5e80f88d74440928c0bdec62,ISIC_0344052,70,upper extremity,benign,,nevus,histopathology,,IL_9233777,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e95f2ea396583e25a507f7c,ISIC_0345845,65,upper extremity,benign,,,histopathology,,IL_5802357,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e8106d774440928c0be1afb,ISIC_0356904,60,anterior torso,benign,,nevus,histopathology,,IL_0684499,,,,,,True,,IP_7753447,,male,,,,,,,,2592,1936
+5e8f946d4ad5f6bd588b19de,ISIC_0361529,55,posterior torso,benign,,nevus,histopathology,,IL_7944838,,,,,,True,,IP_9788106,,female,,,,,,,,1761,1761
+5e95f1ca396583e25a5067bd,ISIC_0372456,40,anterior torso,benign,,,histopathology,,IL_9572173,,,,,,,,IP_7785592,,male,,,,,,,,1872,1053
+5e8106cb74440928c0be1a0a,ISIC_0383804,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_5192064,,,,,,False,,IP_7270568,,female,,,,,,,,3264,2448
+5e8f91664ad5f6bd588b0e3a,ISIC_0384107,85,posterior torso,benign,,nevus,histopathology,,IL_0867456,,,,,,True,,IP_3067471,,male,,,,,,,,5184,3456
+5e8fa29b10344ce85ea8e517,ISIC_0384214,50,posterior torso,benign,,nevus,histopathology,,IL_4891438,,,,,,True,,IP_3728091,,male,,,,,,,,2329,2329
+5e8106cb74440928c0be19ff,ISIC_0389955,35,posterior torso,benign,,nevus,histopathology,,IL_2501494,,,,,,True,,IP_0065733,,female,,,,,,,,3264,2448
+5e8106be74440928c0be18e8,ISIC_0394664,60,posterior torso,benign,,nevus,histopathology,,IL_4982121,,,,,,True,,IP_6814066,,male,,,,,,,,3264,2448
+5e80fc9e74440928c0bdfacf,ISIC_0410311,50,head/neck,benign,,nevus,histopathology,,IL_3365009,,,,,,True,,IP_9164625,,female,,,,,,,,3264,2448
+5e81008b74440928c0be00a5,ISIC_0420477,55,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_8205405,,,,,,False,,IP_3120589,,female,,,,,,,,3264,2448
+5e95f20f396583e25a506d6c,ISIC_0423722,30,lower extremity,benign,,,histopathology,,IL_5901012,,,,,,,,IP_2738065,,female,,,,,,,,1872,1053
+5e80fcd074440928c0bdfe71,ISIC_0430904,60,anterior torso,benign,,nevus,histopathology,,IL_0236221,,,,,,True,,IP_6724798,,male,,,,,,,,3264,2448
+5e80fbca74440928c0bdf139,ISIC_0433569,50,head/neck,benign,,lichenoid keratosis,histopathology,,IL_4373189,,,,,,False,,IP_8848835,,female,,,,,,,,3264,2448
+5e95f352396583e25a5087e2,ISIC_0436964,35,palms/soles,benign,,,histopathology,,IL_0836504,,,,,,,,IP_9927968,,male,,,,,,,,640,480
+5e95f31e396583e25a50839b,ISIC_0442425,45,lower extremity,benign,,,histopathology,,IL_4982408,,,,,,,,IP_2584339,,male,,,,,,,,1872,1053
+5e95f2db396583e25a507e5e,ISIC_0452356,50,lower extremity,benign,,,histopathology,,IL_9291321,,,,,,,,IP_5872065,,male,,,,,,,,1872,1053
+5e95f373396583e25a508ab2,ISIC_0455456,75,oral/genital,benign,,,histopathology,,IL_2050698,,,,,,,,IP_0787478,,male,,,,,,,,1872,1053
+5e80fc3974440928c0bdf601,ISIC_0477201,70,posterior torso,benign,,lichenoid keratosis,histopathology,,IL_5633100,,,,,,False,,IP_9619666,,male,,,,,,,,2592,1936
+5e95f1f6396583e25a506b76,ISIC_0481702,30,head/neck,benign,,,histopathology,,IL_3533218,,,,,,,,IP_1023029,,female,,,,,,,,1872,1053
+5e80f88d74440928c0bdec64,ISIC_0493653,70,posterior torso,benign,,nevus,histopathology,,IL_0174594,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e8fb606396583e25a505a92,ISIC_0519386,45,lower extremity,benign,,nevus,histopathology,,IL_7048616,,,,,,True,combined,IP_6211675,,female,,,,,,,,5184,3456
+5e80fcc074440928c0bdfd35,ISIC_0523247,30,anterior torso,benign,,nevus,histopathology,,IL_3400131,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e80fbc574440928c0bdf0e9,ISIC_0526705,55,lower extremity,benign,,nevus,histopathology,,IL_5608040,,,,,,True,,IP_8210115,,male,,,,,,,,6000,4000
+5e8106c374440928c0be195b,ISIC_0538042,30,lower extremity,benign,,nevus,histopathology,,IL_0881395,,,,,,True,,IP_0776416,,female,,,,,,,,2592,1936
+5e81059474440928c0be08bf,ISIC_0549791,60,anterior torso,benign,,nevus,histopathology,,IL_1163231,,,,,,True,,IP_3468257,,female,,,,,,,,3264,2448
+5e95f22c396583e25a506fca,ISIC_0550406,55,upper extremity,benign,,,histopathology,,IL_2509240,,,,,,,,IP_4399955,,female,,,,,,,,640,480
+5e80fccb74440928c0bdfdfe,ISIC_0561846,45,lower extremity,benign,,nevus,histopathology,,IL_4284395,,,,,,True,,IP_6567258,,male,,,,,,,,2592,1936
+5e95f31b396583e25a50835f,ISIC_0591097,70,head/neck,benign,,,histopathology,,IL_1461787,,,,,,,,IP_4116267,,female,,,,,,,,1872,1053
+5e80fc6674440928c0bdf964,ISIC_0592946,50,anterior torso,benign,,nevus,histopathology,,IL_6606405,,,,,,True,,IP_5075533,,female,,,,,,,,3264,2448
+5e8402ae2a5a4415fe69563b,ISIC_0611629,55,lower extremity,benign,,nevus,histopathology,,IL_8166070,,,,,,True,,IP_2987599,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f8dea4ad5f6bd588b029c,ISIC_0612624,80,head/neck,benign,,nevus,histopathology,,IL_2834331,,,,,,True,,IP_3557056,,male,,,,,,,,2169,2169
+5e95f248396583e25a507201,ISIC_0619848,50,lateral torso,benign,,,histopathology,,IL_5246348,,,,,,,,IP_4926060,,male,,,,,,,,640,480
+5e80f88e74440928c0bdec6a,ISIC_0624783,70,posterior torso,benign,,nevus,histopathology,,IL_2281965,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e8f958a4ad5f6bd588b1db5,ISIC_0639415,45,upper extremity,benign,,nevus,histopathology,,IL_0964942,,,,,,True,,IP_6982152,,male,,,,,,,,1755,1755
+5e8107cf74440928c0be2709,ISIC_0653308,65,lower extremity,benign,,nevus,histopathology,,IL_0502946,,,,,,True,,IP_1645936,,female,,,,,,,,3264,2448
+5e80fc3074440928c0bdf558,ISIC_0654269,55,anterior torso,benign,,nevus,histopathology,,IL_8721778,,,,,,True,,IP_2107539,,male,,,,,,,,3264,2448
+5e80fbc174440928c0bdf09f,ISIC_0661284,35,head/neck,benign,,nevus,histopathology,,IL_2884344,,,,,,True,,IP_8329991,,male,,,,,,,,3264,2448
+5e8107d974440928c0be27fa,ISIC_0666481,20,lower extremity,benign,,nevus,histopathology,,IL_5001700,,,,,,True,,IP_7261254,,female,,,,,,,,3264,2448
+5e95f1d1396583e25a50685b,ISIC_0672304,70,anterior torso,benign,,,histopathology,,IL_1651146,,,,,,,,IP_5903849,,male,,,,,,,,1872,1053
+5e81066b74440928c0be1527,ISIC_0674662,60,lower extremity,benign,,nevus,histopathology,,IL_1071805,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e8faa21396583e25a505177,ISIC_0683986,75,posterior torso,benign,,nevus,histopathology,,IL_6877428,,,,,,True,,IP_4070933,,male,,,,,,,,5184,3456
+5e80f89c74440928c0bded76,ISIC_0685898,60,upper extremity,benign,,nevus,histopathology,,IL_4032979,,,,,,True,,IP_7460121,,female,,,,,,,,3264,2448
+5e8fbac9396583e25a5060a3,ISIC_0694033,65,upper extremity,benign,,nevus,histopathology,,IL_7799195,,,,,,True,blue,IP_1991877,,male,,,,,,,,5184,3456
+5e81030f74440928c0be036d,ISIC_0694037,60,posterior torso,benign,,nevus,histopathology,,IL_5178872,,,,,,True,,IP_8951606,,male,,,,,,,,3264,2448
+5e95f1fa396583e25a506bba,ISIC_0694924,55,anterior torso,benign,,,histopathology,,IL_0559022,,,,,,,,IP_8645527,,male,,,,,,,,1872,1053
+5e81079c74440928c0be25bf,ISIC_0697138,80,lower extremity,benign,,nevus,histopathology,,IL_0591875,,,,,,True,,IP_5063756,,male,,,,,,,,3264,2448
+5e81009074440928c0be00ee,ISIC_0702317,65,upper extremity,benign,,lentigo NOS,histopathology,,IL_1145299,,,,,,True,,IP_2075804,,female,,,,,,,,3264,2448
+5e8100b174440928c0be0301,ISIC_0708011,45,,benign,,nevus,histopathology,,IL_0309737,,,,,,True,,IP_8320831,,female,,,,,,,,2592,1936
+5e8f93564ad5f6bd588b155a,ISIC_0719366,40,anterior torso,benign,,nevus,histopathology,,IL_3827877,,,,,,True,combined,IP_0170821,,female,,,,,,,,5184,3456
+5e80f8b874440928c0bdef5f,ISIC_0743090,50,lower extremity,benign,,nevus,histopathology,,IL_9952534,,,,,,True,,IP_2606884,,female,,,,,,,,3264,2448
+5e8107c874440928c0be2688,ISIC_0754586,60,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_4815873,,,,,,False,,IP_9147830,,male,,,,,,,,2592,1936
+5e80fbd874440928c0bdf24a,ISIC_0760601,70,upper extremity,benign,,lentigo NOS,histopathology,,IL_6977880,,,,,,True,,IP_1173567,,male,,,,,,,,3264,2448
+5e84029b2a5a4415fe69546a,ISIC_0770814,45,lower extremity,benign,,nevus,histopathology,,IL_5829456,,,,,,True,,IP_0854065,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8105f474440928c0be0dd0,ISIC_0780259,55,anterior torso,benign,,nevus,histopathology,,IL_7243206,,,,,,True,,IP_7104534,,female,,,,,,,,3264,2448
+5e95f295396583e25a50782b,ISIC_0786913,45,oral/genital,benign,,,histopathology,,IL_1280142,,,,,,,,IP_2584339,,male,,,,,,,,1872,1053
+5e8107d574440928c0be2796,ISIC_0788453,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_9955795,,,,,,False,,IP_2278509,,male,,,,,,,,3264,2448
+5e8403c12a5a4415fe695eac,ISIC_0801281,35,lower extremity,benign,,nevus,histopathology,,IL_3210860,,,,,,True,,IP_8494731,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f957d4ad5f6bd588b1d43,ISIC_0803850,70,anterior torso,benign,,nevus,histopathology,,IL_6855248,,,,,,True,combined,IP_0760108,,female,,,,,,,,1767,1767
+5e95f22d396583e25a506fe2,ISIC_0808108,55,anterior torso,benign,,,histopathology,,IL_4580649,,,,,,,,IP_0718832,,female,,,,,,,,1872,1053
+5e8f8f884ad5f6bd588b0863,ISIC_0809845,40,posterior torso,benign,,nevus,histopathology,,IL_3132118,,,,,,True,,IP_3228049,,male,,,,,,,,4032,3024
+5e81072074440928c0be1e5e,ISIC_0812223,40,upper extremity,benign,,nevus,histopathology,,IL_5726505,,,,,,True,,IP_7345731,,male,,,,,,,,4288,2848
+5e81078574440928c0be23e1,ISIC_0819729,40,head/neck,benign,,nevus,histopathology,,IL_8380426,,,,,,True,,IP_7690396,,female,,,,,,,,2592,1936
+5e81007b74440928c0bdff9e,ISIC_0820559,65,anterior torso,benign,,nevus,histopathology,,IL_1847585,,,,,,True,,IP_2325148,,male,,,,,,,,2592,1936
+5e80f8b174440928c0bdeee3,ISIC_0828120,40,posterior torso,benign,,nevus,histopathology,,IL_4674503,,,,,,True,,IP_2760044,,male,,,,,,,,3264,2448
+5e81072174440928c0be1e6d,ISIC_0829995,45,posterior torso,benign,,nevus,histopathology,,IL_3970451,,,,,,True,,IP_7345731,,male,,,,,,,,3264,2448
+5e95f26a396583e25a5074b2,ISIC_0843662,40,upper extremity,benign,,,histopathology,,IL_1908585,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e95f37b396583e25a508b70,ISIC_0845791,50,posterior torso,benign,,,histopathology,,IL_9471675,,,,,,,,IP_6318212,,female,,,,,,,,640,480
+5e81031b74440928c0be044f,ISIC_0849028,35,head/neck,benign,,nevus,histopathology,,IL_7813760,,,,,,True,,IP_9055249,,male,,,,,,,,4288,2848
+5e8107d774440928c0be27cd,ISIC_0851556,70,posterior torso,benign,,lentigo NOS,histopathology,,IL_8818311,,,,,,True,,IP_7382179,,female,,,,,,,,3264,2448
+5e81059374440928c0be08bb,ISIC_0882619,60,head/neck,benign,,nevus,histopathology,,IL_0989603,,,,,,True,,IP_3468257,,female,,,,,,,,3264,2448
+5e84028a2a5a4415fe6952e6,ISIC_0890398,55,,benign,,nevus,histopathology,,IL_5524544,,,,,,True,,IP_4707488,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fccb74440928c0bdfdff,ISIC_0890639,45,posterior torso,benign,,nevus,histopathology,,IL_7887025,,,,,,True,,IP_6567258,,male,,,,,,,,4288,2848
+5e81060874440928c0be0f73,ISIC_0894381,65,posterior torso,benign,,nevus,histopathology,,IL_3878968,,,,,,True,,IP_2738587,,male,,,,,,,,2592,1936
+5e95f322396583e25a5083ec,ISIC_0900216,65,head/neck,benign,,,histopathology,,IL_9776870,,,,,,,,IP_4116267,,female,,,,,,,,640,480
+5e80fc3574440928c0bdf5b0,ISIC_0904712,40,anterior torso,benign,,nevus,histopathology,,IL_8960648,,,,,,True,,IP_2360609,,male,,,,,,,,4288,2848
+5e81061d74440928c0be114b,ISIC_0909402,40,posterior torso,benign,,nevus,histopathology,,IL_5702909,,,,,,True,,IP_0963996,,female,,,,,,,,3264,2448
+5e95f2ab396583e25a507a1e,ISIC_0912033,25,lower extremity,benign,,,histopathology,,IL_7404006,,,,,,,,IP_9551616,,male,,,,,,,,640,480
+5e80fbd874440928c0bdf23e,ISIC_0914968,45,head/neck,benign,,nevus,histopathology,,IL_7863619,,,,,,True,,IP_2538906,,female,,,,,,,,2592,1936
+5e95f1c7396583e25a506796,ISIC_0917117,60,lower extremity,benign,,,histopathology,,IL_3004325,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e95f2b8396583e25a507b2f,ISIC_0920064,45,posterior torso,benign,,,histopathology,,IL_1645388,,,,,,,,IP_9851472,,female,,,,,,,,640,480
+5e81062174440928c0be11a9,ISIC_0932862,60,posterior torso,benign,,nevus,histopathology,,IL_5788755,,,,,,True,,IP_2865063,,male,,,,,,,,2592,1936
+5e81066a74440928c0be1517,ISIC_0933647,55,lower extremity,benign,,lentigo NOS,histopathology,,IL_8628215,,,,,,True,,IP_0175414,,male,,,,,,,,5184,3456
+5e80fc4a74440928c0bdf754,ISIC_0933821,50,lower extremity,benign,,lentigo NOS,histopathology,,IL_2862828,,,,,,True,,IP_0001230,,female,,,,,,,,2592,1936
+5e8f94734ad5f6bd588b1a1b,ISIC_0937261,40,posterior torso,benign,,nevus,histopathology,,IL_9958177,,,,,,True,combined,IP_9669483,,female,,,,,,,,5184,3456
+5e8f94654ad5f6bd588b1997,ISIC_0947409,50,lower extremity,benign,,nevus,histopathology,,IL_9391535,,,,,,True,combined,IP_3729342,,male,,,,,,,,3888,2592
+5e8105b174440928c0be0b34,ISIC_0951438,40,lower extremity,benign,,nevus,histopathology,,IL_8175532,,,,,,True,,IP_6420568,,male,,,,,,,,6000,4000
+5e80fc4074440928c0bdf68b,ISIC_0956407,40,posterior torso,benign,,nevus,histopathology,,IL_0801336,,,,,,True,,IP_7931229,,male,,,,,,,,2592,1936
+5e8106b774440928c0be185e,ISIC_0961888,60,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_8453873,,,,,,False,,IP_6661651,,male,,,,,,,,4288,2848
+5e95f229396583e25a506fa0,ISIC_0981661,65,posterior torso,benign,,,histopathology,,IL_3763240,,,,,,,,IP_6204577,,female,,,,,,,,1872,1053
+5e80fbfd74440928c0bdf4de,ISIC_0987523,45,head/neck,benign,,nevus,histopathology,,IL_0762676,,,,,,True,,IP_0307863,,male,,,,,,,,3264,2448
+5e8106d974440928c0be1b27,ISIC_0995838,35,upper extremity,benign,,nevus,histopathology,,IL_3165210,,,,,,True,,IP_2049351,,male,,,,,,,,2592,1936
+5e80f88d74440928c0bdec68,ISIC_1008321,70,posterior torso,benign,,nevus,histopathology,,IL_3098557,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e80fcbf74440928c0bdfd31,ISIC_1017159,30,upper extremity,benign,,nevus,histopathology,,IL_8643227,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e8106cd74440928c0be1a2a,ISIC_1017377,35,lower extremity,benign,,nevus,histopathology,,IL_7426260,,,,,,True,,IP_8011614,,female,,,,,,,,2592,1936
+5e8fb5fd396583e25a505a33,ISIC_1043313,65,head/neck,benign,,nevus,histopathology,,IL_2752111,,,,,,True,,IP_7716626,,male,,,,,,,,4032,3024
+5e8f94f14ad5f6bd588b1b64,ISIC_1048895,65,lower extremity,benign,,nevus,histopathology,,IL_8721190,,,,,,True,,IP_2869113,,male,,,,,,,,5184,3456
+5e95f235396583e25a507074,ISIC_1053427,60,lower extremity,benign,,,histopathology,,IL_7440835,,,,,,,,IP_5368914,,male,,,,,,,,1872,1053
+5e8106cc74440928c0be1a14,ISIC_1075054,40,upper extremity,benign,,nevus,histopathology,,IL_9021085,,,,,,True,,IP_8011614,,female,,,,,,,,3264,2448
+5e80fc3374440928c0bdf58e,ISIC_1078823,60,lower extremity,benign,,lentigo NOS,histopathology,,IL_5399949,,,,,,True,,IP_1515878,,female,,,,,,,,2592,1936
+5e80fc3a74440928c0bdf619,ISIC_1080647,65,head/neck,benign,,lentigo NOS,histopathology,,IL_1620125,,,,,,True,,IP_3034671,,male,,,,,,,,2592,1936
+5e80fc4c74440928c0bdf76f,ISIC_1085285,55,head/neck,benign,,nevus,histopathology,,IL_4208582,,,,,,True,,IP_8673016,,female,,,,,,,,3264,2448
+5e81059374440928c0be08bc,ISIC_1088190,60,upper extremity,benign,,nevus,histopathology,,IL_5220366,,,,,,True,,IP_3468257,,female,,,,,,,,3264,2448
+5e95f238396583e25a5070b4,ISIC_1092604,70,head/neck,benign,,,histopathology,,IL_5963321,,,,,,,,IP_7199022,,female,,,,,,,,1872,1053
+5e8107ea74440928c0be293b,ISIC_1103955,70,anterior torso,benign,,nevus,histopathology,,IL_6731326,,,,,,True,,IP_1470733,,male,,,,,,,,3264,2448
+5e8402662a5a4415fe694f97,ISIC_1106851,40,lower extremity,benign,,nevus,histopathology,,IL_6440183,,,,,,True,,IP_1447682,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f278396583e25a5075cd,ISIC_1108204,25,lower extremity,benign,,,histopathology,,IL_6688406,,,,,,,,IP_7497232,,male,,,,,,,,640,480
+5e8106d974440928c0be1b1b,ISIC_1109667,40,lower extremity,benign,,nevus,histopathology,,IL_3221840,,,,,,True,,IP_2049351,,male,,,,,,,,3264,2448
+5e95f223396583e25a506f37,ISIC_1140182,35,upper extremity,benign,,,histopathology,,IL_8183809,,,,,,,,IP_6977878,,male,,,,,,,,640,480
+5e80f89374440928c0bdecd3,ISIC_1149469,65,lower extremity,benign,,lentigo NOS,histopathology,,IL_2232321,,,,,,True,,IP_1265580,,female,,,,,,,,3264,2448
+5e81068174440928c0be16d8,ISIC_1154756,65,posterior torso,benign,,nevus,histopathology,,IL_5003129,,,,,,True,,IP_5517026,,male,,,,,,,,3264,2448
+5e80f8a674440928c0bdee11,ISIC_1156392,80,head/neck,benign,,seborrheic keratosis,histopathology,,IL_6833566,,,,,,False,,IP_6613083,,female,,,,,,,,3264,2448
+5e8402862a5a4415fe69528a,ISIC_1162288,50,,benign,,nevus,histopathology,,IL_1195102,,,,,,True,,IP_8936266,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8105a374440928c0be0a1e,ISIC_1176099,30,lower extremity,benign,,nevus,histopathology,,IL_9385854,,,,,,True,,IP_6808872,,male,,,,,,,,3264,2448
+5e95f33f396583e25a508645,ISIC_1178847,50,posterior torso,benign,,,histopathology,,IL_9167406,,,,,,,,IP_8702124,,female,,,,,,,,1872,1053
+5e8f8e364ad5f6bd588b038c,ISIC_1195354,50,posterior torso,benign,,nevus,histopathology,,IL_7614110,,,,,,True,combined,IP_2262940,,male,,,,,,,,2381,2381
+5e8402852a5a4415fe69527d,ISIC_1200846,55,lower extremity,benign,,nevus,histopathology,,IL_6462116,,,,,,True,,IP_1172238,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f346396583e25a5086df,ISIC_1202785,30,head/neck,benign,,,histopathology,,IL_0616472,,,,,,,,IP_7785592,,male,,,,,,,,640,480
+5e81007274440928c0bdfefb,ISIC_1203254,50,anterior torso,benign,,nevus,histopathology,,IL_7753446,,,,,,True,,IP_3240837,,male,,,,,,,,3264,2448
+5e80f88b74440928c0bdec36,ISIC_1221361,55,head/neck,benign,,seborrheic keratosis,histopathology,,IL_9268737,,,,,,False,,IP_5331792,,male,,,,,,,,3264,2448
+5e81065874440928c0be137f,ISIC_1225078,55,lower extremity,benign,,nevus,histopathology,,IL_0718855,,,,,,True,,IP_9186570,,male,,,,,,,,3264,2448
+5e80f88c74440928c0bdec51,ISIC_1230738,45,lower extremity,benign,,nevus,histopathology,,IL_5918672,,,,,,True,,IP_7130762,,female,,,,,,,,3264,2448
+5e81060474440928c0be0f29,ISIC_1233104,30,,benign,,nevus,histopathology,,IL_0759584,,,,,,True,,IP_6157775,,male,,,,,,,,4288,2848
+5e95f284396583e25a5076b7,ISIC_1235335,65,head/neck,benign,,,histopathology,,IL_4933799,,,,,,,,IP_5496892,,male,,,,,,,,1872,1053
+5e80fc4874440928c0bdf722,ISIC_1240189,60,anterior torso,benign,,nevus,histopathology,,IL_7967367,,,,,,True,,IP_5167473,,female,,,,,,,,3264,2448
+5e8106bb74440928c0be18a6,ISIC_1242543,85,head/neck,benign,,seborrheic keratosis,histopathology,,IL_5934861,,,,,,False,,IP_5336201,,male,,,,,,,,3264,2448
+5e81076a74440928c0be219c,ISIC_1254526,30,lower extremity,benign,,nevus,histopathology,,IL_0615988,,,,,,True,spitz,IP_9438537,,female,,,,,,,,3264,2448
+5e8105c774440928c0be0d0c,ISIC_1265230,50,anterior torso,benign,,nevus,histopathology,,IL_6221794,,,,,,True,,IP_2422802,,male,,,,,,,,4288,2848
+5e80fbe174440928c0bdf2e9,ISIC_1270091,35,posterior torso,benign,,nevus,histopathology,,IL_8847359,,,,,,True,,IP_0039318,,male,,,,,,,,6000,4000
+5e95f343396583e25a5086a1,ISIC_1274550,65,upper extremity,benign,,,histopathology,,IL_1690825,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e81072b74440928c0be1f46,ISIC_1292006,45,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_0334805,,,,,,False,,IP_9579751,,male,,,,,,,,2592,1936
+5e8106be74440928c0be18e5,ISIC_1293199,60,lower extremity,benign,,nevus,histopathology,,IL_6922756,,,,,,True,,IP_6814066,,male,,,,,,,,3264,2448
+5e81032174440928c0be04ba,ISIC_1300891,30,upper extremity,benign,,nevus,histopathology,,IL_2890142,,,,,,True,,IP_7691333,,female,,,,,,,,2592,1936
+5e8fad39396583e25a5053d0,ISIC_1315068,45,lower extremity,benign,,nevus,histopathology,,IL_2578843,,,,,,True,combined,IP_8137203,,female,,,,,,,,1769,1769
+5e80fbe674440928c0bdf35f,ISIC_1322621,85,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_7955356,,,,,,False,,IP_7826462,,male,,,,,,,,4288,2848
+5e81031b74440928c0be044c,ISIC_1337534,40,head/neck,benign,,nevus,histopathology,,IL_2630425,,,,,,True,,IP_9055249,,male,,,,,,,,2592,1936
+5e95f324396583e25a508406,ISIC_1352190,65,palms/soles,benign,,,histopathology,,IL_9534807,,,,,,,,IP_2101945,,male,,,,,,,,1872,1053
+5e80fc5a74440928c0bdf87c,ISIC_1353051,45,anterior torso,benign,,nevus,histopathology,,IL_2781969,,,,,,True,,IP_7946270,,male,,,,,,,,3264,2448
+5e81032474440928c0be04f8,ISIC_1357166,40,posterior torso,benign,,nevus,histopathology,,IL_6024132,,,,,,True,,IP_4409916,,female,,,,,,,,6000,4000
+5e8faa14396583e25a5050f4,ISIC_1358441,70,head/neck,benign,,solar lentigo,histopathology,,IL_9539094,,,,,,False,,IP_5831170,,male,,,,,,,,6000,4000
+5e8fb722396583e25a505c7e,ISIC_1386874,55,lower extremity,benign,,nevus,histopathology,,IL_4485812,,,,,,True,,IP_4321822,,male,,,,,,,,2317,2317
+5e8100a774440928c0be0252,ISIC_1396276,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_7356025,,,,,,False,,IP_7610036,,male,,,,,,,,2592,1936
+5e81031c74440928c0be0464,ISIC_1404148,35,anterior torso,benign,,nevus,histopathology,,IL_5059880,,,,,,True,,IP_6017204,,female,,,,,,,,2592,1936
+5e80fc3974440928c0bdf604,ISIC_1405454,70,posterior torso,benign,,lentigo NOS,histopathology,,IL_6750569,,,,,,True,,IP_9619666,,male,,,,,,,,3264,2448
+5e81061874440928c0be10eb,ISIC_1412137,25,posterior torso,benign,,nevus,histopathology,,IL_4616616,,,,,,True,,IP_6868151,,male,,,,,,,,2592,1936
+5e80f89874440928c0bded2f,ISIC_1412976,35,posterior torso,benign,,nevus,histopathology,,IL_8956343,,,,,,True,,IP_7491908,,male,,,,,,,,3264,2448
+5e81059774440928c0be0907,ISIC_1414247,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_1247805,,,,,,False,,IP_1559100,,male,,,,,,,,3264,2448
+5e80fcad74440928c0bdfbf0,ISIC_1436572,75,posterior torso,benign,,nevus,histopathology,,IL_0498828,,,,,,True,,IP_1395856,,male,,,,,,,,3264,2448
+5e81073674440928c0be201e,ISIC_1442601,75,lower extremity,benign,,nevus,histopathology,,IL_3578294,,,,,,True,,IP_8590096,,male,,,,,,,,3264,2448
+5e8faa2d396583e25a5051e7,ISIC_1447559,35,lower extremity,benign,,nevus,histopathology,,IL_7471580,,,,,,True,,IP_9649762,,female,,,,,,,,2043,2043
+5e8403982a5a4415fe695afc,ISIC_1448992,45,lower extremity,benign,,nevus,histopathology,,IL_0067703,,,,,,True,,IP_5870445,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81071074440928c0be1cf5,ISIC_1453146,65,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_8184495,,,,,,False,,IP_4702665,,female,,,,,,,,2592,1936
+5e80fcad74440928c0bdfbeb,ISIC_1464862,75,head/neck,benign,,nevus,histopathology,,IL_4582844,,,,,,True,,IP_1395856,,male,,,,,,,,4288,2848
+5e80f8a174440928c0bdedda,ISIC_1467583,65,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_5692919,,,,,,False,,IP_9661974,,male,,,,,,,,4288,2848
+5e8106c374440928c0be1960,ISIC_1470642,30,posterior torso,benign,,nevus,histopathology,,IL_2334799,,,,,,True,,IP_0776416,,female,,,,,,,,3264,2448
+5e8f91944ad5f6bd588b0f73,ISIC_1486154,50,posterior torso,benign,,nevus,histopathology,,IL_5346844,,,,,,True,combined,IP_0690987,,male,,,,,,,,5184,3456
+5e8105f274440928c0be0d9b,ISIC_1488598,60,posterior torso,benign,,nevus,histopathology,,IL_7312022,,,,,,True,,IP_4865295,,male,,,,,,,,3264,2448
+5e8f8fca4ad5f6bd588b093c,ISIC_1492455,45,lower extremity,benign,,nevus,histopathology,,IL_8954295,,,,,,True,combined,IP_6932031,,female,,,,,,,,1759,1759
+5e8106e574440928c0be1c18,ISIC_1497121,60,posterior torso,benign,,nevus,histopathology,,IL_4874534,,,,,,True,,IP_9056338,,male,,,,,,,,3264,2448
+5e81032074440928c0be04a3,ISIC_1536126,30,posterior torso,benign,,nevus,histopathology,,IL_4548866,,,,,,True,,IP_7691333,,female,,,,,,,,2592,1936
+5e95f2d5396583e25a507dbe,ISIC_1537141,60,upper extremity,benign,,,histopathology,,IL_6903894,,,,,,,,IP_8236536,,male,,,,,,,,1872,1053
+5e81079574440928c0be252f,ISIC_1561068,45,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_0443416,,,,,,False,,IP_7748972,,male,,,,,,,,4288,2848
+5e8106de74440928c0be1b89,ISIC_1562512,45,posterior torso,benign,,nevus,histopathology,,IL_6518054,,,,,,True,,IP_7633542,,male,,,,,,,,2592,1936
+5e95f380396583e25a508bdc,ISIC_1566381,35,upper extremity,benign,,,histopathology,,IL_2272519,,,,,,,,IP_5474292,,male,,,,,,,,640,480
+5e80fcb174440928c0bdfc2c,ISIC_1578194,85,head/neck,benign,,seborrheic keratosis,histopathology,,IL_7084396,,,,,,False,,IP_2594106,,male,,,,,,,,2592,1936
+5e80fbdb74440928c0bdf286,ISIC_1589136,70,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_5711728,,,,,,False,,IP_5357759,,female,,,,,,,,3264,2448
+5e81066f74440928c0be1578,ISIC_1593260,75,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_5652037,,,,,,False,,IP_6643545,,male,,,,,,,,3264,2448
+5e81061474440928c0be108c,ISIC_1602466,55,posterior torso,benign,,nevus,histopathology,,IL_1629588,,,,,,True,,IP_7447953,,male,,,,,,,,2592,1936
+5e8402922a5a4415fe695394,ISIC_1602561,65,,benign,,nevus,histopathology,,IL_5736390,,,,,,True,,IP_4722284,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8107a574440928c0be2671,ISIC_1603509,55,lower extremity,benign,,nevus,histopathology,,IL_2134093,,,,,,True,,IP_3048629,,male,,,,,,,,6000,4000
+5e8107d674440928c0be27bb,ISIC_1613289,55,posterior torso,benign,,nevus,histopathology,,IL_7168782,,,,,,True,,IP_9853347,,male,,,,,,,,3264,2448
+5e8106b274440928c0be1813,ISIC_1618832,25,posterior torso,benign,,nevus,histopathology,,IL_7186972,,,,,,True,,IP_2139337,,male,,,,,,,,2592,1936
+5e95f1b5396583e25a506621,ISIC_1629433,10,lower extremity,benign,,,histopathology,,IL_0171095,,,,,,,,IP_7826053,,female,,,,,,,,640,480
+5e81008c74440928c0be00af,ISIC_1632949,50,lower extremity,benign,,lentigo NOS,histopathology,,IL_7592243,,,,,,True,,IP_3120589,,female,,,,,,,,2592,1936
+5e8105b274440928c0be0b51,ISIC_1637536,70,posterior torso,benign,,nevus,histopathology,,IL_4309233,,,,,,True,,IP_8738175,,male,,,,,,,,3264,2448
+5e81062074440928c0be118e,ISIC_1641637,50,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_7927222,,,,,,False,,IP_9370254,,male,,,,,,,,4288,2848
+5e8f92174ad5f6bd588b1115,ISIC_1643439,55,head/neck,benign,,lentigo NOS,histopathology,,IL_6054151,,,,,,True,,IP_4321822,,male,,,,,,,,5184,3456
+5e80fbc774440928c0bdf10f,ISIC_1645567,60,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_6560920,,,,,,False,,IP_9067016,,male,,,,,,,,3264,2448
+5e81007b74440928c0bdffa7,ISIC_1649410,70,upper extremity,benign,,nevus,histopathology,,IL_7960062,,,,,,True,,IP_2325148,,male,,,,,,,,3264,2448
+5e81060d74440928c0be0fea,ISIC_1650233,50,upper extremity,benign,,nevus,histopathology,,IL_0807781,,,,,,True,,IP_3474679,,female,,,,,,,,3264,2448
+5e95f2ba396583e25a507b5c,ISIC_1665118,40,lower extremity,benign,,,histopathology,,IL_5319772,,,,,,,,IP_7785592,,male,,,,,,,,1872,1053
+5e8f8e7c4ad5f6bd588b04a6,ISIC_1665944,75,posterior torso,benign,,nevus,histopathology,,IL_4869075,,,,,,True,,IP_5390682,,male,,,,,,,,5184,3456
+5e8106d074440928c0be1a64,ISIC_1667579,55,head/neck,benign,,seborrheic keratosis,histopathology,,IL_8312950,,,,,,False,,IP_7207550,,male,,,,,,,,3264,2448
+5e80fc3074440928c0bdf555,ISIC_1670165,55,anterior torso,benign,,nevus,histopathology,,IL_5407810,,,,,,True,,IP_2107539,,male,,,,,,,,3264,2448
+5e8100ac74440928c0be02aa,ISIC_1684107,35,anterior torso,benign,,nevus,histopathology,,IL_4895605,,,,,,True,,IP_4898383,,male,,,,,,,,3264,2448
+5e95f2ed396583e25a507fb1,ISIC_1685333,50,lower extremity,benign,,,histopathology,,IL_9498520,,,,,,,,IP_8702124,,female,,,,,,,,1872,1053
+5e81033d74440928c0be06c9,ISIC_1685833,75,posterior torso,benign,,nevus,histopathology,,IL_7033512,,,,,,True,,IP_4297939,,male,,,,,,,,3264,2448
+5e8106cb74440928c0be19f7,ISIC_1686113,35,posterior torso,benign,,nevus,histopathology,,IL_1727754,,,,,,True,,IP_0065733,,female,,,,,,,,3264,2448
+5e8f8ebe4ad5f6bd588b0585,ISIC_1732527,45,lower extremity,benign,,nevus,histopathology,,IL_0473168,,,,,,True,combined,IP_5353630,,female,,,,,,,,5184,3456
+5e8402b12a5a4415fe695682,ISIC_1733995,50,lower extremity,benign,,nevus,histopathology,,IL_6784601,,,,,,True,,IP_1172238,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8106cf74440928c0be1a4e,ISIC_1740430,80,upper extremity,benign,,lichenoid keratosis,histopathology,,IL_2535564,,,,,,False,,IP_6215369,,male,,,,,,,,3264,2448
+5e81059e74440928c0be09b4,ISIC_1748718,45,posterior torso,benign,,nevus,histopathology,,IL_4044881,,,,,,True,,IP_8091497,,male,,,,,,,,3264,2448
+5e80f8b074440928c0bdeec4,ISIC_1750424,40,head/neck,benign,,lentigo NOS,histopathology,,IL_5970967,,,,,,True,,IP_4667127,,female,,,,,,,,4288,2848
+5e8105a374440928c0be0a1d,ISIC_1772759,30,lower extremity,benign,,nevus,histopathology,,IL_3383545,,,,,,True,,IP_6808872,,male,,,,,,,,3264,2448
+5e8f90474ad5f6bd588b0a5a,ISIC_1779443,50,posterior torso,benign,,nevus,histopathology,,IL_1816849,,,,,,True,combined,IP_5096590,,female,,,,,,,,5184,3456
+5e8106c274440928c0be1942,ISIC_1785976,30,anterior torso,benign,,nevus,histopathology,,IL_7341394,,,,,,True,,IP_0776416,,female,,,,,,,,3264,2448
+5e95f259396583e25a50735b,ISIC_1786025,30,head/neck,benign,,,histopathology,,IL_8456793,,,,,,,,IP_5715797,,male,,,,,,,,1872,1053
+5e80fcb874440928c0bdfcab,ISIC_1786309,70,lower extremity,benign,,nevus,histopathology,,IL_6246109,,,,,,True,,IP_5752342,,male,,,,,,,,4288,2848
+5e95f34e396583e25a508795,ISIC_1788746,70,anterior torso,benign,,,histopathology,,IL_3389797,,,,,,,,IP_0998852,,female,,,,,,,,1872,1053
+5e95f300396583e25a50812f,ISIC_1802797,50,lower extremity,benign,,,histopathology,,IL_1194948,,,,,,,,IP_2913292,,male,,,,,,,,1872,1053
+5e95f2b8396583e25a507b2e,ISIC_1807319,50,head/neck,benign,,,histopathology,,IL_1591744,,,,,,,,IP_0093378,,male,,,,,,,,640,480
+5e8106dc74440928c0be1b69,ISIC_1807379,40,,benign,,nevus,histopathology,,IL_1758211,,,,,,True,,IP_9245079,,male,,,,,,,,3264,2448
+5e81007b74440928c0bdffa8,ISIC_1823006,65,anterior torso,benign,,nevus,histopathology,,IL_7556111,,,,,,True,,IP_2325148,,male,,,,,,,,2592,1936
+5e95f320396583e25a5083ba,ISIC_1825673,55,lower extremity,benign,,,histopathology,,IL_6561760,,,,,,,,IP_2322991,,male,,,,,,,,640,480
+5e8f93024ad5f6bd588b1482,ISIC_1836410,75,posterior torso,benign,,nevus,histopathology,,IL_5759748,,,,,,True,,IP_4070933,,male,,,,,,,,5184,3456
+5e81034474440928c0be0757,ISIC_1836687,45,upper extremity,benign,,nevus,histopathology,,IL_6128246,,,,,,True,,IP_3358218,,female,,,,,,,,2592,1936
+5e95f349396583e25a50872c,ISIC_1837609,65,lower extremity,benign,,,histopathology,,IL_5967662,,,,,,,,IP_9115451,,male,,,,,,,,640,480
+5e80fc4274440928c0bdf6ad,ISIC_1845331,30,posterior torso,benign,,nevus,histopathology,,IL_3792738,,,,,,True,,IP_2676056,,female,,,,,,,,3264,2448
+5e8f906c4ad5f6bd588b0b59,ISIC_1852500,80,posterior torso,benign,,nevus,histopathology,,IL_5184255,,,,,,True,,IP_3557056,,male,,,,,,,,2375,2375
+5e81071274440928c0be1d22,ISIC_1859522,40,,benign,,nevus,histopathology,,IL_4874345,,,,,,True,,IP_9131123,,female,,,,,,,,3264,2448
+5e81062174440928c0be11ab,ISIC_1861580,65,upper extremity,benign,,nevus,histopathology,,IL_3149202,,,,,,True,,IP_2865063,,male,,,,,,,,3264,2448
+5e8106dd74440928c0be1b6f,ISIC_1867801,35,anterior torso,benign,,nevus,histopathology,,IL_0018440,,,,,,True,,IP_7313005,,male,,,,,,,,3264,2448
+5e95f345396583e25a5086cd,ISIC_1876943,50,lateral torso,benign,,,histopathology,,IL_0467700,,,,,,,,IP_0718832,,female,,,,,,,,1872,1053
+5e8fbc3f396583e25a50622b,ISIC_1884425,55,posterior torso,benign,,nevus,histopathology,,IL_4330511,,,,,,True,combined,IP_2921424,,male,,,,,,,,5184,3456
+5e8403932a5a4415fe695a78,ISIC_1887647,40,,benign,,nevus,histopathology,,IL_2475611,,,,,,True,,IP_3878510,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f376396583e25a508aee,ISIC_1888185,30,upper extremity,benign,,,histopathology,,IL_7738727,,,,,,,,IP_4387709,,male,,,,,,,,640,480
+5e81060474440928c0be0f2d,ISIC_1891515,70,anterior torso,benign,,nevus,histopathology,,IL_1222074,,,,,,True,,IP_6074542,,male,,,,,,,,3264,2448
+5e8f8f514ad5f6bd588b07bc,ISIC_1897507,75,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_2534895,,,,,,False,,IP_5111058,,male,,,,,,,,2317,2317
+5e8106a774440928c0be172a,ISIC_1897994,35,anterior torso,benign,,nevus,histopathology,,IL_1547241,,,,,,True,,IP_1005794,,female,,,,,,,,3264,2448
+5e95f38a396583e25a508cd1,ISIC_1901298,45,upper extremity,benign,,,histopathology,,IL_2019135,,,,,,,,IP_2962626,,female,,,,,,,,1872,1053
+5e8100b274440928c0be0319,ISIC_1918027,65,anterior torso,benign,,nevus,histopathology,,IL_2950786,,,,,,True,,IP_4572846,,male,,,,,,,,2592,1936
+5e95f288396583e25a507709,ISIC_1927418,65,posterior torso,benign,,,histopathology,,IL_8747506,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e81007674440928c0bdff46,ISIC_1929320,25,posterior torso,benign,,nevus,histopathology,,IL_7989575,,,,,,True,,IP_3782995,,female,,,,,,,,3264,2448
+5e8106d374440928c0be1aa8,ISIC_1932488,40,posterior torso,benign,,nevus,histopathology,,IL_4651898,,,,,,True,,IP_4576977,,male,,,,,,,,2592,1936
+5e95f251396583e25a5072ca,ISIC_1950847,40,upper extremity,benign,,,histopathology,,IL_5939645,,,,,,,,IP_3089004,,female,,,,,,,,640,480
+5e8106d774440928c0be1af8,ISIC_1965344,60,upper extremity,benign,,nevus,histopathology,,IL_5146474,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e8107f874440928c0be2a43,ISIC_1973815,60,posterior torso,benign,,nevus,histopathology,,IL_1481893,,,,,,True,,IP_2732171,,male,,,,,,,,4288,2848
+5e8f970f4ad5f6bd588b1f7d,ISIC_1979473,40,lower extremity,benign,,nevus,histopathology,,IL_4915302,,,,,,True,pigmented spindle cell of reed,IP_9156695,,female,,,,,,,,4032,3024
+5e8106e474440928c0be1c12,ISIC_2012388,60,anterior torso,benign,,nevus,histopathology,,IL_0802384,,,,,,True,,IP_9056338,,male,,,,,,,,3264,2448
+5e81066574440928c0be14a7,ISIC_2024384,55,posterior torso,benign,,nevus,histopathology,,IL_3300680,,,,,,True,,IP_7330399,,female,,,,,,,,6000,4000
+5e95f32e396583e25a5084d5,ISIC_2027840,40,upper extremity,benign,,,histopathology,,IL_4110167,,,,,,,,IP_9644948,,female,,,,,,,,1872,1053
+5e80fbce74440928c0bdf18c,ISIC_2033980,25,posterior torso,benign,,nevus,histopathology,,IL_6408088,,,,,,True,,IP_7685109,,female,,,,,,,,3264,2448
+5e81066b74440928c0be151a,ISIC_2041385,55,upper extremity,benign,,nevus,histopathology,,IL_9827738,,,,,,True,,IP_0175414,,male,,,,,,,,5184,3456
+5e81062174440928c0be11a6,ISIC_2053045,60,posterior torso,benign,,nevus,histopathology,,IL_5273669,,,,,,True,,IP_2865063,,male,,,,,,,,2592,1936
+5e81064e74440928c0be129e,ISIC_2057990,50,anterior torso,benign,,nevus,histopathology,,IL_0190987,,,,,,True,,IP_5766574,,female,,,,,,,,3264,2448
+5e81076d74440928c0be21e1,ISIC_2071418,80,lower extremity,benign,,nevus,histopathology,,IL_3825511,,,,,,True,,IP_8154616,,female,,,,,,,,2592,1936
+5e81065b74440928c0be13bd,ISIC_2073666,45,posterior torso,benign,,nevus,histopathology,,IL_5963825,,,,,,True,,IP_2900789,,female,,,,,,,,2592,1936
+5e81066a74440928c0be150d,ISIC_2086525,60,upper extremity,benign,,nevus,histopathology,,IL_6272891,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e81077974440928c0be22da,ISIC_2093167,55,posterior torso,benign,,nevus,histopathology,,IL_8042752,,,,,,True,,IP_8233849,,male,,,,,,,,3264,2448
+5e95f2ee396583e25a507fc0,ISIC_2093604,45,palms/soles,benign,,,histopathology,,IL_9617033,,,,,,,,IP_7779275,,female,,,,,,,,1872,1053
+5e8faeeb396583e25a50547f,ISIC_2102371,55,posterior torso,benign,,nevus,histopathology,,IL_4604928,,,,,,True,combined,IP_0038436,,male,,,,,,,,1991,1991
+5e81066274440928c0be1459,ISIC_2111943,30,posterior torso,benign,,nevus,histopathology,,IL_0212205,,,,,,True,,IP_2321962,,female,,,,,,,,3264,2448
+5e81078974440928c0be242e,ISIC_2139387,45,anterior torso,benign,,nevus,histopathology,,IL_5175040,,,,,,True,,IP_4700615,,male,,,,,,,,4288,2848
+5e8f93824ad5f6bd588b16ed,ISIC_2140099,75,head/neck,benign,,seborrheic keratosis,histopathology,,IL_1070494,,,,,,False,,IP_5111058,,male,,,,,,,,2317,2317
+5e8fb8e1396583e25a505f12,ISIC_2145640,45,lower extremity,benign,,nevus,histopathology,,IL_1109081,,,,,,True,combined,IP_0603175,,male,,,,,,,,1755,1755
+5e8106e674440928c0be1c26,ISIC_2150997,65,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_7091591,,,,,,False,,IP_2881084,,female,,,,,,,,4288,2848
+5e80fc5b74440928c0bdf895,ISIC_2154275,65,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_4494203,,,,,,False,,IP_6512345,,male,,,,,,,,2592,1936
+5e8f8fc94ad5f6bd588b092e,ISIC_2172532,45,lower extremity,benign,,nevus,histopathology,,IL_8912897,,,,,,True,combined,IP_3473819,,female,,,,,,,,5184,3456
+5e81060e74440928c0be100f,ISIC_2172628,30,head/neck,benign,,nevus,histopathology,,IL_1897039,,,,,,True,,IP_6960402,,female,,,,,,,,4288,2848
+5e8f8f894ad5f6bd588b086c,ISIC_2195832,50,posterior torso,benign,,nevus,histopathology,,IL_1039936,,,,,,True,combined,IP_3293337,,male,,,,,,,,4032,3024
+5e80f88d74440928c0bdec5c,ISIC_2199969,70,upper extremity,benign,,nevus,histopathology,,IL_8942455,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e8f9b3f4ad5f6bd588b212a,ISIC_2203306,40,anterior torso,benign,,nevus,histopathology,,IL_0843898,,,,,,True,,IP_9156695,,female,,,,,,,,4032,3024
+5e8f8fc24ad5f6bd588b0900,ISIC_2205007,65,lower extremity,benign,,lentigo NOS,histopathology,,IL_9115430,,,,,,True,,IP_9000452,,female,,,,,,,,1773,1773
+5e80f88d74440928c0bdec67,ISIC_2211136,70,lower extremity,benign,,nevus,histopathology,,IL_6949784,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e80fc9f74440928c0bdfae8,ISIC_2222091,50,posterior torso,benign,,nevus,histopathology,,IL_0494014,,,,,,True,,IP_1672532,,male,,,,,,,,2592,1936
+5e8106cb74440928c0be19fc,ISIC_2244719,30,anterior torso,benign,,nevus,histopathology,,IL_8315428,,,,,,True,,IP_0065733,,female,,,,,,,,3264,2448
+5e8fb190396583e25a50576c,ISIC_2246150,75,lower extremity,benign,,nevus,histopathology,,IL_3445601,,,,,,True,,IP_4070933,,male,,,,,,,,5184,3456
+5e81032a74440928c0be0566,ISIC_2267276,25,anterior torso,benign,,nevus,histopathology,,IL_3239665,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e8106cc74440928c0be1a1b,ISIC_2269075,40,anterior torso,benign,,nevus,histopathology,,IL_3584711,,,,,,True,,IP_8011614,,female,,,,,,,,3264,2448
+5e81008074440928c0bdfff1,ISIC_2283151,55,,benign,,lichenoid keratosis,histopathology,,IL_7972059,,,,,,False,,IP_0400168,,female,,,,,,,,4288,2848
+5e95f2af396583e25a507a7b,ISIC_2284769,70,upper extremity,benign,,,histopathology,,IL_9545607,,,,,,,,IP_4116267,,female,,,,,,,,1872,1053
+5e81009f74440928c0be01c7,ISIC_2285264,75,anterior torso,benign,,nevus,histopathology,,IL_8949340,,,,,,True,,IP_2102792,,female,,,,,,,,4288,2848
+5e81072874440928c0be1f09,ISIC_2294843,45,anterior torso,benign,,nevus,histopathology,,IL_2352005,,,,,,True,,IP_3755407,,male,,,,,,,,6000,4000
+5e8107e674440928c0be28e7,ISIC_2329722,35,posterior torso,benign,,nevus,histopathology,,IL_2234876,,,,,,True,,IP_6944941,,male,,,,,,,,2592,1936
+5e95f382396583e25a508c14,ISIC_2344492,60,upper extremity,benign,,,histopathology,,IL_2289123,,,,,,,,IP_8326844,,female,,,,,,,,640,480
+5e81065e74440928c0be140d,ISIC_2347774,50,anterior torso,benign,,nevus,histopathology,,IL_4801400,,,,,,True,,IP_3713422,,male,,,,,,,,6000,4000
+5e8faeea396583e25a505476,ISIC_2350747,55,lower extremity,benign,,nevus,histopathology,,IL_7858793,,,,,,True,,IP_5033731,,female,,,,,,,,5184,3456
+5e8106aa74440928c0be1777,ISIC_2352598,30,anterior torso,benign,,nevus,histopathology,,IL_0561246,,,,,,True,,IP_9463965,,female,,,,,,,,6000,4000
+5e95f330396583e25a5084f8,ISIC_2358170,30,lower extremity,benign,,,histopathology,,IL_3050074,,,,,,,,IP_7997841,,male,,,,,,,,640,480
+5e81071074440928c0be1cf7,ISIC_2365917,60,lower extremity,benign,,lentigo NOS,histopathology,,IL_6426323,,,,,,True,,IP_4702665,,female,,,,,,,,4288,2848
+5e8fb3f3396583e25a50584f,ISIC_2371734,50,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_7037202,,,,,,False,,IP_5096590,,female,,,,,,,,5184,3456
+5e81032a74440928c0be0570,ISIC_2377804,25,anterior torso,benign,,nevus,histopathology,,IL_8445805,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e8106a974440928c0be1763,ISIC_2385847,30,anterior torso,benign,,nevus,histopathology,,IL_3446985,,,,,,True,,IP_9463965,,female,,,,,,,,3264,2448
+5e81061374440928c0be107f,ISIC_2397373,30,head/neck,benign,,nevus,histopathology,,IL_1580505,,,,,,True,,IP_1568923,,female,,,,,,,,2592,1936
+5e8fa2a410344ce85ea8e564,ISIC_2400515,60,upper extremity,benign,,nevus,histopathology,,IL_2667512,,,,,,True,combined,IP_8687520,,male,,,,,,,,5184,3456
+5e8fb401396583e25a5058da,ISIC_2409103,70,posterior torso,benign,,nevus,histopathology,,IL_9280328,,,,,,True,,IP_9952683,,male,,,,,,,,5184,3456
+5e8402bc2a5a4415fe69578a,ISIC_2412426,45,,benign,,nevus,histopathology,,IL_0616155,,,,,,True,,IP_2238880,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f92214ad5f6bd588b116d,ISIC_2428554,35,anterior torso,benign,,nevus,histopathology,,IL_7401070,,,,,,True,,IP_1476317,,female,,,,,,,,3888,2592
+5e95f1fa396583e25a506bb5,ISIC_2443367,70,posterior torso,benign,,,histopathology,,IL_6619750,,,,,,,,IP_4391034,,female,,,,,,,,1872,1053
+5e80fbdd74440928c0bdf29e,ISIC_2450662,60,posterior torso,benign,,nevus,histopathology,,IL_6243577,,,,,,True,,IP_1652699,,male,,,,,,,,3264,2448
+5e80fc3574440928c0bdf5b9,ISIC_2466295,25,posterior torso,benign,,nevus,histopathology,,IL_3164285,,,,,,True,,IP_8839187,,male,,,,,,,,3264,2448
+5e80fc6b74440928c0bdf9a2,ISIC_2474275,60,posterior torso,benign,,nevus,histopathology,,IL_8939619,,,,,,True,,IP_7890415,,male,,,,,,,,3264,2448
+5e8106e074440928c0be1bc4,ISIC_2474406,40,anterior torso,benign,,nevus,histopathology,,IL_0190486,,,,,,True,,IP_3658607,,male,,,,,,,,3264,2448
+5e81073f74440928c0be20e3,ISIC_2479346,30,posterior torso,benign,,nevus,histopathology,,IL_2193867,,,,,,True,,IP_0989858,,female,,,,,,,,2592,1936
+5e95f30d396583e25a50826a,ISIC_2482061,40,upper extremity,benign,,,histopathology,,IL_2906463,,,,,,,,IP_1512731,,male,,,,,,,,1872,1053
+5e81078074440928c0be236f,ISIC_2488468,45,oral/genital,benign,,seborrheic keratosis,histopathology,,IL_0172030,,,,,,False,,IP_9042814,,male,,,,,,,,3264,2448
+5e8107ed74440928c0be295f,ISIC_2492245,65,lower extremity,benign,,nevus,histopathology,,IL_3671049,,,,,,True,,IP_1264754,,female,,,,,,,,2848,4288
+5e81064d74440928c0be1289,ISIC_2502377,50,upper extremity,benign,,nevus,histopathology,,IL_7735941,,,,,,True,,IP_5766574,,female,,,,,,,,3264,2448
+5e81060574440928c0be0f49,ISIC_2509046,35,,benign,,nevus,histopathology,,IL_0761793,,,,,,True,blue,IP_9486050,,male,,,,,,,,3264,2448
+5e81066a74440928c0be150f,ISIC_2529848,60,posterior torso,benign,,nevus,histopathology,,IL_5487536,,,,,,True,,IP_0175414,,male,,,,,,,,2592,1936
+5e95f222396583e25a506f20,ISIC_2538571,70,posterior torso,benign,,,histopathology,,IL_4988653,,,,,,,,IP_9115451,,male,,,,,,,,1872,1053
+5e95f387396583e25a508c83,ISIC_2545299,30,upper extremity,benign,,,histopathology,,IL_0347796,,,,,,,,IP_4208266,,female,,,,,,,,1872,1053
+5e81034674440928c0be078a,ISIC_2559545,45,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_9745915,,,,,,False,,IP_9461058,,female,,,,,,,,2592,1936
+5e80fc4c74440928c0bdf77e,ISIC_2573712,35,posterior torso,benign,,nevus,histopathology,,IL_3424095,,,,,,True,,IP_8124898,,male,,,,,,,,4288,2848
+5e95f2ff396583e25a50811e,ISIC_2579675,30,lateral torso,benign,,,histopathology,,IL_3592149,,,,,,,,IP_4681183,,male,,,,,,,,640,480
+5e95f2c6396583e25a507c5d,ISIC_2592956,35,anterior torso,benign,,,histopathology,,IL_3581205,,,,,,,,IP_3089004,,female,,,,,,,,640,480
+5e80fc4474440928c0bdf6cd,ISIC_2597678,60,upper extremity,benign,,nevus,histopathology,,IL_2672374,,,,,,True,,IP_6459335,,male,,,,,,,,4288,2848
+5e81032c74440928c0be0596,ISIC_2601107,40,lower extremity,benign,,nevus,histopathology,,IL_1914300,,,,,,True,,IP_4897162,,female,,,,,,,,2592,1936
+5e95f311396583e25a5082c3,ISIC_2601943,50,lower extremity,benign,,,histopathology,,IL_4702679,,,,,,,,IP_2809878,,female,,,,,,,,1872,1053
+5e80fbf674440928c0bdf45d,ISIC_2602794,35,posterior torso,benign,,nevus,histopathology,,IL_3528134,,,,,,True,,IP_4645992,,male,,,,,,,,3264,2448
+5e80fbfb74440928c0bdf4b6,ISIC_2605118,35,posterior torso,benign,,nevus,histopathology,,IL_0583464,,,,,,True,,IP_5974691,,female,,,,,,,,2592,1936
+5e8f8dee4ad5f6bd588b02c4,ISIC_2623707,30,upper extremity,benign,,nevus,histopathology,,IL_8240956,,,,,,True,combined,IP_3662918,,female,,,,,,,,1741,1741
+5e8106d674440928c0be1aec,ISIC_2641026,60,upper extremity,benign,,nevus,histopathology,,IL_7012798,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e81032374440928c0be04e0,ISIC_2647453,40,posterior torso,benign,,nevus,histopathology,,IL_6994795,,,,,,True,,IP_4409916,,female,,,,,,,,6000,4000
+5e95f1c0396583e25a506714,ISIC_2665039,20,anterior torso,benign,,,histopathology,,IL_1479753,,,,,,,,IP_4314793,,female,,,,,,,,1872,1053
+5e80fc9e74440928c0bdfad7,ISIC_2683271,50,lower extremity,benign,,nevus,histopathology,,IL_3692442,,,,,,True,,IP_9164625,,female,,,,,,,,3264,2448
+5e8f8f0a4ad5f6bd588b06c8,ISIC_2685681,75,posterior torso,benign,,nevus,histopathology,,IL_0297331,,,,,,True,combined,IP_2986217,,male,,,,,,,,5184,3456
+5e81078374440928c0be23b2,ISIC_2687175,25,lower extremity,benign,,nevus,histopathology,,IL_9266663,,,,,,True,,IP_5152468,,female,,,,,,,,3264,2448
+5e8f95894ad5f6bd588b1db1,ISIC_2697910,55,lower extremity,benign,,nevus,histopathology,,IL_8572735,,,,,,True,,IP_2277890,,male,,,,,,,,1781,1781
+5e81031674440928c0be03f3,ISIC_2704082,35,upper extremity,benign,,nevus,histopathology,,IL_7050532,,,,,,True,spitz,IP_2147407,,female,,,,,,,,3264,2448
+5e80fbdb74440928c0bdf285,ISIC_2710887,70,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_3104912,,,,,,False,,IP_5357759,,female,,,,,,,,3264,2448
+5e8105ab74440928c0be0ab3,ISIC_2727016,50,upper extremity,benign,,nevus,histopathology,,IL_6922332,,,,,,True,,IP_7386073,,male,,,,,,,,4288,2848
+5e8105c674440928c0be0cfd,ISIC_2736340,50,anterior torso,benign,,nevus,histopathology,,IL_3428268,,,,,,True,,IP_2422802,,male,,,,,,,,4288,2848
+5e81061c74440928c0be1143,ISIC_2738630,40,posterior torso,benign,,nevus,histopathology,,IL_2625854,,,,,,True,,IP_0963996,,female,,,,,,,,3264,2448
+5e81066b74440928c0be1528,ISIC_2741716,60,upper extremity,benign,,nevus,histopathology,,IL_4998999,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e8faa19396583e25a50512a,ISIC_2743708,70,lower extremity,benign,,nevus,histopathology,,IL_0808489,,,,,,True,,IP_7490585,,male,,,,,,,,5184,3456
+5e81008474440928c0be002f,ISIC_2752919,35,posterior torso,benign,,nevus,histopathology,,IL_0790445,,,,,,True,,IP_9513376,,male,,,,,,,,3264,2448
+5e80fbef74440928c0bdf3ef,ISIC_2753279,40,lower extremity,benign,,nevus,histopathology,,IL_0588255,,,,,,True,,IP_9865971,,female,,,,,,,,3264,2448
+5e95f2e6396583e25a507f2d,ISIC_2757957,75,lower extremity,benign,,,histopathology,,IL_7138204,,,,,,,,IP_9115451,,male,,,,,,,,1872,1053
+5e95f30c396583e25a50825b,ISIC_2761471,35,head/neck,benign,,,histopathology,,IL_0712142,,,,,,,,IP_4208266,,female,,,,,,,,1872,1053
+5e80fbe974440928c0bdf38b,ISIC_2761622,45,upper extremity,benign,,nevus,histopathology,,IL_2059293,,,,,,True,,IP_9212266,,female,,,,,,,,4288,2848
+5e81077874440928c0be22c6,ISIC_2768800,40,head/neck,benign,,nevus,histopathology,,IL_4546196,,,,,,True,,IP_1525623,,female,,,,,,,,2592,1936
+5e81059774440928c0be090c,ISIC_2781088,60,upper extremity,benign,,nevus,histopathology,,IL_7576750,,,,,,True,,IP_7373371,,female,,,,,,,,2592,1936
+5e80fc0174440928c0bdf52c,ISIC_2790630,45,lower extremity,benign,,nevus,histopathology,,IL_1184711,,,,,,True,,IP_7772951,,male,,,,,,,,2592,1936
+5e81071c74440928c0be1e02,ISIC_2793989,35,anterior torso,benign,,nevus,histopathology,,IL_9733324,,,,,,True,,IP_6078411,,male,,,,,,,,2592,1936
+5e95f1c5396583e25a506772,ISIC_2796461,55,head/neck,benign,,,histopathology,,IL_2716676,,,,,,,,IP_2809878,,female,,,,,,,,1872,1053
+5e80fbf074440928c0bdf3f1,ISIC_2798100,40,,benign,,nevus,histopathology,,IL_6193028,,,,,,True,,IP_9865971,,female,,,,,,,,3264,2448
+5e80fcc274440928c0bdfd5c,ISIC_2798950,25,anterior torso,benign,,nevus,histopathology,,IL_9317453,,,,,,True,,IP_1152723,,male,,,,,,,,3264,2448
+5e80f88e74440928c0bdec72,ISIC_2803072,50,posterior torso,benign,,nevus,histopathology,,IL_4404196,,,,,,True,,IP_8986063,,male,,,,,,,,3264,2448
+5e80f88374440928c0bdeb93,ISIC_2811886,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_9357486,,,,,,False,,IP_4745288,,male,,,,,,,,3264,2448
+5e95f298396583e25a50786c,ISIC_2834840,35,head/neck,benign,,,histopathology,,IL_3729776,,,,,,,,IP_7702038,,male,,,,,,,,640,480
+5e8fa2ad10344ce85ea8e5ba,ISIC_2838960,55,lower extremity,benign,,nevus,histopathology,,IL_1270539,,,,,,True,,IP_0038436,,male,,,,,,,,5184,3456
+5e8106be74440928c0be18ed,ISIC_2841861,60,posterior torso,benign,,nevus,histopathology,,IL_9631099,,,,,,True,,IP_6814066,,male,,,,,,,,3264,2448
+5e8fb3f4396583e25a50585d,ISIC_2846402,40,head/neck,benign,,nevus,histopathology,,IL_3794442,,,,,,True,combined,IP_9669483,,female,,,,,,,,5184,3456
+5e81079f74440928c0be25f8,ISIC_2854416,25,posterior torso,benign,,nevus,histopathology,,IL_6560074,,,,,,True,,IP_1522453,,female,,,,,,,,3264,2448
+5e8106d674440928c0be1ae7,ISIC_2876194,60,lateral torso,benign,,nevus,histopathology,,IL_1183960,,,,,,True,,IP_7753447,,male,,,,,,,,6000,4000
+5e80fca374440928c0bdfb34,ISIC_2885968,25,upper extremity,benign,,nevus,histopathology,,IL_4808647,,,,,,True,,IP_7688774,,female,,,,,,,,3264,2448
+5e81066a74440928c0be1512,ISIC_2901680,60,lower extremity,benign,,nevus,histopathology,,IL_4045990,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e80fca874440928c0bdfb90,ISIC_2902504,50,lower extremity,benign,,nevus,histopathology,,IL_9085122,,,,,,True,,IP_9563768,,female,,,,,,,,3264,2448
+5e8f957d4ad5f6bd588b1d45,ISIC_2903756,45,posterior torso,benign,,nevus,histopathology,,IL_0398260,,,,,,True,,IP_3752129,,male,,,,,,,,4032,3024
+5e95f378396583e25a508b1e,ISIC_2904067,85,lower extremity,benign,,,histopathology,,IL_0411904,,,,,,,,IP_6648913,,female,,,,,,,,1872,1053
+5e95f33d396583e25a508619,ISIC_2918117,80,posterior torso,benign,,,histopathology,,IL_4145759,,,,,,,,IP_6292815,,female,,,,,,,,1872,1053
+5e8402622a5a4415fe694f48,ISIC_2921679,40,,benign,,nevus,histopathology,,IL_1097761,,,,,,True,,IP_2610032,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81009774440928c0be0165,ISIC_2922381,50,lower extremity,benign,,nevus,histopathology,,IL_4655799,,,,,,True,,IP_6331820,,female,,,,,,,,2592,1936
+5e81032874440928c0be0546,ISIC_2943089,30,anterior torso,benign,,nevus,histopathology,,IL_5593819,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e81059774440928c0be091b,ISIC_2947742,55,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_7930754,,,,,,False,,IP_7373371,,female,,,,,,,,2592,1936
+5e80fcbf74440928c0bdfd2a,ISIC_2949131,30,posterior torso,benign,,nevus,histopathology,,IL_1351278,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e80fc6a74440928c0bdf996,ISIC_2951492,60,anterior torso,benign,,nevus,histopathology,,IL_2963564,,,,,,True,,IP_7890415,,male,,,,,,,,3264,2448
+5e80fbca74440928c0bdf142,ISIC_2956783,80,upper extremity,benign,,lichenoid keratosis,histopathology,,IL_3885611,,,,,,False,,IP_7946279,,female,,,,,,,,3264,2448
+5e8105f674440928c0be0e01,ISIC_2983437,40,upper extremity,benign,,nevus,histopathology,,IL_0214960,,,,,,True,,IP_4842370,,female,,,,,,,,2592,1936
+5e95f27d396583e25a507622,ISIC_2985322,45,lower extremity,benign,,,histopathology,,IL_5511402,,,,,,,,IP_4926060,,male,,,,,,,,640,480
+5e8402782a5a4415fe695150,ISIC_2985724,60,lower extremity,benign,,nevus,histopathology,,IL_4239962,,,,,,True,,IP_9856163,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e8106d674440928c0be1add,ISIC_2985753,55,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_3243118,,,,,,False,,IP_6833889,,male,,,,,,,,3264,2448
+5e8107ee74440928c0be2982,ISIC_2988993,50,posterior torso,benign,,nevus,histopathology,,IL_8255250,,,,,,True,,IP_1705144,,female,,,,,,,,3264,2448
+5e81074074440928c0be2108,ISIC_2996964,20,anterior torso,benign,,nevus,histopathology,,IL_4661776,,,,,,True,,IP_0347699,,male,,,,,,,,3264,2448
+5e95f305396583e25a5081b1,ISIC_3005651,60,anterior torso,benign,,,histopathology,,IL_1737772,,,,,,,,IP_8019632,,female,,,,,,,,1872,1053
+5e8106d274440928c0be1a86,ISIC_3012778,55,posterior torso,benign,,nevus,histopathology,,IL_5581469,,,,,,True,,IP_7207550,,male,,,,,,,,3264,2448
+5e81078974440928c0be242a,ISIC_3026023,45,anterior torso,benign,,nevus,histopathology,,IL_8344197,,,,,,True,,IP_4700615,,male,,,,,,,,4288,2848
+5e95f33c396583e25a508612,ISIC_3027400,45,anterior torso,benign,,,histopathology,,IL_9631164,,,,,,,,IP_0148558,,female,,,,,,,,1872,1053
+5e8107c874440928c0be268c,ISIC_3047981,60,head/neck,benign,,seborrheic keratosis,histopathology,,IL_2811931,,,,,,False,,IP_9147830,,male,,,,,,,,2592,1936
+5e95f1fe396583e25a506c0f,ISIC_3063260,30,upper extremity,benign,,,histopathology,,IL_7924307,,,,,,,,IP_5474292,,male,,,,,,,,640,480
+5e80f88d74440928c0bdec55,ISIC_3065175,45,lower extremity,benign,,nevus,histopathology,,IL_9800532,,,,,,True,,IP_7130762,,female,,,,,,,,3264,2448
+5e80fc3774440928c0bdf5da,ISIC_3069511,30,posterior torso,benign,,nevus,histopathology,,IL_7849673,,,,,,True,,IP_8839187,,male,,,,,,,,3264,2448
+5e80fbdf74440928c0bdf2cf,ISIC_3073605,50,,benign,,nevus,histopathology,,IL_4837547,,,,,,True,,IP_6631780,,female,,,,,,,,3264,2448
+5e8f970f4ad5f6bd588b1f78,ISIC_3087371,45,posterior torso,benign,,nevus,histopathology,,IL_5407737,,,,,,True,combined,IP_7576319,,female,,,,,,,,5184,3456
+5e8f94534ad5f6bd588b18f8,ISIC_3097899,55,posterior torso,benign,,cafe-au-lait macule,histopathology,,IL_5246735,,,,,,False,,IP_0491775,,male,,,,,,,,5184,3456
+5e95f2c7396583e25a507c66,ISIC_3105703,75,posterior torso,benign,,,histopathology,,IL_0962110,,,,,,,,IP_4116267,,female,,,,,,,,1872,1053
+5e80fc7574440928c0bdfa63,ISIC_3116777,55,upper extremity,benign,,lentigo NOS,histopathology,,IL_1603872,,,,,,True,,IP_7375528,,female,,,,,,,,2592,1936
+5e81061874440928c0be10e8,ISIC_3117505,25,anterior torso,benign,,nevus,histopathology,,IL_1939851,,,,,,True,,IP_6868151,,male,,,,,,,,4288,2848
+5e80fbe074440928c0bdf2d7,ISIC_3143650,45,head/neck,benign,,seborrheic keratosis,histopathology,,IL_8837087,,,,,,False,,IP_6631780,,female,,,,,,,,4288,2848
+5e8106c274440928c0be1938,ISIC_3145600,50,posterior torso,benign,,nevus,histopathology,,IL_1118728,,,,,,True,,IP_6526534,,male,,,,,,,,3264,2448
+5e81033674440928c0be064b,ISIC_3157385,25,posterior torso,benign,,nevus,histopathology,,IL_4312790,,,,,,True,,IP_6889672,,male,,,,,,,,2592,1936
+5e81032974440928c0be055e,ISIC_3160291,25,anterior torso,benign,,nevus,histopathology,,IL_9360675,,,,,,True,,IP_4938382,,female,,,,,,,,6000,4000
+5e80fc4c74440928c0bdf770,ISIC_3161358,55,lower extremity,benign,,nevus,histopathology,,IL_0939893,,,,,,True,spitz,IP_8673016,,female,,,,,,,,3264,2448
+5e80fc3874440928c0bdf5e8,ISIC_3167092,65,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_3844160,,,,,,False,,IP_4772390,,male,,,,,,,,3264,2448
+5e95f313396583e25a5082f9,ISIC_3167315,80,lower extremity,benign,,,histopathology,,IL_9156794,,,,,,,,IP_5370714,,female,,,,,,,,640,480
+5e84028e2a5a4415fe69533c,ISIC_3176566,55,upper extremity,benign,,nevus,histopathology,,IL_5395147,,,,,,True,,IP_2987599,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81066374440928c0be1476,ISIC_3199719,55,lower extremity,benign,,nevus,histopathology,,IL_1609115,,,,,,True,,IP_6026359,,male,,,,,,,,2592,1936
+5e8106dc74440928c0be1b59,ISIC_3210830,40,lower extremity,benign,,nevus,histopathology,,IL_2198075,,,,,,True,,IP_9245079,,male,,,,,,,,6000,4000
+5e8100a274440928c0be01f5,ISIC_3213484,25,posterior torso,benign,,nevus,histopathology,,IL_7486647,,,,,,True,,IP_6331798,,female,,,,,,,,3264,2448
+5e8403c22a5a4415fe695ec8,ISIC_3249158,35,lower extremity,benign,,nevus,histopathology,,IL_2852986,,,,,,True,,IP_0393526,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fc5a74440928c0bdf880,ISIC_3251405,45,posterior torso,benign,,nevus,histopathology,,IL_9424355,,,,,,True,,IP_7946270,,male,,,,,,,,3264,2448
+5e95f342396583e25a50868a,ISIC_3255182,60,upper extremity,benign,,,histopathology,,IL_2325349,,,,,,,,IP_7644786,,female,,,,,,,,1872,1053
+5e8107d274440928c0be275b,ISIC_3257455,50,anterior torso,benign,,nevus,histopathology,,IL_0917040,,,,,,True,,IP_7132551,,male,,,,,,,,6000,4000
+5e8106ca74440928c0be19ed,ISIC_3264605,35,upper extremity,benign,,nevus,histopathology,,IL_3930212,,,,,,True,,IP_0065733,,female,,,,,,,,3264,2448
+5e80fbe174440928c0bdf2e8,ISIC_3285892,35,anterior torso,benign,,nevus,histopathology,,IL_7047322,,,,,,True,,IP_0039318,,male,,,,,,,,6000,4000
+5e81079574440928c0be2522,ISIC_3286597,45,anterior torso,benign,,nevus,histopathology,,IL_9999795,,,,,,True,,IP_7748972,,male,,,,,,,,4288,2848
+5e81008b74440928c0be00a8,ISIC_3310849,50,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_9880724,,,,,,False,,IP_3120589,,female,,,,,,,,2592,1936
+5e81072574440928c0be1ec0,ISIC_3310898,40,posterior torso,benign,,nevus,histopathology,,IL_1826202,,,,,,True,,IP_9086201,,female,,,,,,,,3264,2448
+5e8403be2a5a4415fe695e6e,ISIC_3331853,75,,benign,,nevus,histopathology,,IL_8827575,,,,,,True,,IP_0703787,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8105ed74440928c0be0d3e,ISIC_3373004,35,upper extremity,benign,,nevus,histopathology,,IL_4533848,,,,,,True,,IP_8513373,,male,,,,,,,,3264,2448
+5e80f8b374440928c0bdef09,ISIC_3384989,40,head/neck,benign,,seborrheic keratosis,histopathology,,IL_1901609,,,,,,False,,IP_1800426,,female,,,,,,,,3264,2448
+5e80f8a374440928c0bdede6,ISIC_3387713,45,posterior torso,benign,,nevus,histopathology,,IL_7581320,,,,,,True,,IP_5202455,,male,,,,,,,,3264,2448
+5e81065174440928c0be12eb,ISIC_3396790,30,upper extremity,benign,,nevus,histopathology,,IL_3342392,,,,,,True,,IP_8069409,,male,,,,,,,,2592,1936
+5e95f28b396583e25a50775b,ISIC_3401631,40,anterior torso,benign,,,histopathology,,IL_2359308,,,,,,,,IP_2584339,,male,,,,,,,,1872,1053
+5e80f89774440928c0bded20,ISIC_3402327,35,lower extremity,benign,,nevus,histopathology,,IL_1831868,,,,,,True,,IP_7491908,,male,,,,,,,,3264,2448
+5e81077174440928c0be2235,ISIC_3403329,45,head/neck,benign,,nevus,histopathology,,IL_0374243,,,,,,True,,IP_0135517,,female,,,,,,,,4288,2848
+5e95f2bc396583e25a507b88,ISIC_3407960,45,upper extremity,benign,,,histopathology,,IL_3046893,,,,,,,,IP_8759634,,female,,,,,,,,1872,1053
+5e8107f874440928c0be2a42,ISIC_3409440,60,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_3108754,,,,,,False,,IP_2732171,,male,,,,,,,,3264,2448
+5e8105a074440928c0be09d7,ISIC_3416324,30,lower extremity,benign,,nevus,histopathology,,IL_2136019,,,,,,True,,IP_4137989,,female,,,,,,,,3264,2448
+5e8107d474440928c0be278e,ISIC_3417390,50,head/neck,benign,,lichenoid keratosis,histopathology,,IL_2107376,,,,,,False,,IP_9229871,,female,,,,,,,,4288,2848
+5e80fc6174440928c0bdf8fb,ISIC_3421141,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_4173570,,,,,,False,,IP_2860540,,male,,,,,,,,3264,2448
+5e80fc6674440928c0bdf963,ISIC_3428317,60,head/neck,benign,,nevus,histopathology,,IL_7987264,,,,,,True,,IP_4154441,,female,,,,,,,,4288,2848
+5e8402882a5a4415fe6952bc,ISIC_3428523,40,lower extremity,benign,,nevus,histopathology,,IL_7253707,,,,,,True,,IP_6764319,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f253396583e25a5072ec,ISIC_3430311,35,anterior torso,benign,,,histopathology,,IL_0374889,,,,,,,,IP_6977878,,male,,,,,,,,640,480
+5e81072574440928c0be1ec3,ISIC_3430492,40,head/neck,benign,,nevus,histopathology,,IL_2658595,,,,,,True,,IP_9086201,,female,,,,,,,,3264,2448
+5e81068074440928c0be16d7,ISIC_3432947,65,posterior torso,benign,,nevus,histopathology,,IL_7875828,,,,,,True,,IP_5517026,,male,,,,,,,,2592,1936
+5e80f89474440928c0bdecef,ISIC_3445801,60,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_9154935,,,,,,False,,IP_8915476,,female,,,,,,,,3264,2448
+5e81008074440928c0bdfff5,ISIC_3450029,60,posterior torso,benign,,nevus,histopathology,,IL_3132913,,,,,,True,,IP_0400168,,female,,,,,,,,2592,1936
+5e8f929d4ad5f6bd588b1325,ISIC_3451688,50,lower extremity,benign,,nevus,histopathology,,IL_7860742,,,,,,True,combined,IP_0690987,,male,,,,,,,,1773,1773
+5e8107df74440928c0be2865,ISIC_3456094,50,lower extremity,benign,,nevus,histopathology,,IL_5806241,,,,,,True,,IP_0934857,,female,,,,,,,,3264,2448
+5e8f8f834ad5f6bd588b083b,ISIC_3456207,50,upper extremity,benign,,nevus,histopathology,,IL_7837996,,,,,,True,combined,IP_3729342,,male,,,,,,,,5184,3456
+5e8403c12a5a4415fe695eae,ISIC_3460083,55,,benign,,nevus,histopathology,,IL_0792368,,,,,,True,,IP_7498456,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8f936f4ad5f6bd588b1639,ISIC_3465766,50,lower extremity,benign,,nevus,histopathology,,IL_4396150,,,,,,True,,IP_2898839,,male,,,,,,,,1775,1775
+5e95f214396583e25a506de2,ISIC_3483000,20,upper extremity,benign,,,histopathology,,IL_3249668,,,,,,,,IP_5064631,,male,,,,,,,,640,480
+5e80f8b874440928c0bdef5e,ISIC_3485981,45,lower extremity,benign,,nevus,histopathology,,IL_8765272,,,,,,True,,IP_2606884,,female,,,,,,,,2592,1936
+5e95f2f1396583e25a507ffa,ISIC_3486683,80,head/neck,benign,,,histopathology,,IL_5184380,,,,,,,,IP_6292815,,female,,,,,,,,1872,1053
+5e81059d74440928c0be0993,ISIC_3519747,40,anterior torso,benign,,nevus,histopathology,,IL_3704150,,,,,,True,,IP_2850771,,male,,,,,,,,3264,2448
+5e81060874440928c0be0f74,ISIC_3521251,65,posterior torso,benign,,nevus,histopathology,,IL_1789019,,,,,,True,,IP_2738587,,male,,,,,,,,4288,2848
+5e8f8f474ad5f6bd588b076c,ISIC_3521744,75,anterior torso,benign,,nevus,histopathology,,IL_3569854,,,,,,True,,IP_2963366,,male,,,,,,,,5184,3456
+5e8106ce74440928c0be1a3b,ISIC_3522554,75,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_1310078,,,,,,False,,IP_6006409,,female,,,,,,,,3264,2448
+5e95f314396583e25a508305,ISIC_3537571,45,posterior torso,benign,,,histopathology,,IL_6476585,,,,,,,,IP_7252102,,male,,,,,,,,1872,1053
+5e95f1e8396583e25a506a82,ISIC_3541663,40,anterior torso,benign,,,histopathology,,IL_9770202,,,,,,,,IP_1091619,,male,,,,,,,,1872,1053
+5e80fc3774440928c0bdf5e0,ISIC_3548408,40,head/neck,benign,,seborrheic keratosis,histopathology,,IL_2937921,,,,,,False,,IP_4427711,,female,,,,,,,,2592,1936
+5e8105b674440928c0be0ba1,ISIC_3575814,55,anterior torso,benign,,nevus,histopathology,,IL_7066150,,,,,,True,,IP_5424227,,female,,,,,,,,4288,2848
+5e8fa7da396583e25a505012,ISIC_3575926,70,anterior torso,benign,,nevus,histopathology,,IL_9736729,,,,,,True,combined,IP_8841455,,male,,,,,,,,1775,1775
+5e8107e074440928c0be2879,ISIC_3577410,75,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_8241675,,,,,,False,,IP_9329623,,male,,,,,,,,2592,1936
+5e80fcae74440928c0bdfbf4,ISIC_3586669,75,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_5658839,,,,,,False,,IP_1395856,,male,,,,,,,,2592,1936
+5e8f93d74ad5f6bd588b1741,ISIC_3587744,70,posterior torso,benign,,lentigo NOS,histopathology,,IL_3145197,,,,,,True,,IP_5917089,,male,,,,,,,,5184,3456
+5e95f275396583e25a507580,ISIC_3588908,45,lower extremity,benign,,,histopathology,,IL_4120393,,,,,,,,IP_1193890,,male,,,,,,,,640,480
+5e95f34c396583e25a508759,ISIC_3594774,20,upper extremity,benign,,,histopathology,,IL_8967211,,,,,,,,IP_4314793,,female,,,,,,,,1872,1053
+5e8107d874440928c0be27d5,ISIC_3597870,70,head/neck,benign,,nevus,histopathology,,IL_1250724,,,,,,True,,IP_7382179,,female,,,,,,,,3264,2448
+5e80fc6e74440928c0bdf9d8,ISIC_3603150,30,upper extremity,benign,,nevus,histopathology,,IL_2981940,,,,,,True,,IP_4248414,,male,,,,,,,,3264,2448
+5e80fc2f74440928c0bdf54b,ISIC_3608401,55,posterior torso,benign,,nevus,histopathology,,IL_8494066,,,,,,True,,IP_2107539,,male,,,,,,,,3264,2448
+5e8107c874440928c0be268e,ISIC_3610783,60,head/neck,benign,,seborrheic keratosis,histopathology,,IL_6134694,,,,,,False,,IP_9147830,,male,,,,,,,,2592,1936
+5e81031574440928c0be03d1,ISIC_3622055,45,anterior torso,benign,,nevus,histopathology,,IL_4954736,,,,,,True,,IP_1472634,,female,,,,,,,,3264,2448
+5e81073974440928c0be2066,ISIC_3624727,35,anterior torso,benign,,nevus,histopathology,,IL_8310265,,,,,,True,,IP_3200260,,female,,,,,,,,3264,2448
+5e95f356396583e25a508834,ISIC_3633306,40,upper extremity,benign,,,histopathology,,IL_6156131,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e81079b74440928c0be25a6,ISIC_3635644,50,posterior torso,benign,,nevus,histopathology,,IL_0443390,,,,,,True,,IP_2666042,,male,,,,,,,,3264,2448
+5e80fcbf74440928c0bdfd2f,ISIC_3636011,30,posterior torso,benign,,nevus,histopathology,,IL_7316888,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e8f90334ad5f6bd588b09d1,ISIC_3641730,70,posterior torso,benign,,nevus,histopathology,,IL_9119253,,,,,,True,combined,IP_3045056,,male,,,,,,,,2317,2317
+5e95f1be396583e25a5066e8,ISIC_3653733,70,lower extremity,benign,,,histopathology,,IL_5372548,,,,,,,,IP_9748593,,female,,,,,,,,1872,1053
+5e81078f74440928c0be24af,ISIC_3668276,70,posterior torso,benign,,nevus,histopathology,,IL_2886282,,,,,,True,,IP_0878241,,male,,,,,,,,3264,2448
+5e81009674440928c0be0154,ISIC_3669954,30,posterior torso,benign,,nevus,histopathology,,IL_2117797,,,,,,True,,IP_6945048,,male,,,,,,,,4288,2848
+5e8106d774440928c0be1afc,ISIC_3676029,60,palms/soles,benign,,nevus,histopathology,,IL_0448949,,,,,,True,,IP_7753447,,male,,,,,,,,2592,1936
+5e81062774440928c0be122f,ISIC_3689266,60,posterior torso,benign,,nevus,histopathology,,IL_5003625,,,,,,True,,IP_6261583,,female,,,,,,,,3264,2448
+5e81066f74440928c0be157b,ISIC_3698568,70,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_0020996,,,,,,False,,IP_6643545,,male,,,,,,,,2592,1936
+5e81078174440928c0be2382,ISIC_3701563,35,lower extremity,benign,,nevus,histopathology,,IL_3955786,,,,,,True,,IP_6134378,,male,,,,,,,,6000,4000
+5e8f93684ad5f6bd588b15fd,ISIC_3704157,50,posterior torso,benign,,nevus,histopathology,,IL_8236442,,,,,,True,combined,IP_3728091,,male,,,,,,,,6000,4000
+5e95f2ec396583e25a507f90,ISIC_3712234,45,upper extremity,benign,,,histopathology,,IL_0294900,,,,,,,,IP_0148558,,female,,,,,,,,1872,1053
+5e8105c574440928c0be0ce0,ISIC_3716686,35,posterior torso,benign,,nevus,histopathology,,IL_5173671,,,,,,True,,IP_1039996,,male,,,,,,,,3264,2448
+5e81031374440928c0be03ab,ISIC_3717102,25,posterior torso,benign,,nevus,histopathology,,IL_5211657,,,,,,True,,IP_1602525,,female,,,,,,,,3264,2448
+5e81031b74440928c0be0448,ISIC_3717977,40,upper extremity,benign,,nevus,histopathology,,IL_6703782,,,,,,True,,IP_9055249,,male,,,,,,,,2592,1936
+5e8106dc74440928c0be1b5a,ISIC_3729615,40,posterior torso,benign,,nevus,histopathology,,IL_2770773,,,,,,True,,IP_9245079,,male,,,,,,,,3264,2448
+5e80fca074440928c0bdfaf4,ISIC_3742633,25,posterior torso,benign,,nevus,histopathology,,IL_1075675,,,,,,True,,IP_6982571,,male,,,,,,,,6000,4000
+5e81059474440928c0be08d4,ISIC_3769211,45,,benign,,nevus,histopathology,,IL_1187997,,,,,,True,,IP_2661172,,female,,,,,,,,2592,1936
+5e95f34c396583e25a508767,ISIC_3783427,75,posterior torso,benign,,,histopathology,,IL_1346094,,,,,,,,IP_9718268,,female,,,,,,,,640,480
+5e95f36d396583e25a508a44,ISIC_3790692,20,anterior torso,benign,,,histopathology,,IL_6089650,,,,,,,,IP_1023029,,female,,,,,,,,640,480
+5e8f917d4ad5f6bd588b0ea9,ISIC_3795397,40,anterior torso,benign,,nevus,histopathology,,IL_7143678,,,,,,True,,IP_2947490,,male,,,,,,,,4032,3024
+5e95f257396583e25a507341,ISIC_3800373,60,lower extremity,benign,,,histopathology,,IL_6648118,,,,,,,,IP_0063782,,female,,,,,,,,640,480
+5e8f91f04ad5f6bd588b0fde,ISIC_3801938,70,posterior torso,benign,,nevus,histopathology,,IL_8478305,,,,,,True,combined,IP_5318792,,female,,,,,,,,2317,2317
+5e8105c574440928c0be0ce3,ISIC_3822815,35,posterior torso,benign,,nevus,histopathology,,IL_0455094,,,,,,True,,IP_1039996,,male,,,,,,,,3264,2448
+5e80f88e74440928c0bdec69,ISIC_3832462,70,upper extremity,benign,,nevus,histopathology,,IL_5030980,,,,,,True,blue,IP_7335423,,female,,,,,,,,3264,2448
+5e8402732a5a4415fe6950d2,ISIC_3848572,60,,benign,,nevus,histopathology,,IL_3382281,,,,,,True,,IP_9955501,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fcd374440928c0bdfeaa,ISIC_3875647,85,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_5549688,,,,,,False,,IP_6008814,,female,,,,,,,,2592,1936
+5e80fbde74440928c0bdf2be,ISIC_3877413,50,anterior torso,benign,,nevus,histopathology,,IL_6342183,,,,,,True,,IP_6538458,,female,,,,,,,,6000,4000
+5e80f8a574440928c0bdee0a,ISIC_3879564,45,,benign,,nevus,histopathology,,IL_7856733,,,,,,True,,IP_5202455,,male,,,,,,,,3264,2448
+5e80fcbc74440928c0bdfcec,ISIC_3884221,70,posterior torso,benign,,nevus,histopathology,,IL_1719054,,,,,,True,,IP_8302048,,male,,,,,,,,2592,1936
+5e81062274440928c0be11c7,ISIC_3885041,50,lower extremity,benign,,nevus,histopathology,,IL_9781505,,,,,,True,,IP_0423090,,female,,,,,,,,3264,2448
+5e80fc3774440928c0bdf5e3,ISIC_3895185,40,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_0534164,,,,,,False,,IP_4427711,,female,,,,,,,,2592,1936
+5e95f24f396583e25a50729e,ISIC_3910723,40,upper extremity,benign,,,histopathology,,IL_3385365,,,,,,,,IP_7785592,,male,,,,,,,,1872,1053
+5e80fc9e74440928c0bdface,ISIC_3919941,50,head/neck,benign,,nevus,histopathology,,IL_8011908,,,,,,True,,IP_9164625,,female,,,,,,,,3264,2448
+5e8106d174440928c0be1a6e,ISIC_3923764,55,anterior torso,benign,,nevus,histopathology,,IL_3199078,,,,,,True,,IP_7207550,,male,,,,,,,,2592,1936
+5e95f389396583e25a508cbc,ISIC_3926261,30,lower extremity,benign,,,histopathology,,IL_2603381,,,,,,,,IP_9927968,,male,,,,,,,,640,480
+5e95f2f7396583e25a508080,ISIC_3942947,30,posterior torso,benign,,,histopathology,,IL_3142007,,,,,,,,IP_5627853,,female,,,,,,,,1872,1053
+5e8f936c4ad5f6bd588b161e,ISIC_3947143,65,lower extremity,benign,,nevus,histopathology,,IL_5109949,,,,,,True,,IP_8650344,,male,,,,,,,,4032,3024
+5e95f1d5396583e25a5068a4,ISIC_3962359,50,upper extremity,benign,,,histopathology,,IL_8974722,,,,,,,,IP_8171851,,female,,,,,,,,640,480
+5e81073474440928c0be1fff,ISIC_3964848,50,lower extremity,benign,,nevus,histopathology,,IL_0989207,,,,,,True,,IP_9992027,,female,,,,,,,,3264,2448
+5e80f88474440928c0bdeba1,ISIC_3966761,65,head/neck,benign,,nevus,histopathology,,IL_9684462,,,,,,True,,IP_4745288,,male,,,,,,,,3264,2448
+5e8f947d4ad5f6bd588b1a77,ISIC_3971018,60,posterior torso,benign,,nevus,histopathology,,IL_2904148,,,,,,True,,IP_0867894,,female,,,,,,,,6000,4000
+5e95f23a396583e25a5070d9,ISIC_3975133,20,posterior torso,benign,,,histopathology,,IL_6796265,,,,,,,,IP_5627853,,female,,,,,,,,640,480
+5e8f92114ad5f6bd588b10e3,ISIC_3994631,50,posterior torso,benign,,nevus,histopathology,,IL_0033627,,,,,,True,combined,IP_2793798,,female,,,,,,,,1857,1857
+5e81033f74440928c0be06f8,ISIC_4013189,65,lower extremity,benign,,nevus,histopathology,,IL_7323263,,,,,,True,,IP_8631184,,female,,,,,,,,2592,1936
+5e80f8a374440928c0bdedea,ISIC_4015288,45,posterior torso,benign,,nevus,histopathology,,IL_2639182,,,,,,True,,IP_5202455,,male,,,,,,,,3264,2448
+5e95f1e0396583e25a5069bf,ISIC_4023794,20,anterior torso,benign,,,histopathology,,IL_0570061,,,,,,,,IP_5064631,,male,,,,,,,,640,480
+5e95f349396583e25a508719,ISIC_4024808,55,upper extremity,benign,,,histopathology,,IL_3225486,,,,,,,,IP_2101945,,male,,,,,,,,640,480
+5e95f2c0396583e25a507bdb,ISIC_4033292,45,anterior torso,benign,,,histopathology,,IL_4081007,,,,,,,,IP_7005083,,female,,,,,,,,640,480
+5e8f9b3a4ad5f6bd588b2100,ISIC_4036915,40,posterior torso,benign,,nevus,histopathology,,IL_5097834,,,,,,True,combined,IP_6739626,,female,,,,,,,,2317,2317
+5e8faef4396583e25a5054d3,ISIC_4037228,45,posterior torso,benign,,nevus,histopathology,,IL_0293900,,,,,,True,combined,IP_6982152,,male,,,,,,,,4032,3024
+5e81061974440928c0be10ef,ISIC_4045323,25,lateral torso,benign,,nevus,histopathology,,IL_9985692,,,,,,True,,IP_6868151,,male,,,,,,,,2592,1936
+5e95f2f6396583e25a508067,ISIC_4064779,40,head/neck,benign,,,histopathology,,IL_8740275,,,,,,,,IP_9424914,,male,,,,,,,,1872,1053
+5e95f2de396583e25a507e8e,ISIC_4066314,65,lower extremity,benign,,,histopathology,,IL_2687936,,,,,,,,IP_9115451,,male,,,,,,,,640,480
+5e81008374440928c0be0023,ISIC_4068365,35,head/neck,benign,,nevus,histopathology,,IL_2359081,,,,,,True,,IP_9513376,,male,,,,,,,,2592,1936
+5e8f8d664ad5f6bd588b0079,ISIC_4068636,40,lower extremity,benign,,nevus,histopathology,,IL_6734260,,,,,,True,combined,IP_6911447,,male,,,,,,,,5184,3456
+5e81074074440928c0be20fc,ISIC_4085041,20,anterior torso,benign,,nevus,histopathology,,IL_0890547,,,,,,True,,IP_0347699,,male,,,,,,,,3264,2448
+5e8f947b4ad5f6bd588b1a65,ISIC_4090965,75,lower extremity,benign,,nevus,histopathology,,IL_2028129,,,,,,True,combined,IP_4070933,,male,,,,,,,,5184,3456
+5e95f209396583e25a506ce0,ISIC_4099058,65,posterior torso,benign,,,histopathology,,IL_4648047,,,,,,,,IP_5496892,,male,,,,,,,,1872,1053
+5e8107f874440928c0be2a44,ISIC_4099287,60,upper extremity,benign,,nevus,histopathology,,IL_2966763,,,,,,True,,IP_2732171,,male,,,,,,,,4288,2848
+5e80fca274440928c0bdfb1b,ISIC_4100532,60,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_7535536,,,,,,False,,IP_6780155,,male,,,,,,,,2592,1936
+5e8106dc74440928c0be1b64,ISIC_4103984,40,posterior torso,benign,,nevus,histopathology,,IL_5189658,,,,,,True,,IP_9245079,,male,,,,,,,,3264,2448
+5e95f352396583e25a5087f2,ISIC_4119029,35,anterior torso,benign,,,histopathology,,IL_8685856,,,,,,,,IP_9927968,,male,,,,,,,,640,480
+5e8100a674440928c0be023d,ISIC_4128342,65,head/neck,benign,,nevus,histopathology,,IL_0986679,,,,,,True,,IP_7610036,,male,,,,,,,,2592,1936
+5e95f2e8396583e25a507f4c,ISIC_4180373,40,lower extremity,benign,,,histopathology,,IL_6006009,,,,,,,,IP_3858753,,male,,,,,,,,1872,1053
+5e95f1ca396583e25a5067cb,ISIC_4190910,65,upper extremity,benign,,,histopathology,,IL_0375104,,,,,,,,IP_2263888,,female,,,,,,,,640,480
+5e8106d674440928c0be1aeb,ISIC_4205013,60,upper extremity,benign,,nevus,histopathology,,IL_9684850,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e80f88674440928c0bdebd2,ISIC_4207079,50,lower extremity,benign,,nevus,histopathology,,IL_1254642,,,,,,True,,IP_9770302,,female,,,,,,,,4288,2848
+5e8f8fbb4ad5f6bd588b08c4,ISIC_4225838,55,head/neck,benign,,atypical melanocytic proliferation,histopathology,,IL_3511402,,,,,,True,,IP_9124285,,male,,,,,,,,5184,3456
+5e81077d74440928c0be233d,ISIC_4227640,30,anterior torso,benign,,nevus,histopathology,,IL_4400559,,,,,,True,,IP_1676499,,female,,,,,,,,2592,1936
+5e95f2ae396583e25a507a5e,ISIC_4265755,55,lateral torso,benign,,,histopathology,,IL_2320888,,,,,,,,IP_0998852,,female,,,,,,,,640,480
+5e8f94504ad5f6bd588b18e3,ISIC_4267177,55,lower extremity,benign,,nevus,histopathology,,IL_2103438,,,,,,True,,IP_1658752,,male,,,,,,,,2448,3264
+5e8105f674440928c0be0dfa,ISIC_4288522,45,posterior torso,benign,,nevus,histopathology,,IL_9153770,,,,,,True,,IP_4842370,,female,,,,,,,,3264,2448
+5e8106dd74440928c0be1b7d,ISIC_4298420,30,anterior torso,benign,,nevus,histopathology,,IL_7116878,,,,,,True,,IP_7313005,,male,,,,,,,,2592,1936
+5e80fbca74440928c0bdf141,ISIC_4317478,75,upper extremity,benign,,lentigo NOS,histopathology,,IL_7311897,,,,,,True,,IP_7946279,,female,,,,,,,,4288,2848
+5e95f2bb396583e25a507b6c,ISIC_4331481,65,upper extremity,benign,,,histopathology,,IL_8550158,,,,,,,,IP_6204577,,female,,,,,,,,1872,1053
+5e81060574440928c0be0f3a,ISIC_4342416,70,head/neck,benign,,seborrheic keratosis,histopathology,,IL_5336398,,,,,,False,,IP_5686827,,male,,,,,,,,3264,2448
+5e81035174440928c0be0860,ISIC_4345168,35,lower extremity,benign,,nevus,histopathology,,IL_5257760,,,,,,True,,IP_8437394,,female,,,,,,,,3264,2448
+5e8403d72a5a4415fe6960b6,ISIC_4347161,70,,benign,,nevus,histopathology,,IL_3333000,,,,,,True,,IP_9189624,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f2df396583e25a507e9b,ISIC_4349418,20,posterior torso,benign,,,histopathology,,IL_0194409,,,,,,,,IP_4314793,,female,,,,,,,,1872,1053
+5e81061674440928c0be10b4,ISIC_4354857,75,,benign,,seborrheic keratosis,histopathology,,IL_9491800,,,,,,False,,IP_8027787,,male,,,,,,,,3264,2448
+5e8fbc34396583e25a5061bd,ISIC_4354896,55,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_2699204,,,,,,False,,IP_3743865,,female,,,,,,,,5184,3456
+5e8f90724ad5f6bd588b0b82,ISIC_4355229,45,posterior torso,benign,,nevus,histopathology,,IL_2721831,,,,,,True,,IP_0394288,,female,,,,,,,,5184,3456
+5e80fcaa74440928c0bdfbb8,ISIC_4361854,55,posterior torso,benign,,lentigo NOS,histopathology,,IL_0413551,,,,,,True,,IP_3489420,,male,,,,,,,,3264,2448
+5e95f2e4396583e25a507eff,ISIC_4363665,65,head/neck,benign,,,histopathology,,IL_7410745,,,,,,,,IP_0063782,,female,,,,,,,,1872,1053
+5e81076b74440928c0be21c2,ISIC_4364153,30,,benign,,nevus,histopathology,,IL_6487104,,,,,,True,,IP_6098503,,female,,,,,,,,3264,2448
+5e81009874440928c0be0170,ISIC_4365093,50,lower extremity,benign,,nevus,histopathology,,IL_1541837,,,,,,True,,IP_6331820,,female,,,,,,,,2592,1936
+5e80fc3974440928c0bdf603,ISIC_4366627,70,posterior torso,benign,,nevus,histopathology,,IL_3348805,,,,,,True,,IP_9619666,,male,,,,,,,,2592,1936
+5e81062474440928c0be11e1,ISIC_4374944,55,lower extremity,benign,,nevus,histopathology,,IL_4812235,,,,,,True,,IP_5294508,,male,,,,,,,,3264,2448
+5e81066a74440928c0be1514,ISIC_4380623,60,lower extremity,benign,,nevus,histopathology,,IL_9369995,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e81061f74440928c0be1180,ISIC_4388706,50,upper extremity,benign,,lentigo NOS,histopathology,,IL_7171897,,,,,,True,,IP_0859301,,female,,,,,,,,3264,2448
+5e8106da74440928c0be1b31,ISIC_4409740,35,anterior torso,benign,,nevus,histopathology,,IL_1267350,,,,,,True,,IP_2049351,,male,,,,,,,,3264,2448
+5e95f30b396583e25a508243,ISIC_4415049,50,lower extremity,benign,,,histopathology,,IL_9033950,,,,,,,,IP_2160700,,male,,,,,,,,1872,1053
+5e81009974440928c0be0186,ISIC_4419720,75,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_3766081,,,,,,False,,IP_4294140,,male,,,,,,,,2592,1936
+5e95f20a396583e25a506cf4,ISIC_4420952,40,lower extremity,benign,,,histopathology,,IL_7030633,,,,,,,,IP_5857448,,male,,,,,,,,640,480
+5e8403ea2a5a4415fe696254,ISIC_4427596,40,upper extremity,benign,,nevus,histopathology,,IL_7194796,,,,,,True,,IP_6676060,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81066a74440928c0be1519,ISIC_4429297,55,posterior torso,benign,,nevus,histopathology,,IL_3932565,,,,,,True,,IP_0175414,,male,,,,,,,,5184,3456
+5e81031c74440928c0be0455,ISIC_4429406,35,anterior torso,benign,,nevus,histopathology,,IL_5788553,,,,,,True,,IP_6017204,,female,,,,,,,,3264,2448
+5e81067274440928c0be15a8,ISIC_4432898,65,posterior torso,benign,,nevus,histopathology,,IL_2974092,,,,,,True,,IP_9652966,,male,,,,,,,,4288,2848
+5e8f91634ad5f6bd588b0e20,ISIC_4443545,70,posterior torso,benign,,nevus,histopathology,,IL_1006193,,,,,,True,,IP_8841455,,male,,,,,,,,1769,1769
+5e80fcc774440928c0bdfdb9,ISIC_4443776,55,posterior torso,benign,,nevus,histopathology,,IL_7754802,,,,,,True,,IP_0765629,,male,,,,,,,,4288,2848
+5e95f315396583e25a508319,ISIC_4494407,50,upper extremity,benign,,,histopathology,,IL_6074212,,,,,,,,IP_0148558,,female,,,,,,,,1872,1053
+5e8106d974440928c0be1b1c,ISIC_4497032,35,posterior torso,benign,,nevus,histopathology,,IL_1018013,,,,,,True,,IP_2049351,,male,,,,,,,,3264,2448
+5e95f1d1396583e25a506853,ISIC_4506356,40,head/neck,benign,,,histopathology,,IL_0026881,,,,,,,,IP_3281766,,female,,,,,,,,1872,1053
+5e95f2da396583e25a507e40,ISIC_4509624,30,lateral torso,benign,,,histopathology,,IL_7655951,,,,,,,,IP_3523549,,male,,,,,,,,640,480
+5e81034574440928c0be0773,ISIC_4514456,45,lower extremity,benign,,nevus,histopathology,,IL_8109636,,,,,,True,,IP_3358218,,female,,,,,,,,2592,1936
+5e8fbd77396583e25a506414,ISIC_4520704,30,lower extremity,benign,,nevus,histopathology,,IL_4650629,,,,,,True,combined,IP_3662918,,female,,,,,,,,1763,1763
+5e80f8af74440928c0bdeeb9,ISIC_4528136,30,posterior torso,benign,,nevus,histopathology,,IL_8283325,,,,,,True,,IP_7123023,,male,,,,,,,,6000,4000
+5e81065d74440928c0be13ef,ISIC_4529168,50,posterior torso,benign,,nevus,histopathology,,IL_8689203,,,,,,True,,IP_3713422,,male,,,,,,,,6000,4000
+5e80fcd574440928c0bdfed0,ISIC_4545112,40,head/neck,benign,,nevus,histopathology,,IL_4490773,,,,,,True,,IP_2980320,,male,,,,,,,,2592,1936
+5e8105af74440928c0be0b0e,ISIC_4548483,40,posterior torso,benign,,nevus,histopathology,,IL_0427418,,,,,,True,,IP_7357415,,female,,,,,,,,2592,1936
+5e80fbf174440928c0bdf40e,ISIC_4552035,25,lower extremity,benign,,nevus,histopathology,,IL_3351925,,,,,,True,,IP_7198796,,female,,,,,,,,6000,4000
+5e8f8ec24ad5f6bd588b05a1,ISIC_4568001,45,posterior torso,benign,,nevus,histopathology,,IL_5822880,,,,,,True,combined,IP_8137203,,female,,,,,,,,4032,3024
+5e81079874440928c0be2566,ISIC_4575967,45,anterior torso,benign,,nevus,histopathology,,IL_6716447,,,,,,True,,IP_8385941,,female,,,,,,,,2592,1936
+5e81073974440928c0be205c,ISIC_4591134,35,posterior torso,benign,,nevus,histopathology,,IL_4211283,,,,,,True,,IP_3200260,,female,,,,,,,,3264,2448
+5e81031c74440928c0be045e,ISIC_4620906,35,posterior torso,benign,,nevus,histopathology,,IL_9516688,,,,,,True,,IP_6017204,,female,,,,,,,,2592,1936
+5e95f37e396583e25a508bac,ISIC_4624753,45,upper extremity,benign,,,histopathology,,IL_4507825,,,,,,,,IP_2584339,,male,,,,,,,,1872,1053
+5e80fca674440928c0bdfb5e,ISIC_4628573,55,anterior torso,benign,,nevus,histopathology,,IL_3700924,,,,,,True,,IP_0099726,,male,,,,,,,,2592,1936
+5e95f234396583e25a507069,ISIC_4635435,55,upper extremity,benign,,,histopathology,,IL_8883305,,,,,,,,IP_2322991,,male,,,,,,,,640,480
+5e8107ee74440928c0be2970,ISIC_4636434,50,head/neck,benign,,nevus,histopathology,,IL_2422957,,,,,,True,,IP_1705144,,female,,,,,,,,3264,2448
+5e95f37f396583e25a508bb5,ISIC_4636840,85,posterior torso,benign,,,histopathology,,IL_2140639,,,,,,,,IP_9718268,,female,,,,,,,,1872,1053
+5e81059774440928c0be090b,ISIC_4639874,60,posterior torso,benign,,nevus,histopathology,,IL_7653623,,,,,,True,,IP_1559100,,male,,,,,,,,2592,1936
+5e81031174440928c0be038c,ISIC_4646202,60,posterior torso,benign,,nevus,histopathology,,IL_3255529,,,,,,True,,IP_9316325,,male,,,,,,,,3264,2448
+5e95f320396583e25a5083c3,ISIC_4648593,40,anterior torso,benign,,,histopathology,,IL_5553072,,,,,,,,IP_7785592,,male,,,,,,,,1872,1053
+5e95f201396583e25a506c52,ISIC_4656375,35,upper extremity,benign,,,histopathology,,IL_9381669,,,,,,,,IP_7785592,,male,,,,,,,,1872,1053
+5e81061b74440928c0be1122,ISIC_4672749,40,posterior torso,benign,,nevus,histopathology,,IL_1276376,,,,,,True,,IP_0963996,,female,,,,,,,,6000,4000
+5e80f8c374440928c0bdf022,ISIC_4673844,65,,benign,,nevus,histopathology,,IL_7033783,,,,,,True,,IP_9122609,,male,,,,,,,,2592,1936
+5e80fcb274440928c0bdfc3e,ISIC_4675065,30,posterior torso,benign,,nevus,histopathology,,IL_8037894,,,,,,True,,IP_4698288,,male,,,,,,,,3264,2448
+5e81066c74440928c0be1535,ISIC_4691314,60,posterior torso,benign,,nevus,histopathology,,IL_0535566,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e95f253396583e25a5072e7,ISIC_4727937,55,head/neck,benign,,,histopathology,,IL_6353635,,,,,,,,IP_2378734,,female,,,,,,,,1872,1053
+5e8105ff74440928c0be0ebd,ISIC_4735706,45,upper extremity,benign,,nevus,histopathology,,IL_1027965,,,,,,True,,IP_0777867,,female,,,,,,,,3264,2448
+5e8402592a5a4415fe694e5f,ISIC_4737672,35,,benign,,nevus,histopathology,,IL_5632237,,,,,,True,,IP_9258690,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8105c174440928c0be0c9c,ISIC_4751140,55,posterior torso,benign,,nevus,histopathology,,IL_1534482,,,,,,True,,IP_5229014,,male,,,,,,,,3264,2448
+5e81007a74440928c0bdff83,ISIC_4761090,75,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_5528213,,,,,,False,,IP_1740600,,male,,,,,,,,3264,2448
+5e8107c774440928c0be267b,ISIC_4764654,55,posterior torso,benign,,nevus,histopathology,,IL_8594116,,,,,,True,,IP_9162256,,female,,,,,,,,4288,2848
+5e81071974440928c0be1dba,ISIC_4784251,35,anterior torso,benign,,nevus,histopathology,,IL_9345267,,,,,,True,,IP_9042214,,female,,,,,,,,3264,2448
+5e8f96f34ad5f6bd588b1e79,ISIC_4828943,55,posterior torso,benign,,nevus,histopathology,,IL_8263707,,,,,,True,combined,IP_8439549,,female,,,,,,,,2317,2317
+5e81034874440928c0be07a1,ISIC_4836901,35,posterior torso,benign,,nevus,histopathology,,IL_9366448,,,,,,True,,IP_4366959,,female,,,,,,,,2592,1936
+5e81008774440928c0be005f,ISIC_4846741,30,posterior torso,benign,,nevus,histopathology,,IL_8150936,,,,,,True,,IP_1195596,,male,,,,,,,,3264,2448
+5e8fbaaf396583e25a505fb9,ISIC_4851437,30,posterior torso,benign,,nevus,histopathology,,IL_6581827,,,,,,True,,IP_5110222,,male,,,,,,,,2317,2317
+5e81071874440928c0be1da8,ISIC_4851652,50,anterior torso,benign,,nevus,histopathology,,IL_9152271,,,,,,True,,IP_1615189,,male,,,,,,,,3264,2448
+5e81060e74440928c0be1007,ISIC_4857711,30,head/neck,benign,,nevus,histopathology,,IL_7387603,,,,,,True,,IP_6960402,,female,,,,,,,,4288,2848
+5e81068374440928c0be170a,ISIC_4876818,40,upper extremity,benign,,nevus,histopathology,,IL_9532887,,,,,,True,,IP_2189124,,male,,,,,,,,3264,2448
+5e8f8f454ad5f6bd588b075c,ISIC_4881841,70,posterior torso,benign,,nevus,histopathology,,IL_2620615,,,,,,True,,IP_3983475,,male,,,,,,,,4032,3024
+5e81067b74440928c0be1664,ISIC_4882333,45,upper extremity,benign,,nevus,histopathology,,IL_7656592,,,,,,True,,IP_9087899,,male,,,,,,,,3264,2448
+5e8f8de34ad5f6bd588b0264,ISIC_4883407,40,anterior torso,benign,,nevus,histopathology,,IL_5713893,,,,,,True,,IP_2520657,,male,,,,,,,,5184,3456
+5e81033d74440928c0be06cf,ISIC_4891204,60,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_2373452,,,,,,False,,IP_9418573,,male,,,,,,,,3264,2448
+5e81073674440928c0be201c,ISIC_4891233,75,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_2440890,,,,,,False,,IP_8590096,,male,,,,,,,,3264,2448
+5e95f1ec396583e25a506ae0,ISIC_4894602,40,head/neck,benign,,,histopathology,,IL_0660547,,,,,,,,IP_3089004,,female,,,,,,,,1872,1053
+5e81062274440928c0be11bb,ISIC_4894802,40,anterior torso,benign,,nevus,histopathology,,IL_4370483,,,,,,True,,IP_9164079,,female,,,,,,,,2592,1936
+5e80fc3274440928c0bdf57c,ISIC_4896088,35,,benign,,seborrheic keratosis,histopathology,,IL_3277985,,,,,,False,,IP_4015774,,female,,,,,,,,2592,1936
+5e8fbd61396583e25a50633a,ISIC_4909462,80,head/neck,benign,,nevus,histopathology,,IL_0028219,,,,,,True,,IP_1665515,,male,,,,,,,,3456,5184
+5e95f221396583e25a506f0b,ISIC_4911852,55,lower extremity,benign,,,histopathology,,IL_6316151,,,,,,,,IP_6936664,,female,,,,,,,,640,480
+5e81072274440928c0be1e85,ISIC_4919503,25,anterior torso,benign,,nevus,histopathology,,IL_6868348,,,,,,True,,IP_4959878,,female,,,,,,,,4288,2848
+5e95f320396583e25a5083bd,ISIC_4927075,65,anterior torso,benign,,,histopathology,,IL_1113057,,,,,,,,IP_7199022,,female,,,,,,,,640,480
+5e8f921e4ad5f6bd588b114a,ISIC_4933735,65,anterior torso,benign,,nevus,histopathology,,IL_2231565,,,,,,True,,IP_0915233,,male,,,,,,,,1761,1761
+5e95f2e4396583e25a507f08,ISIC_4938638,55,lateral torso,benign,,,histopathology,,IL_1370224,,,,,,,,IP_6936664,,female,,,,,,,,640,480
+5e80f89474440928c0bdecf1,ISIC_4939497,55,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_0831038,,,,,,False,,IP_8915476,,female,,,,,,,,3264,2448
+5e8f950e4ad5f6bd588b1c87,ISIC_4950321,60,posterior torso,benign,,nevus,histopathology,,IL_3188905,,,,,,True,,IP_6067392,,male,,,,,,,,5184,3456
+5e80f88874440928c0bdebf8,ISIC_4952227,50,anterior torso,benign,,nevus,histopathology,,IL_9339757,,,,,,True,,IP_1307115,,male,,,,,,,,6000,4000
+5e95f232396583e25a507045,ISIC_4956713,70,head/neck,benign,,,histopathology,,IL_2911029,,,,,,,,IP_2959285,,male,,,,,,,,1872,1053
+5e8f90ec4ad5f6bd588b0d30,ISIC_4968536,30,posterior torso,benign,,nevus,histopathology,,IL_7728851,,,,,,True,combined,IP_5110222,,male,,,,,,,,2317,2317
+5e8fb414396583e25a5059a5,ISIC_4973831,85,posterior torso,benign,,nevus,histopathology,,IL_0546848,,,,,,True,combined,IP_3067471,,male,,,,,,,,5184,3456
+5e8106cc74440928c0be1a18,ISIC_4986451,35,anterior torso,benign,,nevus,histopathology,,IL_1569017,,,,,,True,,IP_8011614,,female,,,,,,,,2592,1936
+5e95f312396583e25a5082d8,ISIC_5000531,65,lower extremity,benign,,,histopathology,,IL_4620328,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e8f94554ad5f6bd588b190e,ISIC_5033871,70,posterior torso,benign,,nevus,histopathology,,IL_6928787,,,,,,True,,IP_5987487,,female,,,,,,,,4032,3024
+5e95f2b9396583e25a507b4b,ISIC_5047956,65,upper extremity,benign,,,histopathology,,IL_1984159,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e8f93794ad5f6bd588b1695,ISIC_5060576,65,lower extremity,benign,,nevus,histopathology,,IL_4634199,,,,,,True,combined,IP_2869113,,male,,,,,,,,5184,3456
+5e8f92164ad5f6bd588b1107,ISIC_5071046,75,posterior torso,benign,,nevus,histopathology,,IL_4271159,,,,,,True,,IP_6285147,,male,,,,,,,,5184,3456
+5e8106db74440928c0be1b45,ISIC_5077664,70,lower extremity,benign,,nevus,histopathology,,IL_0877639,,,,,,True,,IP_2107993,,female,,,,,,,,6000,4000
+5e81074074440928c0be20f8,ISIC_5092484,20,upper extremity,benign,,nevus,histopathology,,IL_2535591,,,,,,True,,IP_0347699,,male,,,,,,,,3264,2448
+5e8106d474440928c0be1ab6,ISIC_5103342,40,anterior torso,benign,,nevus,histopathology,,IL_4238307,,,,,,True,,IP_4576977,,male,,,,,,,,2592,1936
+5e8105c174440928c0be0c8d,ISIC_5105824,55,lower extremity,benign,,nevus,histopathology,,IL_6451502,,,,,,True,,IP_5229014,,male,,,,,,,,3264,2448
+5e95f238396583e25a5070ba,ISIC_5106239,75,posterior torso,benign,,,histopathology,,IL_4249027,,,,,,,,IP_9115451,,male,,,,,,,,1872,1053
+5e80fbce74440928c0bdf188,ISIC_5106902,20,upper extremity,benign,,nevus,histopathology,,IL_7518941,,,,,,True,,IP_9427625,,male,,,,,,,,6000,4000
+5e81033974440928c0be067d,ISIC_5118254,60,,benign,,nevus,histopathology,,IL_2419047,,,,,,True,,IP_3710233,,male,,,,,,,,3264,2448
+5e95f336396583e25a508587,ISIC_5123813,45,lower extremity,benign,,,histopathology,,IL_8607982,,,,,,,,IP_4926060,,male,,,,,,,,640,480
+5e8105bc74440928c0be0c25,ISIC_5131138,45,lower extremity,benign,,nevus,histopathology,,IL_1480815,,,,,,True,,IP_6885799,,female,,,,,,,,3264,2448
+5e8107e174440928c0be288b,ISIC_5136612,65,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_6522904,,,,,,False,,IP_2789041,,male,,,,,,,,4288,2848
+5e8100af74440928c0be02df,ISIC_5144082,35,anterior torso,benign,,nevus,histopathology,,IL_8902107,,,,,,True,,IP_4898383,,male,,,,,,,,3264,2448
+5e81073f74440928c0be20e1,ISIC_5144730,30,head/neck,benign,,nevus,histopathology,,IL_6615229,,,,,,True,pigmented spindle cell of reed,IP_0989858,,female,,,,,,,,2592,1936
+5e84028c2a5a4415fe69531d,ISIC_5164319,50,lower extremity,benign,,nevus,histopathology,,IL_1999211,,,,,,True,,IP_1172238,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f2a8396583e25a5079ce,ISIC_5169434,50,posterior torso,benign,,,histopathology,,IL_8023008,,,,,,,,IP_4926060,,male,,,,,,,,640,480
+5e8105b174440928c0be0b3f,ISIC_5169967,40,anterior torso,benign,,nevus,histopathology,,IL_4946454,,,,,,True,,IP_6420568,,male,,,,,,,,3264,2448
+5e8106db74440928c0be1b4a,ISIC_5177353,70,posterior torso,benign,,lichenoid keratosis,histopathology,,IL_6271791,,,,,,False,,IP_2107993,,female,,,,,,,,6000,4000
+5e81009974440928c0be017e,ISIC_5182820,75,anterior torso,benign,,nevus,histopathology,,IL_4480811,,,,,,True,,IP_4294140,,male,,,,,,,,3264,2448
+5e8106ca74440928c0be19e9,ISIC_5185580,65,head/neck,benign,,nevus,histopathology,,IL_6295240,,,,,,True,,IP_9954107,,male,,,,,,,,2592,1936
+5e8f95004ad5f6bd588b1bfe,ISIC_5215191,65,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_7324322,,,,,,False,,IP_4263066,,female,,,,,,,,5184,3456
+5e8fbc33396583e25a5061b7,ISIC_5225355,75,upper extremity,benign,,lentigo NOS,histopathology,,IL_2006178,,,,,,True,,IP_8593932,,female,,,,,,,,5184,3456
+5e95f1fa396583e25a506bc6,ISIC_5225928,60,palms/soles,benign,,,histopathology,,IL_8189986,,,,,,,,IP_5311557,,female,,,,,,,,1872,1053
+5e80fc3774440928c0bdf5e4,ISIC_5238910,60,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_2916584,,,,,,False,,IP_4772390,,male,,,,,,,,2592,1936
+5e95f1fa396583e25a506bca,ISIC_5254894,30,lateral torso,benign,,,histopathology,,IL_9986081,,,,,,,,IP_1023029,,female,,,,,,,,1872,1053
+5e8f928c4ad5f6bd588b1289,ISIC_5268669,50,anterior torso,benign,,nevus,histopathology,,IL_5297465,,,,,,True,,IP_3728091,,male,,,,,,,,2431,2431
+5e8f8f8c4ad5f6bd588b0884,ISIC_5278307,80,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_8764504,,,,,,False,,IP_2697411,,male,,,,,,,,1763,1763
+5e81032674440928c0be0519,ISIC_5289026,25,anterior torso,benign,,nevus,histopathology,,IL_5436465,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e8105a474440928c0be0a2f,ISIC_5291129,70,head/neck,benign,,nevus,histopathology,,IL_0222545,,,,,,True,,IP_8940163,,male,,,,,,,,3264,2448
+5e95f1ed396583e25a506ae6,ISIC_5294396,35,anterior torso,benign,,,histopathology,,IL_3572886,,,,,,,,IP_9927968,,male,,,,,,,,640,480
+5e80fcd574440928c0bdfecd,ISIC_5298608,40,posterior torso,benign,,nevus,histopathology,,IL_9126559,,,,,,True,,IP_2980320,,male,,,,,,,,3264,2448
+5e81032074440928c0be04a4,ISIC_5314606,30,lower extremity,benign,,nevus,histopathology,,IL_2458115,,,,,,True,,IP_7691333,,female,,,,,,,,3264,2448
+5e95f22d396583e25a506fe0,ISIC_5317971,65,lateral torso,benign,,,histopathology,,IL_8601898,,,,,,,,IP_6936664,,female,,,,,,,,1872,1053
+5e8402912a5a4415fe69538c,ISIC_5327658,55,,benign,,nevus,histopathology,,IL_5655657,,,,,,True,,IP_1233669,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81008c74440928c0be00ad,ISIC_5327976,55,lower extremity,benign,,nevus,histopathology,,IL_4556998,,,,,,True,,IP_3120589,,female,,,,,,,,6000,4000
+5e8402902a5a4415fe695378,ISIC_5340305,45,,benign,,nevus,histopathology,,IL_1790335,,,,,,True,,IP_2908137,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fcaf74440928c0bdfc05,ISIC_5346936,85,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_4585645,,,,,,False,,IP_6838833,,female,,,,,,,,3264,2448
+5e81064d74440928c0be1292,ISIC_5349205,50,anterior torso,benign,,nevus,histopathology,,IL_1264090,,,,,,True,,IP_5766574,,female,,,,,,,,3264,2448
+5e80fbf174440928c0bdf417,ISIC_5356775,25,lower extremity,benign,,nevus,histopathology,,IL_1403721,,,,,,True,,IP_7198796,,female,,,,,,,,3264,2448
+5e80f8b374440928c0bdeefd,ISIC_5357781,35,lower extremity,benign,,nevus,histopathology,,IL_6020512,,,,,,True,,IP_1800426,,female,,,,,,,,2592,1936
+5e95f34d396583e25a50877d,ISIC_5368880,75,head/neck,benign,,,histopathology,,IL_1673583,,,,,,,,IP_4116267,,female,,,,,,,,1872,1053
+5e81032f74440928c0be05be,ISIC_5369680,50,anterior torso,benign,,nevus,histopathology,,IL_8685392,,,,,,True,,IP_2707228,,female,,,,,,,,6000,4000
+5e8fb195396583e25a50579b,ISIC_5370367,40,anterior torso,benign,,nevus,histopathology,,IL_5798135,,,,,,True,combined,IP_3228049,,male,,,,,,,,4032,3024
+5e8f9b384ad5f6bd588b20ee,ISIC_5386105,55,anterior torso,benign,,nevus,histopathology,,IL_3431125,,,,,,True,combined,IP_1709095,,male,,,,,,,,5184,3456
+5e95f21d396583e25a506ebe,ISIC_5397779,85,anterior torso,benign,,,histopathology,,IL_1100217,,,,,,,,IP_9738076,,female,,,,,,,,1872,1053
+5e8106d674440928c0be1ae8,ISIC_5399828,60,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_9448273,,,,,,False,,IP_7753447,,male,,,,,,,,3264,2448
+5e8106cc74440928c0be1a0d,ISIC_5402119,65,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_4733825,,,,,,False,,IP_7270568,,female,,,,,,,,4288,2848
+5e8fad22396583e25a5052ef,ISIC_5407240,65,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_6383583,,,,,,False,,IP_2408430,,female,,,,,,,,1983,1983
+5e80f8b974440928c0bdef6b,ISIC_5408436,45,upper extremity,benign,,nevus,histopathology,,IL_6568726,,,,,,True,,IP_2606884,,female,,,,,,,,2592,1936
+5e8fa2b310344ce85ea8e5f1,ISIC_5408967,70,head/neck,benign,,nevus,histopathology,,IL_0481271,,,,,,True,combined,IP_9153938,,male,,,,,,,,5184,3456
+5e81079074440928c0be24be,ISIC_5420979,70,posterior torso,benign,,nevus,histopathology,,IL_2779733,,,,,,True,,IP_0878241,,male,,,,,,,,3264,2448
+5e81008b74440928c0be00a4,ISIC_5457826,55,posterior torso,benign,,nevus,histopathology,,IL_8201607,,,,,,True,,IP_3120589,,female,,,,,,,,3264,2448
+5e8105a174440928c0be09e2,ISIC_5464206,65,,benign,,nevus,histopathology,,IL_1413267,,,,,,True,,IP_9175987,,male,,,,,,,,3264,2448
+5e8106d674440928c0be1adc,ISIC_5469457,60,head/neck,benign,,seborrheic keratosis,histopathology,,IL_4618026,,,,,,False,,IP_6833889,,male,,,,,,,,3264,2448
+5e80f8b874440928c0bdef68,ISIC_5472470,50,,benign,,nevus,histopathology,,IL_8674052,,,,,,True,,IP_2606884,,female,,,,,,,,3264,2448
+5e81008e74440928c0be00ce,ISIC_5485142,70,posterior torso,benign,,nevus,histopathology,,IL_6866378,,,,,,True,,IP_1351218,,male,,,,,,,,3264,2448
+5e80fcc474440928c0bdfd8b,ISIC_5488065,55,,benign,,nevus,histopathology,,IL_3651185,,,,,,True,,IP_6105130,,male,,,,,,,,3264,2448
+5e81061974440928c0be10f2,ISIC_5490004,25,posterior torso,benign,,nevus,histopathology,,IL_4971163,,,,,,True,,IP_6868151,,male,,,,,,,,2592,1936
+5e8f93d24ad5f6bd588b171c,ISIC_5491443,30,lower extremity,benign,,nevus,histopathology,,IL_7694493,,,,,,True,combined,IP_3662918,,female,,,,,,,,5184,3456
+5e81008074440928c0bdfff7,ISIC_5509459,60,head/neck,benign,,lentigo NOS,histopathology,,IL_1727318,,,,,,True,,IP_0400168,,female,,,,,,,,3264,2448
+5e95f2e2396583e25a507ede,ISIC_5523637,60,anterior torso,benign,,,histopathology,,IL_8455003,,,,,,,,IP_8326844,,female,,,,,,,,640,480
+5e8fb416396583e25a5059bc,ISIC_5537985,80,head/neck,benign,,nevus,histopathology,,IL_3871058,,,,,,True,,IP_8361815,,male,,,,,,,,5184,3456
+5e81072174440928c0be1e72,ISIC_5538169,45,upper extremity,benign,,nevus,histopathology,,IL_2989179,,,,,,True,,IP_7345731,,male,,,,,,,,3264,2448
+5e95f2ba396583e25a507b60,ISIC_5541288,35,oral/genital,benign,,,histopathology,,IL_2501753,,,,,,,,IP_4208266,,female,,,,,,,,1872,1053
+5e8105a074440928c0be09d2,ISIC_5544367,30,lower extremity,benign,,nevus,histopathology,,IL_5796820,,,,,,True,,IP_4137989,,female,,,,,,,,3264,2448
+5e81079b74440928c0be25a8,ISIC_5552385,50,posterior torso,benign,,nevus,histopathology,,IL_7769674,,,,,,True,,IP_2666042,,male,,,,,,,,3264,2448
+5e8106c574440928c0be198b,ISIC_5565053,50,posterior torso,benign,,nevus,histopathology,,IL_9944629,,,,,,True,,IP_3253955,,female,,,,,,,,3264,2448
+5e81066c74440928c0be152e,ISIC_5573611,60,head/neck,benign,,seborrheic keratosis,histopathology,,IL_7915336,,,,,,False,,IP_0175414,,male,,,,,,,,3264,2448
+5e80f8b374440928c0bdeef9,ISIC_5573695,40,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_4608988,,,,,,False,,IP_1800426,,female,,,,,,,,3264,2448
+5e8106cf74440928c0be1a44,ISIC_5576241,80,posterior torso,benign,,lichenoid keratosis,histopathology,,IL_0005475,,,,,,False,,IP_6215369,,male,,,,,,,,3264,2448
+5e81033374440928c0be0614,ISIC_5594342,30,lower extremity,benign,,nevus,histopathology,,IL_3193443,,,,,,True,,IP_8004532,,female,,,,,,,,6000,4000
+5e8105bf74440928c0be0c73,ISIC_5605916,45,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_3892205,,,,,,False,,IP_2436697,,female,,,,,,,,3264,2448
+5e8402a92a5a4415fe6955bb,ISIC_5609883,35,,benign,,nevus,histopathology,,IL_4263446,,,,,,True,,IP_2610032,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8fb417396583e25a5059c3,ISIC_5613297,75,posterior torso,benign,,nevus,histopathology,,IL_5171968,,,,,,True,,IP_1310148,,male,,,,,,,,5184,3456
+5e8106d674440928c0be1ae6,ISIC_5616902,60,posterior torso,benign,,nevus,histopathology,,IL_2274324,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e95f297396583e25a50784b,ISIC_5631641,50,lower extremity,benign,,,histopathology,,IL_9139877,,,,,,,,IP_8171851,,female,,,,,,,,640,480
+5e81066f74440928c0be1576,ISIC_5634573,70,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_9194637,,,,,,False,,IP_6643545,,male,,,,,,,,4288,2848
+5e80fcb074440928c0bdfc18,ISIC_5635961,40,posterior torso,benign,,nevus,histopathology,,IL_4429311,,,,,,True,,IP_7291657,,female,,,,,,,,3264,2448
+5e8107d074440928c0be2728,ISIC_5644364,35,anterior torso,benign,,nevus,histopathology,,IL_7565846,,,,,,True,,IP_5584080,,female,,,,,,,,4288,2848
+5e95f2ec396583e25a507fa9,ISIC_5655181,45,head/neck,benign,,,histopathology,,IL_8263220,,,,,,,,IP_4639224,,male,,,,,,,,640,480
+5e8106da74440928c0be1b30,ISIC_5657310,35,posterior torso,benign,,nevus,histopathology,,IL_7803447,,,,,,True,,IP_2049351,,male,,,,,,,,2592,1936
+5e95f21f396583e25a506ed8,ISIC_5658900,40,lower extremity,benign,,,histopathology,,IL_1127206,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e95f1c1396583e25a50671e,ISIC_5659502,35,posterior torso,benign,,,histopathology,,IL_4074930,,,,,,,,IP_6977878,,male,,,,,,,,640,480
+5e8f93124ad5f6bd588b151a,ISIC_5679290,45,lower extremity,benign,,nevus,histopathology,,IL_0845260,,,,,,True,combined,IP_3466191,,female,,,,,,,,5184,3456
+5e80fc3774440928c0bdf5d4,ISIC_5689730,30,anterior torso,benign,,nevus,histopathology,,IL_1313334,,,,,,True,,IP_8839187,,male,,,,,,,,3264,2448
+5e80f89874440928c0bded2e,ISIC_5695185,35,anterior torso,benign,,nevus,histopathology,,IL_5214625,,,,,,True,,IP_7491908,,male,,,,,,,,3264,2448
+5e81077674440928c0be22a4,ISIC_5703303,35,,benign,,nevus,histopathology,,IL_5304025,,,,,,True,,IP_8627268,,female,,,,,,,,2592,1936
+5e80fcc574440928c0bdfd95,ISIC_5714201,55,head/neck,benign,,lentigo NOS,histopathology,,IL_8930085,,,,,,True,,IP_6105130,,male,,,,,,,,3264,2448
+5e95f31a396583e25a508355,ISIC_5715000,45,head/neck,benign,,,histopathology,,IL_5938818,,,,,,,,IP_2378734,,female,,,,,,,,640,480
+5e8105ee74440928c0be0d41,ISIC_5717763,40,,benign,,nevus,histopathology,,IL_8938179,,,,,,True,,IP_8513373,,male,,,,,,,,3264,2448
+5e8f929d4ad5f6bd588b132a,ISIC_5719183,70,posterior torso,benign,,lentigo NOS,histopathology,,IL_7425307,,,,,,True,,IP_5917089,,male,,,,,,,,5184,3456
+5e81067174440928c0be1595,ISIC_5722465,85,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_3167451,,,,,,False,,IP_8975630,,male,,,,,,,,2592,1936
+5e95f34e396583e25a508793,ISIC_5738103,50,upper extremity,benign,,,histopathology,,IL_4926880,,,,,,,,IP_7170580,,male,,,,,,,,640,480
+5e81071974440928c0be1dc4,ISIC_5747907,35,posterior torso,benign,,nevus,histopathology,,IL_5568477,,,,,,True,,IP_9042214,,female,,,,,,,,3264,2448
+5e81072b74440928c0be1f3c,ISIC_5755210,45,posterior torso,benign,,nevus,histopathology,,IL_4133519,,,,,,True,,IP_9579751,,male,,,,,,,,3264,2448
+5e80fcab74440928c0bdfbbb,ISIC_5770437,55,posterior torso,benign,,nevus,histopathology,,IL_2448492,,,,,,True,,IP_3489420,,male,,,,,,,,3264,2448
+5e80fc6674440928c0bdf958,ISIC_5771994,60,upper extremity,benign,,nevus,histopathology,,IL_6118897,,,,,,True,,IP_4154441,,female,,,,,,,,4288,2848
+5e95f2dd396583e25a507e85,ISIC_5778284,60,posterior torso,benign,,,histopathology,,IL_5358953,,,,,,,,IP_7644786,,female,,,,,,,,1872,1053
+5e81061a74440928c0be110f,ISIC_5787278,65,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_2889714,,,,,,False,,IP_2577172,,female,,,,,,,,3264,2448
+5e80fc4d74440928c0bdf780,ISIC_5789263,35,anterior torso,benign,,nevus,histopathology,,IL_0890681,,,,,,True,pigmented spindle cell of reed,IP_8124898,,male,,,,,,,,4288,2848
+5e81079674440928c0be2548,ISIC_5789952,65,posterior torso,benign,,nevus,histopathology,,IL_1663575,,,,,,True,,IP_1389115,,female,,,,,,,,3264,2448
+5e80f8c374440928c0bdf020,ISIC_5791118,65,,benign,,nevus,histopathology,,IL_6708963,,,,,,True,blue,IP_9122609,,male,,,,,,,,2592,1936
+5e95f239396583e25a5070bc,ISIC_5797788,50,lower extremity,benign,,,histopathology,,IL_5407982,,,,,,,,IP_4639224,,male,,,,,,,,1872,1053
+5e8f937e4ad5f6bd588b16c5,ISIC_5809221,70,posterior torso,benign,,nevus,histopathology,,IL_6215188,,,,,,True,combined,IP_3983475,,male,,,,,,,,2295,2295
+5e8fb17c396583e25a505697,ISIC_5814177,60,lower extremity,benign,,nevus,histopathology,,IL_9756265,,,,,,True,combined,IP_9111321,,male,,,,,,,,5184,3456
+5e80fc4274440928c0bdf6b1,ISIC_5818405,30,lower extremity,benign,,nevus,histopathology,,IL_4245056,,,,,,True,,IP_2676056,,female,,,,,,,,3264,2448
+5e8fb732396583e25a505d1a,ISIC_5824220,55,posterior torso,benign,,nevus,histopathology,,IL_6338379,,,,,,True,combined,IP_8335299,,female,,,,,,,,1773,1773
+5e8107e174440928c0be288a,ISIC_5829749,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_9532059,,,,,,False,,IP_2789041,,male,,,,,,,,2592,1936
+5e80fc4d74440928c0bdf78a,ISIC_5832792,35,upper extremity,benign,,nevus,histopathology,,IL_5893443,,,,,,True,,IP_8989787,,male,,,,,,,,3264,2448
+5e80fbcd74440928c0bdf180,ISIC_5850457,20,upper extremity,benign,,nevus,histopathology,,IL_2620862,,,,,,True,,IP_9427625,,male,,,,,,,,6000,4000
+5e80f8b874440928c0bdef56,ISIC_5855004,35,upper extremity,benign,,nevus,histopathology,,IL_1539989,,,,,,True,,IP_4988871,,female,,,,,,,,4288,2848
+5e80fbf774440928c0bdf46f,ISIC_5856859,35,anterior torso,benign,,nevus,histopathology,,IL_2715278,,,,,,True,,IP_4645992,,male,,,,,,,,3264,2448
+5e8107e074440928c0be2878,ISIC_5864390,75,lower extremity,benign,,lentigo NOS,histopathology,,IL_7533220,,,,,,True,,IP_9329623,,male,,,,,,,,3264,2448
+5e80fbdd74440928c0bdf2a2,ISIC_5872498,55,lower extremity,benign,,nevus,histopathology,,IL_1924827,,,,,,True,,IP_1652699,,male,,,,,,,,3264,2448
+5e8f90634ad5f6bd588b0b15,ISIC_5882629,65,lower extremity,benign,,nevus,histopathology,,IL_6703018,,,,,,True,combined,IP_7167373,,male,,,,,,,,6000,4000
+5e95f31f396583e25a5083a6,ISIC_5888971,60,lateral torso,benign,,,histopathology,,IL_1123148,,,,,,,,IP_9453080,,female,,,,,,,,1872,1053
+5e8106bf74440928c0be18fc,ISIC_5909403,50,anterior torso,benign,,nevus,histopathology,,IL_1720401,,,,,,True,,IP_4017726,,female,,,,,,,,2592,1936
+5e81061874440928c0be10ec,ISIC_5918279,25,posterior torso,benign,,nevus,histopathology,,IL_6141731,,,,,,True,,IP_6868151,,male,,,,,,,,2592,1936
+5e8107d474440928c0be2781,ISIC_5932704,30,posterior torso,benign,,nevus,histopathology,,IL_9717242,,,,,,True,,IP_9001826,,female,,,,,,,,2592,1936
+5e8f935c4ad5f6bd588b1597,ISIC_5943385,70,upper extremity,benign,,nevus,histopathology,,IL_5981249,,,,,,True,combined,IP_7733695,,male,,,,,,,,6000,4000
+5e8fa28c10344ce85ea8e496,ISIC_5958409,50,head/neck,benign,,seborrheic keratosis,histopathology,,IL_4230777,,,,,,False,,IP_6332526,,female,,,,,,,,3888,2592
+5e80fcb174440928c0bdfc2f,ISIC_5958657,85,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_4901989,,,,,,False,,IP_2594106,,male,,,,,,,,4288,2848
+5e8f90384ad5f6bd588b09f7,ISIC_5969724,40,upper extremity,benign,,nevus,histopathology,,IL_5151962,,,,,,True,combined,IP_2520657,,male,,,,,,,,5184,3456
+5e8f8eba4ad5f6bd588b0565,ISIC_5970460,75,upper extremity,benign,,nevus,histopathology,,IL_9012766,,,,,,True,,IP_4070933,,male,,,,,,,,5184,3456
+5e8106d774440928c0be1af6,ISIC_5987590,60,upper extremity,benign,,lentigo NOS,histopathology,,IL_5032999,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e81031c74440928c0be045d,ISIC_5988729,40,posterior torso,benign,,nevus,histopathology,,IL_0400215,,,,,,True,,IP_6017204,,female,,,,,,,,3264,2448
+5e80fc4674440928c0bdf6f0,ISIC_5989151,30,anterior torso,benign,,nevus,histopathology,,IL_4863318,,,,,,True,,IP_6129542,,female,,,,,,,,3264,2448
+5e8107c774440928c0be2680,ISIC_5993356,55,lower extremity,benign,,nevus,histopathology,,IL_1808718,,,,,,True,,IP_9162256,,female,,,,,,,,4288,2848
+5e80f8b874440928c0bdef66,ISIC_5997266,50,,benign,,seborrheic keratosis,histopathology,,IL_8848781,,,,,,False,,IP_2606884,,female,,,,,,,,3264,2448
+5e80fcc474440928c0bdfd7d,ISIC_5998513,25,posterior torso,benign,,nevus,histopathology,,IL_4780541,,,,,,True,,IP_1152723,,male,,,,,,,,3264,2448
+5e81033174440928c0be05ea,ISIC_6018905,60,,benign,,nevus,histopathology,,IL_6224798,,,,,,True,,IP_7415269,,female,,,,,,,,3264,2448
+5e81007c74440928c0bdffab,ISIC_6019120,70,head/neck,benign,,nevus,histopathology,,IL_6217107,,,,,,True,,IP_2325148,,male,,,,,,,,3264,2448
+5e80fcaf74440928c0bdfc00,ISIC_6019539,80,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_4135103,,,,,,False,,IP_6838833,,female,,,,,,,,4288,2848
+5e80fc5d74440928c0bdf8bd,ISIC_6023795,65,lower extremity,benign,,nevus,histopathology,,IL_2526122,,,,,,True,,IP_6512345,,male,,,,,,,,4288,2848
+5e81072374440928c0be1e8f,ISIC_6029052,25,,benign,,nevus,histopathology,,IL_9636499,,,,,,True,,IP_4959878,,female,,,,,,,,4288,2848
+5e81066b74440928c0be151d,ISIC_6041185,60,lower extremity,benign,,nevus,histopathology,,IL_8226668,,,,,,True,,IP_0175414,,male,,,,,,,,3264,2448
+5e80fc6674440928c0bdf961,ISIC_6041385,65,upper extremity,benign,,nevus,histopathology,,IL_1034322,,,,,,True,,IP_4154441,,female,,,,,,,,3264,2448
+5e95f257396583e25a507333,ISIC_6045709,45,oral/genital,benign,,,histopathology,,IL_2792697,,,,,,,,IP_1197949,,male,,,,,,,,1872,1053
+5e81009f74440928c0be01cd,ISIC_6051431,75,head/neck,benign,,seborrheic keratosis,histopathology,,IL_7555401,,,,,,False,,IP_2102792,,female,,,,,,,,4288,2848
+5e81061874440928c0be10ea,ISIC_6078205,25,posterior torso,benign,,nevus,histopathology,,IL_9904874,,,,,,True,,IP_6868151,,male,,,,,,,,4288,2848
+5e95f2f0396583e25a507fe4,ISIC_6087560,20,upper extremity,benign,,,histopathology,,IL_0781214,,,,,,,,IP_1023029,,female,,,,,,,,640,480
+5e81068374440928c0be1704,ISIC_6098213,75,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_5683405,,,,,,False,,IP_4615697,,male,,,,,,,,4288,2848
+5e8f9b5b4ad5f6bd588b222e,ISIC_6107184,40,lower extremity,benign,,nevus,histopathology,,IL_8937665,,,,,,True,,IP_7271570,,female,,,,,,,,1769,1769
+5e8403a72a5a4415fe695c6e,ISIC_6110788,50,,benign,,nevus,histopathology,,IL_4550993,,,,,,True,,IP_8094083,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fc3574440928c0bdf5b2,ISIC_6129538,45,posterior torso,benign,,lichenoid keratosis,histopathology,,IL_2596274,,,,,,False,,IP_2360609,,male,,,,,,,,2592,1936
+5e95f28a396583e25a507734,ISIC_6135865,80,head/neck,benign,,,histopathology,,IL_4516054,,,,,,,,IP_3707904,,male,,,,,,,,1872,1053
+5e81068474440928c0be171f,ISIC_6138020,40,upper extremity,benign,,nevus,histopathology,,IL_8503395,,,,,,True,,IP_6997528,,female,,,,,,,,3264,2448
+5e95f340396583e25a50865f,ISIC_6163859,20,head/neck,benign,,,histopathology,,IL_7226356,,,,,,,,IP_1023029,,female,,,,,,,,640,480
+5e8105a474440928c0be0a29,ISIC_6189828,70,upper extremity,benign,,nevus,histopathology,,IL_5671990,,,,,,True,,IP_8940163,,male,,,,,,,,3264,2448
+5e80fbdc74440928c0bdf292,ISIC_6200040,55,lower extremity,benign,,nevus,histopathology,,IL_6665452,,,,,,True,,IP_1652699,,male,,,,,,,,3264,2448
+5e81067d74440928c0be1688,ISIC_6217184,65,head/neck,benign,,lentigo NOS,histopathology,,IL_3079938,,,,,,True,,IP_2005898,,female,,,,,,,,4288,2848
+5e81059d74440928c0be0992,ISIC_6225486,35,anterior torso,benign,,nevus,histopathology,,IL_0366700,,,,,,True,,IP_2850771,,male,,,,,,,,4288,2848
+5e8106e074440928c0be1bb3,ISIC_6228536,65,posterior torso,benign,,nevus,histopathology,,IL_7694151,,,,,,True,,IP_7587497,,male,,,,,,,,2592,1936
+5e8f92f74ad5f6bd588b1414,ISIC_6231450,75,anterior torso,benign,,nevus,histopathology,,IL_1288340,,,,,,True,,IP_2963366,,male,,,,,,,,5184,3456
+5e8100af74440928c0be02de,ISIC_6232156,35,anterior torso,benign,,nevus,histopathology,,IL_4991925,,,,,,True,,IP_4898383,,male,,,,,,,,3264,2448
+5e81032a74440928c0be056f,ISIC_6234013,25,posterior torso,benign,,nevus,histopathology,,IL_7419523,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e8fb412396583e25a50598e,ISIC_6285376,70,posterior torso,benign,,nevus,histopathology,,IL_3545594,,,,,,True,,IP_7490585,,male,,,,,,,,5184,3456
+5e80fc3574440928c0bdf5b8,ISIC_6289619,25,posterior torso,benign,,nevus,histopathology,,IL_0800914,,,,,,True,,IP_8839187,,male,,,,,,,,3264,2448
+5e8f8ef84ad5f6bd588b063f,ISIC_6289765,45,lower extremity,benign,,nevus,histopathology,,IL_5019251,,,,,,True,combined,IP_2025600,,female,,,,,,,,5184,3456
+5e80fbe074440928c0bdf2d3,ISIC_6293227,45,head/neck,benign,,nevus,histopathology,,IL_6286774,,,,,,True,,IP_6631780,,female,,,,,,,,2592,1936
+5e80fbfe74440928c0bdf4f2,ISIC_6296285,40,posterior torso,benign,,nevus,histopathology,,IL_7918766,,,,,,True,,IP_0307863,,male,,,,,,,,3264,2448
+5e81062474440928c0be11f5,ISIC_6305442,55,lower extremity,benign,,nevus,histopathology,,IL_7068481,,,,,,True,,IP_5294508,,male,,,,,,,,2592,1936
+5e80fc6674440928c0bdf962,ISIC_6315030,60,upper extremity,benign,,nevus,histopathology,,IL_6547685,,,,,,True,,IP_4154441,,female,,,,,,,,4288,2848
+5e81062574440928c0be1201,ISIC_6319742,25,anterior torso,benign,,nevus,histopathology,,IL_8211640,,,,,,True,,IP_0500903,,female,,,,,,,,3264,2448
+5e81078b74440928c0be2458,ISIC_6320012,75,upper extremity,benign,,lentigo NOS,histopathology,,IL_2952637,,,,,,True,,IP_1039004,,female,,,,,,,,3264,2448
+5e81079374440928c0be24fe,ISIC_6320717,40,upper extremity,benign,,lentigo NOS,histopathology,,IL_8281841,,,,,,True,,IP_4687295,,female,,,,,,,,3264,2448
+5e8106d674440928c0be1ae4,ISIC_6329214,60,posterior torso,benign,,nevus,histopathology,,IL_4426632,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e80f89374440928c0bdeccc,ISIC_6331731,60,lower extremity,benign,,nevus,histopathology,,IL_6947659,,,,,,True,,IP_1265580,,female,,,,,,,,4288,2848
+5e8105aa74440928c0be0aa4,ISIC_6336781,55,,benign,,nevus,histopathology,,IL_6125891,,,,,,True,,IP_7341133,,female,,,,,,,,2592,1936
+5e95f290396583e25a5077c7,ISIC_6341033,85,upper extremity,benign,,,histopathology,,IL_5549257,,,,,,,,IP_3237442,,male,,,,,,,,1872,1053
+5e8100a874440928c0be0268,ISIC_6345354,40,upper extremity,benign,,nevus,histopathology,,IL_2252954,,,,,,True,,IP_3549978,,female,,,,,,,,6000,4000
+5e81032574440928c0be0508,ISIC_6352858,25,posterior torso,benign,,nevus,histopathology,,IL_9117196,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e80fcd074440928c0bdfe6a,ISIC_6352997,45,posterior torso,benign,,nevus,histopathology,,IL_6509676,,,,,,True,,IP_3917378,,female,,,,,,,,2592,1936
+5e8105f074440928c0be0d76,ISIC_6367092,50,,benign,,nevus,histopathology,,IL_9365523,,,,,,True,,IP_9115076,,male,,,,,,,,3264,2448
+5e8105ff74440928c0be0ec1,ISIC_6370792,45,posterior torso,benign,,nevus,histopathology,,IL_9975577,,,,,,True,,IP_0777867,,female,,,,,,,,3264,2448
+5e81034d74440928c0be0814,ISIC_6379790,45,posterior torso,benign,,nevus,histopathology,,IL_0781728,,,,,,True,,IP_0961415,,male,,,,,,,,5184,3456
+5e95f34e396583e25a508790,ISIC_6380982,85,head/neck,benign,,,histopathology,,IL_8260784,,,,,,,,IP_6648913,,female,,,,,,,,1872,1053
+5e81066874440928c0be14e3,ISIC_6386485,55,posterior torso,benign,,nevus,histopathology,,IL_2793322,,,,,,True,,IP_7330399,,female,,,,,,,,3264,2448
+5e80f8a074440928c0bdedc7,ISIC_6393708,35,posterior torso,benign,,nevus,histopathology,,IL_6971663,,,,,,True,,IP_4199752,,female,,,,,,,,3264,2448
+5e8403e32a5a4415fe6961b7,ISIC_6400232,40,,benign,,nevus,histopathology,,IL_2248588,,,,,,True,,IP_6594273,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e81032774440928c0be052a,ISIC_6411939,30,posterior torso,benign,,nevus,histopathology,,IL_3160417,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e8107ef74440928c0be2988,ISIC_6413890,65,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_9174594,,,,,,False,,IP_3882396,,male,,,,,,,,3264,2448
+5e81066f74440928c0be157c,ISIC_6416127,70,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_6355571,,,,,,False,,IP_6643545,,male,,,,,,,,2592,1936
+5e8f90d64ad5f6bd588b0c6f,ISIC_6416533,50,upper extremity,benign,,nevus,histopathology,,IL_3458997,,,,,,True,combined,IP_6514499,,male,,,,,,,,4032,3024
+5e8105a374440928c0be0a12,ISIC_6427046,30,,benign,,seborrheic keratosis,histopathology,,IL_4201646,,,,,,False,,IP_6808872,,male,,,,,,,,2592,1936
+5e8106cf74440928c0be1a46,ISIC_6433084,75,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_9369555,,,,,,False,,IP_6215369,,male,,,,,,,,2592,1936
+5e81065874440928c0be137b,ISIC_6434344,55,posterior torso,benign,,nevus,histopathology,,IL_4328517,,,,,,True,,IP_9186570,,male,,,,,,,,3264,2448
+5e8fb3f0396583e25a50582e,ISIC_6441489,50,lower extremity,benign,,nevus,histopathology,,IL_7888282,,,,,,True,combined,IP_3293337,,male,,,,,,,,4032,3024
+5e81076a74440928c0be21ab,ISIC_6446825,85,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_6165711,,,,,,False,,IP_3863213,,male,,,,,,,,2592,1936
+5e95f226396583e25a506f67,ISIC_6461419,35,anterior torso,benign,,,histopathology,,IL_9810967,,,,,,,,IP_3858753,,male,,,,,,,,1872,1053
+5e81072574440928c0be1eb6,ISIC_6461484,40,anterior torso,benign,,nevus,histopathology,,IL_3155762,,,,,,True,,IP_9086201,,female,,,,,,,,3264,2448
+5e8f94024ad5f6bd588b18a9,ISIC_6467369,55,anterior torso,benign,,nevus,histopathology,,IL_0441078,,,,,,True,,IP_8003098,,male,,,,,,,,4032,3024
+5e80fcab74440928c0bdfbc4,ISIC_6470589,55,upper extremity,benign,,lentigo NOS,histopathology,,IL_3039741,,,,,,True,,IP_2725676,,female,,,,,,,,2592,1936
+5e8f97124ad5f6bd588b1f97,ISIC_6470698,30,posterior torso,benign,,nevus,histopathology,,IL_8340163,,,,,,True,combined,IP_9942136,,male,,,,,,,,4032,3024
+5e81079c74440928c0be25bb,ISIC_6473449,75,lower extremity,benign,,lentigo NOS,histopathology,,IL_3626479,,,,,,True,,IP_5063756,,male,,,,,,,,4288,2848
+5e80fc4074440928c0bdf68c,ISIC_6478823,40,lower extremity,benign,,nevus,histopathology,,IL_9591716,,,,,,True,,IP_7931229,,male,,,,,,,,3264,2448
+5e95f1d8396583e25a5068e9,ISIC_6495137,55,lower extremity,benign,,,histopathology,,IL_0976979,,,,,,,,IP_9355893,,male,,,,,,,,1872,1053
+5e80f8b474440928c0bdef12,ISIC_6501973,35,upper extremity,benign,,nevus,histopathology,,IL_3440698,,,,,,True,,IP_1800426,,female,,,,,,,,2592,1936
+5e8f8d6f4ad5f6bd588b00bc,ISIC_6511141,55,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_0981433,,,,,,False,,IP_8335299,,female,,,,,,,,1775,1775
+5e95f323396583e25a5083fc,ISIC_6512207,65,posterior torso,benign,,,histopathology,,IL_3773839,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e8fb603396583e25a505a6f,ISIC_6512384,60,posterior torso,benign,,nevus,histopathology,,IL_8265579,,,,,,True,,IP_0867894,,female,,,,,,,,6000,4000
+5e81032074440928c0be04ac,ISIC_6522875,30,lower extremity,benign,,nevus,histopathology,,IL_9154722,,,,,,True,,IP_7691333,,female,,,,,,,,3264,2448
+5e80fcc674440928c0bdfdae,ISIC_6529890,55,anterior torso,benign,,nevus,histopathology,,IL_1915932,,,,,,True,blue,IP_0765629,,male,,,,,,,,4288,2848
+5e80f88674440928c0bdebdd,ISIC_6534791,50,anterior torso,benign,,nevus,histopathology,,IL_0439189,,,,,,True,,IP_1307115,,male,,,,,,,,3264,2448
+5e81032a74440928c0be0569,ISIC_6549798,25,posterior torso,benign,,nevus,histopathology,,IL_2332764,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e81076d74440928c0be21df,ISIC_6555039,45,head/neck,benign,,seborrheic keratosis,histopathology,,IL_7746534,,,,,,False,,IP_8313778,,male,,,,,,,,4288,2848
+5e95f2e6396583e25a507f21,ISIC_6555339,40,lower extremity,benign,,,histopathology,,IL_4108750,,,,,,,,IP_9355893,,male,,,,,,,,640,480
+5e95f238396583e25a5070b8,ISIC_6556220,85,posterior torso,benign,,,histopathology,,IL_4321793,,,,,,,,IP_9718268,,female,,,,,,,,1872,1053
+5e95f2eb396583e25a507f80,ISIC_6561787,35,palms/soles,benign,,,histopathology,,IL_1638902,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e81065874440928c0be1382,ISIC_6562435,55,posterior torso,benign,,nevus,histopathology,,IL_0379871,,,,,,True,,IP_9186570,,male,,,,,,,,3264,2448
+5e81068074440928c0be16cf,ISIC_6562871,60,anterior torso,benign,,nevus,histopathology,,IL_5185176,,,,,,True,,IP_5517026,,male,,,,,,,,4288,2848
+5e95f341396583e25a50866d,ISIC_6563695,45,lateral torso,benign,,,histopathology,,IL_3119694,,,,,,,,IP_3089004,,female,,,,,,,,1872,1053
+5e81007c74440928c0bdffad,ISIC_6587979,65,posterior torso,benign,,nevus,histopathology,,IL_9484054,,,,,,True,,IP_2325148,,male,,,,,,,,3264,2448
+5e8fa7c8396583e25a504f66,ISIC_6594555,45,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_3151554,,,,,,False,,IP_6932031,,female,,,,,,,,4032,3024
+5e81067674440928c0be1600,ISIC_6596403,75,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_5410823,,,,,,False,,IP_0585473,,male,,,,,,,,4288,2848
+5e80f89874440928c0bded34,ISIC_6607939,35,lower extremity,benign,,nevus,histopathology,,IL_4840555,,,,,,True,spitz,IP_7491908,,male,,,,,,,,3264,2448
+5e95f293396583e25a507805,ISIC_6612179,50,anterior torso,benign,,,histopathology,,IL_8809300,,,,,,,,IP_5311557,,female,,,,,,,,640,480
+5e81033174440928c0be05f2,ISIC_6625253,45,anterior torso,benign,,nevus,histopathology,,IL_5758301,,,,,,True,,IP_5767581,,male,,,,,,,,3264,2448
+5e81033674440928c0be0657,ISIC_6627142,25,anterior torso,benign,,nevus,histopathology,,IL_0518655,,,,,,True,spitz,IP_6889672,,male,,,,,,,,4288,2848
+5e95f2f1396583e25a508006,ISIC_6629629,45,lower extremity,benign,,,histopathology,,IL_7783548,,,,,,,,IP_8702124,,female,,,,,,,,1872,1053
+5e81031674440928c0be03f4,ISIC_6634524,35,upper extremity,benign,,nevus,histopathology,,IL_5048306,,,,,,True,,IP_2147407,,female,,,,,,,,2592,1936
+5e81079b74440928c0be259e,ISIC_6637633,50,posterior torso,benign,,nevus,histopathology,,IL_1626033,,,,,,True,,IP_2666042,,male,,,,,,,,3264,2448
+5e8f8e844ad5f6bd588b04e6,ISIC_6640981,50,lower extremity,benign,,nevus,histopathology,,IL_6227257,,,,,,True,combined,IP_2320445,,female,,,,,,,,4032,3024
+5e8f92964ad5f6bd588b12e1,ISIC_6641007,75,posterior torso,benign,,nevus,histopathology,,IL_4305331,,,,,,True,,IP_2986217,,male,,,,,,,,5184,3456
+5e80fcd174440928c0bdfe72,ISIC_6674202,60,anterior torso,benign,,nevus,histopathology,,IL_9828680,,,,,,True,,IP_6724798,,male,,,,,,,,3264,2448
+5e81009e74440928c0be01be,ISIC_6703027,55,posterior torso,benign,,nevus,histopathology,,IL_0426064,,,,,,True,,IP_9416054,,male,,,,,,,,3264,2448
+5e81060874440928c0be0f76,ISIC_6709150,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_0730129,,,,,,False,,IP_2738587,,male,,,,,,,,2592,1936
+5e81031c74440928c0be045b,ISIC_6712494,40,,benign,,nevus,histopathology,,IL_8199979,,,,,,True,,IP_6017204,,female,,,,,,,,3264,2448
+5e95f24c396583e25a507265,ISIC_6722945,30,upper extremity,benign,,,histopathology,,IL_4920703,,,,,,,,IP_9879000,,male,,,,,,,,640,480
+5e81072b74440928c0be1f43,ISIC_6729594,45,posterior torso,benign,,nevus,histopathology,,IL_5596908,,,,,,True,,IP_9579751,,male,,,,,,,,3264,2448
+5e8f8e3c4ad5f6bd588b03c3,ISIC_6739241,50,posterior torso,benign,,nevus,histopathology,,IL_8177354,,,,,,True,combined,IP_6514499,,male,,,,,,,,4032,3024
+5e81068374440928c0be170f,ISIC_6768479,40,lower extremity,benign,,nevus,histopathology,,IL_9624952,,,,,,True,,IP_2189124,,male,,,,,,,,3264,2448
+5e81062274440928c0be11be,ISIC_6771825,50,lateral torso,benign,,nevus,histopathology,,IL_5803202,,,,,,True,,IP_0423090,,female,,,,,,,,3264,2448
+5e95f258396583e25a50734b,ISIC_6776583,50,lower extremity,benign,,,histopathology,,IL_6501695,,,,,,,,IP_0718832,,female,,,,,,,,1872,1053
+5e80fc4474440928c0bdf6d1,ISIC_6785041,60,,benign,,nevus,histopathology,,IL_9041227,,,,,,True,blue,IP_6459335,,male,,,,,,,,4288,2848
+5e95f307396583e25a5081dd,ISIC_6789494,45,posterior torso,benign,,,histopathology,,IL_9777181,,,,,,,,IP_3927686,,female,,,,,,,,1872,1053
+5e8f94df4ad5f6bd588b1ac3,ISIC_6794899,45,posterior torso,benign,,nevus,histopathology,,IL_5888573,,,,,,True,combined,IP_4110621,,male,,,,,,,,5184,3456
+5e81078974440928c0be2438,ISIC_6804655,50,,benign,,nevus,histopathology,,IL_7103867,,,,,,True,,IP_3395413,,male,,,,,,,,4288,2848
+5e8106cc74440928c0be1a0c,ISIC_6810183,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_1942828,,,,,,False,,IP_7270568,,female,,,,,,,,2592,1936
+5e80f88d74440928c0bdec5f,ISIC_6814478,70,posterior torso,benign,,nevus,histopathology,,IL_6199927,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e8f8d654ad5f6bd588b0073,ISIC_6816081,50,head/neck,benign,,nevus,histopathology,,IL_8802462,,,,,,True,combined,IP_3729342,,male,,,,,,,,3888,2592
+5e80fcbf74440928c0bdfd24,ISIC_6817405,30,,benign,,nevus,histopathology,,IL_0103047,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e95f2ac396583e25a507a35,ISIC_6819137,25,anterior torso,benign,,,histopathology,,IL_4279976,,,,,,,,IP_6332843,,male,,,,,,,,640,480
+5e80f8a174440928c0bdedd4,ISIC_6821008,30,upper extremity,benign,,nevus,histopathology,,IL_7429200,,,,,,True,,IP_4199752,,female,,,,,,,,3264,2448
+5e81074174440928c0be211d,ISIC_6829536,50,anterior torso,benign,,nevus,histopathology,,IL_6297143,,,,,,True,,IP_7775567,,male,,,,,,,,3264,2448
+5e95f1df396583e25a50698c,ISIC_6831482,30,lower extremity,benign,,,histopathology,,IL_5170775,,,,,,,,IP_7497232,,male,,,,,,,,640,480
+5e8f8dee4ad5f6bd588b02c2,ISIC_6833905,55,lower extremity,benign,,nevus,histopathology,,IL_2246291,,,,,,True,combined,IP_5033731,,female,,,,,,,,1761,1761
+5e95f381396583e25a508bf8,ISIC_6843406,35,upper extremity,benign,,,histopathology,,IL_4208681,,,,,,,,IP_4208266,,female,,,,,,,,1872,1053
+5e8106e374440928c0be1bff,ISIC_6847618,45,posterior torso,benign,,nevus,histopathology,,IL_2063830,,,,,,True,,IP_3751440,,female,,,,,,,,4288,2848
+5e8105ae74440928c0be0af3,ISIC_6854168,55,posterior torso,benign,,nevus,histopathology,,IL_0041274,,,,,,True,,IP_2617043,,female,,,,,,,,3264,2448
+5e95f263396583e25a507430,ISIC_6863226,55,upper extremity,benign,,,histopathology,,IL_5814191,,,,,,,,IP_6049920,,female,,,,,,,,1872,1053
+5e80fc5274440928c0bdf7e3,ISIC_6863507,45,anterior torso,benign,,nevus,histopathology,,IL_8746557,,,,,,True,,IP_8132023,,female,,,,,,,,3264,2448
+5e95f352396583e25a5087f1,ISIC_6873847,60,upper extremity,benign,,,histopathology,,IL_3813079,,,,,,,,IP_8326844,,female,,,,,,,,640,480
+5e8107f074440928c0be29a7,ISIC_6876691,60,posterior torso,benign,,nevus,histopathology,,IL_0209916,,,,,,True,,IP_2041319,,female,,,,,,,,3264,2448
+5e8107d574440928c0be2798,ISIC_6893147,65,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_8284613,,,,,,False,,IP_2278509,,male,,,,,,,,3264,2448
+5e8105c374440928c0be0cbe,ISIC_6918302,35,,benign,,nevus,histopathology,,IL_0818517,,,,,,True,,IP_1039996,,male,,,,,,,,3264,2448
+5e95f2bd396583e25a507b9a,ISIC_6928308,50,head/neck,benign,,,histopathology,,IL_1530335,,,,,,,,IP_5872065,,male,,,,,,,,1872,1053
+5e81066f74440928c0be1579,ISIC_6931024,70,head/neck,benign,,seborrheic keratosis,histopathology,,IL_0841823,,,,,,False,,IP_6643545,,male,,,,,,,,2592,1936
+5e8fbabc396583e25a50602f,ISIC_6931468,85,anterior torso,benign,,nevus,histopathology,,IL_7578209,,,,,,True,combined,IP_3067471,,male,,,,,,,,5184,3456
+5e8403c62a5a4415fe695f30,ISIC_6964033,75,,benign,,nevus,histopathology,,IL_2759803,,,,,,True,,IP_6649505,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8106d474440928c0be1ab5,ISIC_6968683,40,anterior torso,benign,,nevus,histopathology,,IL_4165448,,,,,,True,,IP_4576977,,male,,,,,,,,2592,1936
+5e81031374440928c0be03a9,ISIC_6971343,25,posterior torso,benign,,nevus,histopathology,,IL_9937145,,,,,,True,,IP_1602525,,female,,,,,,,,6000,4000
+5e81007974440928c0bdff7f,ISIC_6974497,75,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_6095350,,,,,,False,,IP_1740600,,male,,,,,,,,3264,2448
+5e95f33c396583e25a508614,ISIC_6982211,45,posterior torso,benign,,,histopathology,,IL_0323002,,,,,,,,IP_1480975,,female,,,,,,,,1872,1053
+5e95f387396583e25a508c80,ISIC_6982693,80,lower extremity,benign,,,histopathology,,IL_3037532,,,,,,,,IP_6292815,,female,,,,,,,,1872,1053
+5e8f94de4ad5f6bd588b1abc,ISIC_6985838,75,posterior torso,benign,,nevus,histopathology,,IL_6783897,,,,,,True,,IP_1633296,,male,,,,,,,,4032,3024
+5e8106e474440928c0be1c0e,ISIC_7001063,60,posterior torso,benign,,nevus,histopathology,,IL_0161211,,,,,,True,,IP_9056338,,male,,,,,,,,3264,2448
+5e80fbfe74440928c0bdf500,ISIC_7010626,40,anterior torso,benign,,nevus,histopathology,,IL_2549312,,,,,,True,,IP_0307863,,male,,,,,,,,3264,2448
+5e8105a174440928c0be09eb,ISIC_7027535,65,,benign,,nevus,histopathology,,IL_3397894,,,,,,True,,IP_9175987,,male,,,,,,,,3264,2448
+5e8fa29310344ce85ea8e4cd,ISIC_7028320,65,posterior torso,benign,,nevus,histopathology,,IL_5527456,,,,,,True,,IP_2430100,,female,,,,,,,,4032,3024
+5e8f93d74ad5f6bd588b1740,ISIC_7035368,65,posterior torso,benign,,nevus,histopathology,,IL_4172429,,,,,,True,,IP_0673451,,female,,,,,,,,5184,3456
+5e80f88d74440928c0bdec66,ISIC_7035517,70,upper extremity,benign,,nevus,histopathology,,IL_8710308,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e80fc4574440928c0bdf6e0,ISIC_7039745,60,upper extremity,benign,,nevus,histopathology,,IL_2458052,,,,,,True,blue,IP_6459335,,male,,,,,,,,4288,2848
+5e8106bd74440928c0be18e4,ISIC_7046888,60,posterior torso,benign,,nevus,histopathology,,IL_4896469,,,,,,True,,IP_6814066,,male,,,,,,,,3264,2448
+5e8f8df94ad5f6bd588b0320,ISIC_7050773,65,upper extremity,benign,,lichenoid keratosis,histopathology,,IL_6011138,,,,,,False,,IP_2408430,,female,,,,,,,,2025,2025
+5e95f284396583e25a5076b2,ISIC_7071594,50,upper extremity,benign,,,histopathology,,IL_6719983,,,,,,,,IP_1197949,,male,,,,,,,,1872,1053
+5e8107c874440928c0be2684,ISIC_7087676,55,lower extremity,benign,,nevus,histopathology,,IL_7158834,,,,,,True,,IP_9162256,,female,,,,,,,,2592,1936
+5e95f1e6396583e25a506a51,ISIC_7107941,50,lateral torso,benign,,,histopathology,,IL_4344346,,,,,,,,IP_1289915,,male,,,,,,,,640,480
+5e81031d74440928c0be046c,ISIC_7108282,35,posterior torso,benign,,nevus,histopathology,,IL_0164925,,,,,,True,,IP_6017204,,female,,,,,,,,2592,1936
+5e8105ab74440928c0be0ac1,ISIC_7115931,20,posterior torso,benign,,nevus,histopathology,,IL_9965642,,,,,,True,,IP_9583707,,male,,,,,,,,3264,2448
+5e8100a674440928c0be0246,ISIC_7134169,65,lower extremity,benign,,nevus,histopathology,,IL_7409501,,,,,,True,,IP_7610036,,male,,,,,,,,3264,2448
+5e8fb61e396583e25a505b77,ISIC_7138875,55,lower extremity,benign,,nevus,histopathology,,IL_8276244,,,,,,True,combined,IP_4453923,,female,,,,,,,,5184,3456
+5e81008f74440928c0be00da,ISIC_7145266,40,head/neck,benign,,nevus,histopathology,,IL_0133162,,,,,,True,,IP_7594604,,female,,,,,,,,3264,2448
+5e81061974440928c0be10ee,ISIC_7160082,25,head/neck,benign,,nevus,histopathology,,IL_3043482,,,,,,True,,IP_6868151,,male,,,,,,,,4288,2848
+5e81009f74440928c0be01c8,ISIC_7165819,80,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_1770675,,,,,,False,,IP_2102792,,female,,,,,,,,3264,2448
+5e95f2d6396583e25a507dde,ISIC_7166676,65,lateral torso,benign,,,histopathology,,IL_1584374,,,,,,,,IP_5328472,,male,,,,,,,,640,480
+5e8105a074440928c0be09d5,ISIC_7172893,25,anterior torso,benign,,nevus,histopathology,,IL_6254640,,,,,,True,,IP_4137989,,female,,,,,,,,2592,1936
+5e81007d74440928c0bdffca,ISIC_7187577,30,anterior torso,benign,,nevus,histopathology,,IL_0965414,,,,,,True,,IP_4821632,,female,,,,,,,,3264,2448
+5e80fc4874440928c0bdf721,ISIC_7189099,60,upper extremity,benign,,lentigo NOS,histopathology,,IL_5654866,,,,,,True,,IP_5167473,,female,,,,,,,,2592,1936
+5e80fc5b74440928c0bdf889,ISIC_7194471,65,posterior torso,benign,,nevus,histopathology,,IL_6418321,,,,,,True,,IP_6512345,,male,,,,,,,,2592,1936
+5e81076a74440928c0be21ae,ISIC_7194695,85,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_0183728,,,,,,False,,IP_2068150,,male,,,,,,,,3264,2448
+5e80fbc774440928c0bdf10e,ISIC_7200676,60,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_4637899,,,,,,False,,IP_9067016,,male,,,,,,,,3264,2448
+5e81009674440928c0be0151,ISIC_7230713,30,,benign,,nevus,histopathology,,IL_4481213,,,,,,True,spitz,IP_6945048,,male,,,,,,,,2592,1936
+5e8106d774440928c0be1af3,ISIC_7255551,60,upper extremity,benign,,nevus,histopathology,,IL_3054562,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e81034674440928c0be0785,ISIC_7267098,45,upper extremity,benign,,nevus,histopathology,,IL_7404091,,,,,,True,,IP_9461058,,female,,,,,,,,2592,1936
+5e8106d674440928c0be1aea,ISIC_7279273,60,posterior torso,benign,,nevus,histopathology,,IL_7486227,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e95f323396583e25a508400,ISIC_7282415,65,anterior torso,benign,,,histopathology,,IL_9886643,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e81067274440928c0be15a9,ISIC_7282441,70,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_3029796,,,,,,False,,IP_9652966,,male,,,,,,,,3264,2448
+5e8106cc74440928c0be1a1c,ISIC_7311296,35,posterior torso,benign,,nevus,histopathology,,IL_0217208,,,,,,True,,IP_8011614,,female,,,,,,,,4288,2848
+5e81059774440928c0be090a,ISIC_7319356,65,posterior torso,benign,,nevus,histopathology,,IL_0699119,,,,,,True,,IP_1559100,,male,,,,,,,,3264,2448
+5e80fbc074440928c0bdf08a,ISIC_7321960,35,head/neck,benign,,nevus,histopathology,,IL_9029672,,,,,,True,,IP_8329991,,male,,,,,,,,6000,4000
+5e80f88474440928c0bdeba2,ISIC_7323249,65,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_5413463,,,,,,False,,IP_4745288,,male,,,,,,,,3264,2448
+5e81035174440928c0be0865,ISIC_7325881,35,lower extremity,benign,,nevus,histopathology,,IL_6923486,,,,,,True,,IP_8437394,,female,,,,,,,,3264,2448
+5e81007374440928c0bdff16,ISIC_7348651,40,anterior torso,benign,,nevus,histopathology,,IL_2302708,,,,,,True,,IP_1517386,,male,,,,,,,,3264,2448
+5e80fc6674440928c0bdf95e,ISIC_7351614,65,,benign,,nevus,histopathology,,IL_1597508,,,,,,True,,IP_4154441,,female,,,,,,,,3264,2448
+5e8106b374440928c0be181e,ISIC_7357436,60,anterior torso,benign,,nevus,histopathology,,IL_5341367,,,,,,True,,IP_2871134,,male,,,,,,,,3264,2448
+5e8fbc35396583e25a5061cc,ISIC_7358293,80,lower extremity,benign,,solar lentigo,histopathology,,IL_6454802,,,,,,False,,IP_9663529,,female,,,,,,,,1755,1755
+5e80f88f74440928c0bdec8d,ISIC_7358998,30,anterior torso,benign,,nevus,histopathology,,IL_8029751,,,,,,True,,IP_9679829,,male,,,,,,,,2592,1936
+5e80fbef74440928c0bdf3f0,ISIC_7365615,40,lower extremity,benign,,nevus,histopathology,,IL_9250049,,,,,,True,,IP_9865971,,female,,,,,,,,3264,2448
+5e95f2e1396583e25a507ed0,ISIC_7373069,30,head/neck,benign,,,histopathology,,IL_0958149,,,,,,,,IP_1023029,,female,,,,,,,,1872,1053
+5e80fc9e74440928c0bdfad5,ISIC_7388369,50,posterior torso,benign,,nevus,histopathology,,IL_6856175,,,,,,True,,IP_9164625,,female,,,,,,,,3264,2448
+5e80fc4674440928c0bdf702,ISIC_7394862,45,head/neck,benign,,nevus,histopathology,,IL_2512807,,,,,,True,,IP_7050886,,female,,,,,,,,2592,1936
+5e95f2ee396583e25a507fc7,ISIC_7397129,65,lower extremity,benign,,,histopathology,,IL_2011612,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e95f1bd396583e25a5066db,ISIC_7399557,75,head/neck,benign,,,histopathology,,IL_5598485,,,,,,,,IP_6292815,,female,,,,,,,,1872,1053
+5e80fc3d74440928c0bdf653,ISIC_7400819,40,,benign,,nevus,histopathology,,IL_9553096,,,,,,True,,IP_9190806,,female,,,,,,,,3264,2448
+5e81007574440928c0bdff36,ISIC_7408392,55,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_4610138,,,,,,False,,IP_6539844,,female,,,,,,,,3264,2448
+5e81031b74440928c0be0451,ISIC_7415285,35,head/neck,benign,,nevus,histopathology,,IL_2662554,,,,,,True,,IP_9055249,,male,,,,,,,,4288,2848
+5e8fb3f9396583e25a505884,ISIC_7418664,60,posterior torso,benign,,nevus,histopathology,,IL_8474511,,,,,,True,,IP_3278850,,male,,,,,,,,1987,1987
+5e8f93634ad5f6bd588b15ce,ISIC_7433711,65,anterior torso,benign,,solar lentigo,histopathology,,IL_3901296,,,,,,False,,IP_7666205,,male,,,,,,,,1799,1799
+5e8106a774440928c0be172c,ISIC_7441957,35,posterior torso,benign,,nevus,histopathology,,IL_4504631,,,,,,True,,IP_1005794,,female,,,,,,,,3264,2448
+5e8f918a4ad5f6bd588b0f19,ISIC_7445157,50,posterior torso,benign,,nevus,histopathology,,IL_8949277,,,,,,True,combined,IP_2320445,,female,,,,,,,,4032,3024
+5e95f2a9396583e25a5079e9,ISIC_7450299,25,posterior torso,benign,,,histopathology,,IL_9760274,,,,,,,,IP_6676823,,female,,,,,,,,640,480
+5e95f276396583e25a5075a5,ISIC_7461756,35,palms/soles,benign,,,histopathology,,IL_2320892,,,,,,,,IP_4252478,,male,,,,,,,,640,480
+5e8402972a5a4415fe695420,ISIC_7468407,40,,benign,,nevus,histopathology,,IL_3216764,,,,,,True,,IP_6367015,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81066c74440928c0be1541,ISIC_7476803,20,head/neck,benign,,nevus,histopathology,,IL_5104829,,,,,,True,,IP_8041141,,female,,,,,,,,3264,2448
+5e95f220396583e25a506eee,ISIC_7485846,35,head/neck,benign,,,histopathology,,IL_5886303,,,,,,,,IP_4208266,,female,,,,,,,,1872,1053
+5e80fc9f74440928c0bdfae7,ISIC_7489072,55,upper extremity,benign,,lentigo NOS,histopathology,,IL_8266705,,,,,,True,,IP_1672532,,male,,,,,,,,3264,2448
+5e8106e374440928c0be1bf6,ISIC_7500420,50,upper extremity,benign,,nevus,histopathology,,IL_6113305,,,,,,True,,IP_3140047,,male,,,,,,,,3264,2448
+5e8105b874440928c0be0bd0,ISIC_7508527,35,posterior torso,benign,,nevus,histopathology,,IL_4653893,,,,,,True,,IP_5945442,,female,,,,,,,,3264,2448
+5e95f1e8396583e25a506a87,ISIC_7515318,25,upper extremity,benign,,,histopathology,,IL_3748625,,,,,,,,IP_6332843,,male,,,,,,,,640,480
+5e95f24d396583e25a507287,ISIC_7537925,40,anterior torso,benign,,,histopathology,,IL_6204356,,,,,,,,IP_1197949,,male,,,,,,,,640,480
+5e8402a82a5a4415fe6955a9,ISIC_7547609,50,,benign,,nevus,histopathology,,IL_6751043,,,,,,True,,IP_5596716,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80f8a274440928c0bdeddb,ISIC_7560157,65,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_1352739,,,,,,False,,IP_9661974,,male,,,,,,,,2848,4288
+5e95f25c396583e25a50739b,ISIC_7571402,20,palms/soles,benign,,,histopathology,,IL_8293589,,,,,,,,IP_2026598,,male,,,,,,,,1872,1053
+5e81008c74440928c0be00b5,ISIC_7574101,50,head/neck,benign,,seborrheic keratosis,histopathology,,IL_3142817,,,,,,False,,IP_3120589,,female,,,,,,,,2592,1936
+5e81033c74440928c0be06c6,ISIC_7575644,75,head/neck,benign,,seborrheic keratosis,histopathology,,IL_2287607,,,,,,False,,IP_4297939,,male,,,,,,,,4288,2848
+5e95f1d5396583e25a5068b0,ISIC_7576478,65,anterior torso,benign,,,histopathology,,IL_1161382,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e8106a774440928c0be1733,ISIC_7592920,40,anterior torso,benign,,nevus,histopathology,,IL_5666243,,,,,,True,,IP_9802994,,female,,,,,,,,3264,2448
+5e95f1dc396583e25a50693e,ISIC_7593978,40,anterior torso,benign,,,histopathology,,IL_3544119,,,,,,,,IP_9290101,,female,,,,,,,,640,480
+5e95f233396583e25a50704f,ISIC_7600581,30,lower extremity,benign,,,histopathology,,IL_2909455,,,,,,,,IP_3281766,,female,,,,,,,,640,480
+5e8106ce74440928c0be1a3e,ISIC_7603831,50,lower extremity,benign,,nevus,histopathology,,IL_0895433,,,,,,True,,IP_6529005,,male,,,,,,,,2592,1936
+5e81060974440928c0be0fa1,ISIC_7619041,70,head/neck,benign,,nevus,histopathology,,IL_3231470,,,,,,True,,IP_2766521,,male,,,,,,,,4288,2848
+5e95f287396583e25a5076f7,ISIC_7632525,35,lower extremity,benign,,,histopathology,,IL_2993177,,,,,,,,IP_5474292,,male,,,,,,,,640,480
+5e80f89b74440928c0bded6e,ISIC_7652731,40,anterior torso,benign,,nevus,histopathology,,IL_9950343,,,,,,True,,IP_4173362,,female,,,,,,,,3264,2448
+5e95f2c5396583e25a507c42,ISIC_7654580,40,anterior torso,benign,,,histopathology,,IL_7263281,,,,,,,,IP_5115535,,male,,,,,,,,1872,1053
+5e8105f274440928c0be0d99,ISIC_7658533,55,posterior torso,benign,,nevus,histopathology,,IL_5137347,,,,,,True,,IP_4865295,,male,,,,,,,,4288,2848
+5e95f2f3396583e25a508030,ISIC_7662847,60,upper extremity,benign,,,histopathology,,IL_8724844,,,,,,,,IP_9901629,,female,,,,,,,,640,480
+5e8f8fc04ad5f6bd588b08ed,ISIC_7670737,45,posterior torso,benign,,nevus,histopathology,,IL_2085686,,,,,,True,combined,IP_1330994,,female,,,,,,,,5184,3456
+5e80fcbf74440928c0bdfd21,ISIC_7681593,30,anterior torso,benign,,nevus,histopathology,,IL_5380955,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e84025f2a5a4415fe694f07,ISIC_7684290,70,lower extremity,benign,,nevus,histopathology,,IL_8736159,,,,,,True,,IP_2507276,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8fb3f7396583e25a50586f,ISIC_7685237,70,posterior torso,benign,,nevus,histopathology,,IL_5050739,,,,,,True,combined,IP_0760108,,female,,,,,,,,5184,3456
+5e80fcbe74440928c0bdfd20,ISIC_7690107,30,lower extremity,benign,,nevus,histopathology,,IL_8039645,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e81073f74440928c0be20f1,ISIC_7716941,20,posterior torso,benign,,nevus,histopathology,,IL_7921653,,,,,,True,spitz,IP_0347699,,male,,,,,,,,3264,2448
+5e80f8a574440928c0bdee05,ISIC_7731447,45,anterior torso,benign,,nevus,histopathology,,IL_1266068,,,,,,True,,IP_5202455,,male,,,,,,,,3264,2448
+5e95f36c396583e25a508a23,ISIC_7736423,50,head/neck,benign,,,histopathology,,IL_4296364,,,,,,,,IP_3055814,,male,,,,,,,,1872,1053
+5e81073574440928c0be2007,ISIC_7740004,50,upper extremity,benign,,nevus,histopathology,,IL_3490017,,,,,,True,,IP_9992027,,female,,,,,,,,3264,2448
+5e95f2c1396583e25a507bf9,ISIC_7741524,75,lower extremity,benign,,,histopathology,,IL_7025691,,,,,,,,IP_9738076,,female,,,,,,,,640,480
+5e81032174440928c0be04c4,ISIC_7743124,30,lower extremity,benign,,nevus,histopathology,,IL_3588059,,,,,,True,,IP_7691333,,female,,,,,,,,2592,1936
+5e95f347396583e25a5086e9,ISIC_7746409,65,upper extremity,benign,,,histopathology,,IL_4632860,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e8105bb74440928c0be0c10,ISIC_7749589,45,lower extremity,benign,,nevus,histopathology,,IL_6239270,,,,,,True,,IP_6885799,,female,,,,,,,,3264,2448
+5e81077674440928c0be2297,ISIC_7769213,40,posterior torso,benign,,nevus,histopathology,,IL_7391594,,,,,,True,,IP_8627268,,female,,,,,,,,3264,2448
+5e8105f774440928c0be0e08,ISIC_7785457,80,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_6916333,,,,,,False,,IP_4576785,,male,,,,,,,,2592,1936
+5e8f928a4ad5f6bd588b127e,ISIC_7797595,55,upper extremity,benign,,lentigo NOS,histopathology,,IL_8820022,,,,,,True,,IP_4321822,,male,,,,,,,,2317,2317
+5e95f1be396583e25a5066e4,ISIC_7804844,65,lower extremity,benign,,,histopathology,,IL_6385077,,,,,,,,IP_6292815,,female,,,,,,,,640,480
+5e81072674440928c0be1ed9,ISIC_7819707,35,anterior torso,benign,,nevus,histopathology,,IL_1668074,,,,,,True,,IP_0637703,,female,,,,,,,,3264,2448
+5e8105c174440928c0be0c9b,ISIC_7824420,55,upper extremity,benign,,nevus,histopathology,,IL_6233329,,,,,,True,,IP_5229014,,male,,,,,,,,3264,2448
+5e95f2e6396583e25a507f23,ISIC_7829947,30,upper extremity,benign,,,histopathology,,IL_9364360,,,,,,,,IP_1512731,,male,,,,,,,,640,480
+5e8106e074440928c0be1bb5,ISIC_7833008,65,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_2261562,,,,,,False,,IP_7587497,,male,,,,,,,,4288,2848
+5e95f205396583e25a506c90,ISIC_7843406,45,palms/soles,benign,,,histopathology,,IL_4764580,,,,,,,,IP_2160700,,male,,,,,,,,640,480
+5e8f90e24ad5f6bd588b0cd8,ISIC_7843804,75,upper extremity,benign,,nevus,histopathology,,IL_2934313,,,,,,True,combined,IP_5390682,,male,,,,,,,,5184,3456
+5e8f91554ad5f6bd588b0dec,ISIC_7847294,45,anterior torso,benign,,nevus,histopathology,,IL_1670872,,,,,,True,combined,IP_4110621,,male,,,,,,,,5184,3456
+5e95f238396583e25a5070ad,ISIC_7849885,60,lower extremity,benign,,,histopathology,,IL_4295945,,,,,,,,IP_6293754,,female,,,,,,,,1872,1053
+5e95f284396583e25a5076c1,ISIC_7850884,60,lower extremity,benign,,,histopathology,,IL_2195585,,,,,,,,IP_9115451,,male,,,,,,,,640,480
+5e8105c474440928c0be0ccd,ISIC_7855286,35,posterior torso,benign,,nevus,histopathology,,IL_9536404,,,,,,True,,IP_1039996,,male,,,,,,,,3264,2448
+5e95f2ad396583e25a507a46,ISIC_7863564,30,posterior torso,benign,,,histopathology,,IL_6117968,,,,,,,,IP_2375765,,male,,,,,,,,640,480
+5e8106c074440928c0be1914,ISIC_7866488,70,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_3488143,,,,,,False,,IP_7645011,,male,,,,,,,,3264,2448
+5e80fc3a74440928c0bdf620,ISIC_7867320,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_4759927,,,,,,False,,IP_3034671,,male,,,,,,,,2592,1936
+5e81062474440928c0be11ed,ISIC_7876737,55,posterior torso,benign,,nevus,histopathology,,IL_9895671,,,,,,True,,IP_5294508,,male,,,,,,,,3264,2448
+5e8100a374440928c0be0203,ISIC_7888517,25,anterior torso,benign,,nevus,histopathology,,IL_7849814,,,,,,True,,IP_6331798,,female,,,,,,,,3264,2448
+5e95f30a396583e25a50821d,ISIC_7891412,65,lateral torso,benign,,,histopathology,,IL_9968925,,,,,,,,IP_0998852,,female,,,,,,,,1872,1053
+5e8f94644ad5f6bd588b1990,ISIC_7901662,60,posterior torso,benign,,nevus,histopathology,,IL_6287169,,,,,,True,combined,IP_3603767,,female,,,,,,,,2317,2317
+5e81034474440928c0be075f,ISIC_7907495,45,lower extremity,benign,,nevus,histopathology,,IL_5913035,,,,,,True,,IP_3358218,,female,,,,,,,,2592,1936
+5e8106d974440928c0be1b28,ISIC_7914964,35,upper extremity,benign,,nevus,histopathology,,IL_2168571,,,,,,True,,IP_2049351,,male,,,,,,,,2592,1936
+5e8106ce74440928c0be1a3a,ISIC_7918608,75,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_5280417,,,,,,False,,IP_6006409,,female,,,,,,,,3264,2448
+5e8f91754ad5f6bd588b0e69,ISIC_7929262,65,posterior torso,benign,,nevus,histopathology,,IL_9863405,,,,,,True,,IP_7716626,,male,,,,,,,,4032,3024
+5e95f238396583e25a5070b0,ISIC_7933774,55,upper extremity,benign,,,histopathology,,IL_1303553,,,,,,,,IP_8829018,,male,,,,,,,,1872,1053
+5e81033f74440928c0be0703,ISIC_7934896,30,lower extremity,benign,,nevus,histopathology,,IL_7578905,,,,,,True,,IP_4210911,,female,,,,,,,,3264,2448
+5e8fb603396583e25a505a72,ISIC_7941289,65,anterior torso,benign,,nevus,histopathology,,IL_3670978,,,,,,True,combined,IP_8650344,,male,,,,,,,,4032,3024
+5e81033374440928c0be0616,ISIC_7945791,30,anterior torso,benign,,nevus,histopathology,,IL_0939865,,,,,,True,,IP_8004532,,female,,,,,,,,3264,2448
+5e8106be74440928c0be18ec,ISIC_7964735,60,posterior torso,benign,,nevus,histopathology,,IL_1436249,,,,,,True,,IP_6814066,,male,,,,,,,,3264,2448
+5e81033574440928c0be0637,ISIC_7977757,30,lower extremity,benign,,nevus,histopathology,,IL_1484098,,,,,,True,,IP_8004532,,female,,,,,,,,6000,4000
+5e8105ed74440928c0be0d3c,ISIC_7982020,35,head/neck,benign,,nevus,histopathology,,IL_6781705,,,,,,True,,IP_8513373,,male,,,,,,,,2592,1936
+5e81067274440928c0be15b6,ISIC_7987416,45,posterior torso,benign,,nevus,histopathology,,IL_5675991,,,,,,True,,IP_3954109,,male,,,,,,,,3264,2448
+5e81072674440928c0be1ecd,ISIC_8001976,40,lower extremity,benign,,nevus,histopathology,,IL_0227095,,,,,,True,,IP_9086201,,female,,,,,,,,3264,2448
+5e95f376396583e25a508af6,ISIC_8015259,75,head/neck,benign,,,histopathology,,IL_4279169,,,,,,,,IP_0787478,,male,,,,,,,,1872,1053
+5e80f8b174440928c0bdeed3,ISIC_8018856,40,posterior torso,benign,,nevus,histopathology,,IL_1222499,,,,,,True,,IP_2760044,,male,,,,,,,,2592,1936
+5e8f945f4ad5f6bd588b195d,ISIC_8022913,75,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_9618197,,,,,,False,,IP_2986217,,male,,,,,,,,6000,4000
+5e81061474440928c0be1088,ISIC_8023861,60,posterior torso,benign,,nevus,histopathology,,IL_9202815,,,,,,True,,IP_7447953,,male,,,,,,,,3264,2448
+5e8fb3f2396583e25a505845,ISIC_8033318,50,lower extremity,benign,,nevus,histopathology,,IL_6380207,,,,,,True,combined,IP_2152204,,female,,,,,,,,5184,3456
+5e81068374440928c0be1714,ISIC_8033490,40,posterior torso,benign,,nevus,histopathology,,IL_6995733,,,,,,True,,IP_2189124,,male,,,,,,,,3264,2448
+5e95f1bf396583e25a506701,ISIC_8034738,40,upper extremity,benign,,,histopathology,,IL_8689329,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e8f8f814ad5f6bd588b082b,ISIC_8041953,40,posterior torso,benign,,nevus,histopathology,,IL_7202378,,,,,,True,,IP_3986523,,male,,,,,,,,3888,2592
+5e8f93094ad5f6bd588b14c1,ISIC_8043823,55,lower extremity,benign,,nevus,histopathology,,IL_1998122,,,,,,True,combined,IP_6532463,,female,,,,,,,,3888,2592
+5e95f282396583e25a507694,ISIC_8048162,55,anterior torso,benign,,,histopathology,,IL_0889390,,,,,,,,IP_0998852,,female,,,,,,,,640,480
+5e8f8e3f4ad5f6bd588b03d5,ISIC_8051791,55,posterior torso,benign,,nevus,histopathology,,IL_2776503,,,,,,True,,IP_1658752,,male,,,,,,,,3264,2448
+5e8fbc34396583e25a5061bc,ISIC_8054626,80,lower extremity,benign,,nevus,histopathology,,IL_6187283,,,,,,True,,IP_1545708,,female,,,,,,,,1769,1769
+5e80fbd874440928c0bdf245,ISIC_8058783,45,posterior torso,benign,,nevus,histopathology,,IL_9675985,,,,,,True,,IP_2538906,,female,,,,,,,,2592,1936
+5e81077b74440928c0be2306,ISIC_8068826,55,upper extremity,benign,,nevus,histopathology,,IL_1764769,,,,,,True,,IP_8233849,,male,,,,,,,,3264,2448
+5e80f8b374440928c0bdef05,ISIC_8079008,35,,benign,,nevus,histopathology,,IL_3164109,,,,,,True,,IP_1800426,,female,,,,,,,,2592,1936
+5e8f8ebe4ad5f6bd588b0584,ISIC_8085467,75,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_2180127,,,,,,False,,IP_5390682,,male,,,,,,,,5184,3456
+5e80fc3774440928c0bdf5e5,ISIC_8086499,60,posterior torso,benign,,lentigo NOS,histopathology,,IL_9859290,,,,,,True,,IP_4772390,,male,,,,,,,,3264,2448
+5e95f24d396583e25a50728a,ISIC_8114502,50,upper extremity,benign,,,histopathology,,IL_3739915,,,,,,,,IP_0718832,,female,,,,,,,,640,480
+5e81071874440928c0be1dac,ISIC_8122480,50,posterior torso,benign,,nevus,histopathology,,IL_2540408,,,,,,True,,IP_1615189,,male,,,,,,,,3264,2448
+5e80fc9f74440928c0bdfae5,ISIC_8131464,55,posterior torso,benign,,nevus,histopathology,,IL_6094455,,,,,,True,,IP_1672532,,male,,,,,,,,3264,2448
+5e80fca874440928c0bdfb85,ISIC_8137345,50,,benign,,nevus,histopathology,,IL_6560416,,,,,,True,,IP_9563768,,female,,,,,,,,3264,2448
+5e95f281396583e25a507684,ISIC_8142027,35,head/neck,benign,,,histopathology,,IL_9158863,,,,,,,,IP_7785592,,male,,,,,,,,640,480
+5e8402b82a5a4415fe69572a,ISIC_8142461,45,lower extremity,benign,,nevus,histopathology,,IL_1699104,,,,,,True,,IP_5596716,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f33e396583e25a50863e,ISIC_8151437,25,anterior torso,benign,,,histopathology,,IL_3801061,,,,,,,,IP_5174964,,male,,,,,,,,640,480
+5e81059774440928c0be0908,ISIC_8172419,65,head/neck,benign,,seborrheic keratosis,histopathology,,IL_6658963,,,,,,False,,IP_1559100,,male,,,,,,,,3264,2448
+5e80fcbf74440928c0bdfd30,ISIC_8180937,30,anterior torso,benign,,nevus,histopathology,,IL_5622761,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e81077174440928c0be222f,ISIC_8188175,50,anterior torso,benign,,nevus,histopathology,,IL_8819338,,,,,,True,,IP_0135517,,female,,,,,,,,3264,2448
+5e8106df74440928c0be1bad,ISIC_8201028,55,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_6424870,,,,,,False,,IP_8861178,,male,,,,,,,,2592,1936
+5e95f278396583e25a5075ce,ISIC_8202586,35,lower extremity,benign,,,histopathology,,IL_7600829,,,,,,,,IP_7997841,,male,,,,,,,,640,480
+5e80fca874440928c0bdfb8c,ISIC_8223110,50,anterior torso,benign,,nevus,histopathology,,IL_5854114,,,,,,True,,IP_9563768,,female,,,,,,,,3264,2448
+5e81066b74440928c0be1520,ISIC_8223466,55,anterior torso,benign,,nevus,histopathology,,IL_8372403,,,,,,True,,IP_0175414,,male,,,,,,,,5184,3456
+5e81074174440928c0be2112,ISIC_8225405,55,anterior torso,benign,,nevus,histopathology,,IL_2503240,,,,,,True,,IP_7775567,,male,,,,,,,,3264,2448
+5e81008b74440928c0be00a6,ISIC_8231704,50,head/neck,benign,,lentigo NOS,histopathology,,IL_9531765,,,,,,True,,IP_3120589,,female,,,,,,,,2592,1936
+5e81067b74440928c0be166f,ISIC_8231949,40,lower extremity,benign,,nevus,histopathology,,IL_6239449,,,,,,True,,IP_9087899,,male,,,,,,,,3264,2448
+5e80fca974440928c0bdfb9a,ISIC_8236943,50,,benign,,nevus,histopathology,,IL_2052649,,,,,,True,spitz,IP_9563768,,female,,,,,,,,4288,2848
+5e81032074440928c0be04aa,ISIC_8246244,30,posterior torso,benign,,nevus,histopathology,,IL_3752256,,,,,,True,,IP_7691333,,female,,,,,,,,2592,1936
+5e8f905b4ad5f6bd588b0ae7,ISIC_8246523,45,posterior torso,benign,,nevus,histopathology,,IL_3975934,,,,,,True,,IP_6932031,,female,,,,,,,,4032,3024
+5e80fbe774440928c0bdf365,ISIC_8266469,40,head/neck,benign,,nevus,histopathology,,IL_2065376,,,,,,True,,IP_9086717,,male,,,,,,,,2592,1936
+5e8f97134ad5f6bd588b1fa5,ISIC_8270405,70,posterior torso,benign,,nevus,histopathology,,IL_4727817,,,,,,True,combined,IP_5917089,,male,,,,,,,,4032,3024
+5e95f2ae396583e25a507a61,ISIC_8276321,60,lateral torso,benign,,,histopathology,,IL_2185990,,,,,,,,IP_8171851,,female,,,,,,,,1872,1053
+5e80fc4074440928c0bdf686,ISIC_8276999,55,anterior torso,benign,,nevus,histopathology,,IL_5325040,,,,,,True,,IP_5031178,,female,,,,,,,,3264,2448
+5e8106d474440928c0be1aaf,ISIC_8279476,45,upper extremity,benign,,nevus,histopathology,,IL_8614021,,,,,,True,,IP_4576977,,male,,,,,,,,3264,2448
+5e80f8b074440928c0bdeeca,ISIC_8279558,40,upper extremity,benign,,nevus,histopathology,,IL_4780242,,,,,,True,,IP_4667127,,female,,,,,,,,4288,2848
+5e8f8fbd4ad5f6bd588b08d3,ISIC_8284051,40,posterior torso,benign,,nevus,histopathology,,IL_8555899,,,,,,True,combined,IP_2947490,,male,,,,,,,,4032,3024
+5e8f8eb04ad5f6bd588b0517,ISIC_8285361,45,lower extremity,benign,,nevus,histopathology,,IL_2320139,,,,,,True,,IP_0603175,,male,,,,,,,,6000,4000
+5e95f27c396583e25a507618,ISIC_8285776,45,lower extremity,benign,,,histopathology,,IL_5331026,,,,,,,,IP_3846489,,male,,,,,,,,640,480
+5e81009774440928c0be015b,ISIC_8287528,50,head/neck,benign,,nevus,histopathology,,IL_3315729,,,,,,True,,IP_6331820,,female,,,,,,,,2592,1936
+5e80f88874440928c0bdebf9,ISIC_8295306,50,lateral torso,benign,,nevus,histopathology,,IL_6039532,,,,,,True,,IP_1307115,,male,,,,,,,,2592,1936
+5e8106a874440928c0be1747,ISIC_8299428,40,posterior torso,benign,,nevus,histopathology,,IL_2206624,,,,,,True,,IP_9802994,,female,,,,,,,,3264,2448
+5e8107d474440928c0be2788,ISIC_8300326,30,,benign,,nevus,histopathology,,IL_7459712,,,,,,True,,IP_9001826,,female,,,,,,,,4288,2848
+5e81060474440928c0be0f20,ISIC_8324787,60,lower extremity,benign,,nevus,histopathology,,IL_5886460,,,,,,True,,IP_2302748,,female,,,,,,,,2592,1936
+5e81061474440928c0be1099,ISIC_8340426,75,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_0190545,,,,,,False,,IP_8027787,,male,,,,,,,,2592,1936
+5e81008b74440928c0be00a7,ISIC_8357133,50,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_8987268,,,,,,False,,IP_3120589,,female,,,,,,,,2592,1936
+5e8f9b364ad5f6bd588b20de,ISIC_8361472,70,posterior torso,benign,,solar lentigo,histopathology,,IL_1467529,,,,,,False,,IP_5831170,,male,,,,,,,,6000,4000
+5e8f90724ad5f6bd588b0b7e,ISIC_8363069,40,posterior torso,benign,,nevus,histopathology,,IL_3619383,,,,,,True,combined,IP_7271570,,female,,,,,,,,4032,3024
+5e80fbc574440928c0bdf0f0,ISIC_8363485,55,head/neck,benign,,nevus,histopathology,,IL_0421048,,,,,,True,,IP_8210115,,male,,,,,,,,3264,2448
+5e80fbc274440928c0bdf0b2,ISIC_8380039,55,upper extremity,benign,,nevus,histopathology,,IL_7851370,,,,,,True,,IP_1866634,,female,,,,,,,,3264,2448
+5e8106ae74440928c0be17c2,ISIC_8380421,30,upper extremity,benign,,nevus,histopathology,,IL_7768021,,,,,,True,,IP_8226501,,female,,,,,,,,3264,2448
+5e95f2ef396583e25a507fd5,ISIC_8380874,60,anterior torso,benign,,,histopathology,,IL_7175766,,,,,,,,IP_6151980,,female,,,,,,,,1872,1053
+5e8fb716396583e25a505c13,ISIC_8381313,45,head/neck,benign,,nevus,histopathology,,IL_2773708,,,,,,True,combined,IP_3511494,,male,,,,,,,,5184,3456
+5e8105bb74440928c0be0c1a,ISIC_8390111,45,upper extremity,benign,,nevus,histopathology,,IL_6201630,,,,,,True,,IP_6885799,,female,,,,,,,,3264,2448
+5e95f321396583e25a5083cf,ISIC_8393310,60,posterior torso,benign,,,histopathology,,IL_1118610,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e81032674440928c0be051b,ISIC_8425893,25,posterior torso,benign,,nevus,histopathology,,IL_8538839,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e81009674440928c0be0156,ISIC_8429099,50,posterior torso,benign,,nevus,histopathology,,IL_3892464,,,,,,True,,IP_6331820,,female,,,,,,,,2592,1936
+5e81060974440928c0be0f9a,ISIC_8451130,75,posterior torso,benign,,nevus,histopathology,,IL_1076545,,,,,,True,,IP_2766521,,male,,,,,,,,3264,2448
+5e81062474440928c0be11ea,ISIC_8465152,55,upper extremity,benign,,nevus,histopathology,,IL_1681301,,,,,,True,,IP_5294508,,male,,,,,,,,4288,2848
+5e8107d074440928c0be2729,ISIC_8472701,35,anterior torso,benign,,nevus,histopathology,,IL_5088503,,,,,,True,,IP_5584080,,female,,,,,,,,4288,2848
+5e8fbd75396583e25a5063ff,ISIC_8483008,75,anterior torso,benign,,nevus,histopathology,,IL_5699183,,,,,,True,,IP_5390682,,male,,,,,,,,1767,1767
+5e8107d474440928c0be278d,ISIC_8501248,55,head/neck,benign,,seborrheic keratosis,histopathology,,IL_7036956,,,,,,False,,IP_9229871,,female,,,,,,,,3264,2448
+5e80fbed74440928c0bdf3ce,ISIC_8503192,50,posterior torso,benign,,lentigo NOS,histopathology,,IL_4152799,,,,,,True,,IP_0892152,,male,,,,,,,,3264,2448
+5e80fbd674440928c0bdf214,ISIC_8545097,45,anterior torso,benign,,nevus,histopathology,,IL_1139088,,,,,,True,,IP_3676113,,male,,,,,,,,3264,2448
+5e8f93e94ad5f6bd588b17d1,ISIC_8578525,50,head/neck,benign,,nevus,histopathology,,IL_8718294,,,,,,True,combined,IP_3293337,,male,,,,,,,,4608,3072
+5e95f25c396583e25a50739f,ISIC_8589165,45,lower extremity,benign,,,histopathology,,IL_3836560,,,,,,,,IP_0093378,,male,,,,,,,,640,480
+5e95f1da396583e25a50690d,ISIC_8602467,30,posterior torso,benign,,,histopathology,,IL_8582508,,,,,,,,IP_5627853,,female,,,,,,,,1872,1053
+5e95f1ca396583e25a5067c1,ISIC_8604565,40,lower extremity,benign,,,histopathology,,IL_3267666,,,,,,,,IP_9585016,,male,,,,,,,,640,480
+5e8105f674440928c0be0dee,ISIC_8618156,40,head/neck,benign,,nevus,histopathology,,IL_6953063,,,,,,True,,IP_4842370,,female,,,,,,,,2592,1936
+5e95f28a396583e25a50773b,ISIC_8624230,50,lower extremity,benign,,,histopathology,,IL_0631177,,,,,,,,IP_3055814,,male,,,,,,,,1872,1053
+5e81072674440928c0be1ecf,ISIC_8628639,35,anterior torso,benign,,nevus,histopathology,,IL_5231527,,,,,,True,,IP_9086201,,female,,,,,,,,4288,2848
+5e81065674440928c0be134f,ISIC_8632387,20,lower extremity,benign,,nevus,histopathology,,IL_7826693,,,,,,True,,IP_3523452,,female,,,,,,,,3264,2448
+5e80fbc674440928c0bdf100,ISIC_8633132,40,head/neck,benign,,lentigo NOS,histopathology,,IL_9866131,,,,,,True,,IP_3937212,,female,,,,,,,,4288,2848
+5e95f259396583e25a507365,ISIC_8637235,20,upper extremity,benign,,,histopathology,,IL_1364957,,,,,,,,IP_1023029,,female,,,,,,,,640,480
+5e8f92ff4ad5f6bd588b1468,ISIC_8648734,40,anterior torso,benign,,nevus,histopathology,,IL_1877133,,,,,,True,,IP_2520657,,male,,,,,,,,5184,3456
+5e81070974440928c0be1c63,ISIC_8650269,40,lower extremity,benign,,nevus,histopathology,,IL_0792713,,,,,,True,,IP_6901441,,female,,,,,,,,3264,2448
+5e8106b774440928c0be185f,ISIC_8652341,60,head/neck,benign,,lentigo NOS,histopathology,,IL_6645755,,,,,,True,,IP_6661651,,male,,,,,,,,4288,2848
+5e95f2f6396583e25a508065,ISIC_8653964,55,lateral torso,benign,,,histopathology,,IL_4202907,,,,,,,,IP_4639224,,male,,,,,,,,1872,1053
+5e81065b74440928c0be13c6,ISIC_8659007,50,head/neck,benign,,nevus,histopathology,,IL_7713511,,,,,,True,,IP_2900789,,female,,,,,,,,3264,2448
+5e80fcd274440928c0bdfe8c,ISIC_8661226,50,posterior torso,benign,,nevus,histopathology,,IL_6753954,,,,,,True,spitz,IP_5326800,,female,,,,,,,,3264,2448
+5e8107dd74440928c0be284f,ISIC_8669067,60,lower extremity,benign,,nevus,histopathology,,IL_0363747,,,,,,True,,IP_7404937,,male,,,,,,,,3264,2448
+5e95f321396583e25a5083db,ISIC_8674937,40,lower extremity,benign,,,histopathology,,IL_7572406,,,,,,,,IP_1197949,,male,,,,,,,,640,480
+5e81076874440928c0be2177,ISIC_8675566,60,,benign,,nevus,histopathology,,IL_3046907,,,,,,True,,IP_7817315,,female,,,,,,,,2592,1936
+5e95f1f6396583e25a506b7e,ISIC_8679740,35,head/neck,benign,,,histopathology,,IL_8205876,,,,,,,,IP_7785592,,male,,,,,,,,640,480
+5e95f1c0396583e25a506718,ISIC_8695317,60,posterior torso,benign,,,histopathology,,IL_8598180,,,,,,,,IP_9115451,,male,,,,,,,,640,480
+5e8402a72a5a4415fe69558b,ISIC_8699846,40,,benign,,nevus,histopathology,,IL_0731999,,,,,,True,,IP_9258690,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8100b374440928c0be0329,ISIC_8705729,30,,benign,,nevus,histopathology,,IL_1863309,,,,,,True,blue,IP_0446831,,male,,,,,,,,4288,2848
+5e81061d74440928c0be1156,ISIC_8712921,35,posterior torso,benign,,nevus,histopathology,,IL_3630259,,,,,,True,,IP_5795395,,female,,,,,,,,6000,4000
+5e80f88474440928c0bdebae,ISIC_8715705,15,lower extremity,benign,,nevus,histopathology,,IL_6309044,,,,,,True,,IP_2444029,,male,,,,,,,,3264,2448
+5e95f277396583e25a5075bc,ISIC_8719270,40,posterior torso,benign,,,histopathology,,IL_3872432,,,,,,,,IP_9644948,,female,,,,,,,,1872,1053
+5e81078474440928c0be23cb,ISIC_8725993,25,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_8044528,,,,,,False,,IP_5152468,,female,,,,,,,,3264,2448
+5e81065274440928c0be1304,ISIC_8727047,65,posterior torso,benign,,nevus,histopathology,,IL_8006267,,,,,,True,,IP_8793264,,female,,,,,,,,6000,4000
+5e8105bc74440928c0be0c21,ISIC_8734128,45,anterior torso,benign,,nevus,histopathology,,IL_8462767,,,,,,True,,IP_6885799,,female,,,,,,,,3264,2448
+5e80fc6674440928c0bdf957,ISIC_8740695,60,lower extremity,benign,,nevus,histopathology,,IL_8374987,,,,,,True,,IP_4154441,,female,,,,,,,,4288,2848
+5e81066f74440928c0be1575,ISIC_8754972,70,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_7710508,,,,,,False,,IP_6643545,,male,,,,,,,,2592,1936
+5e8f90f54ad5f6bd588b0d87,ISIC_8778158,50,upper extremity,benign,,nevus,histopathology,,IL_9797584,,,,,,True,,IP_5577320,,female,,,,,,,,1967,1967
+5e8faf0e396583e25a5055ce,ISIC_8780369,55,posterior torso,benign,,nevus,histopathology,,IL_6967125,,,,,,True,combined,IP_2277890,,male,,,,,,,,1761,1761
+5e95f250396583e25a5072b9,ISIC_8781050,30,lower extremity,benign,,,histopathology,,IL_7664490,,,,,,,,IP_5064161,,male,,,,,,,,640,480
+5e8f90674ad5f6bd588b0b36,ISIC_8786539,60,anterior torso,benign,,nevus,histopathology,,IL_8823577,,,,,,True,combined,IP_8006065,,female,,,,,,,,5184,3456
+5e95f255396583e25a507310,ISIC_8791163,80,posterior torso,benign,,,histopathology,,IL_8454047,,,,,,,,IP_3707904,,male,,,,,,,,1872,1053
+5e81070c74440928c0be1c9b,ISIC_8794567,60,upper extremity,benign,,nevus,histopathology,,IL_7075978,,,,,,True,,IP_5119720,,male,,,,,,,,3264,2448
+5e8106d774440928c0be1af2,ISIC_8795038,60,posterior torso,benign,,nevus,histopathology,,IL_6405732,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e95f2da396583e25a507e4d,ISIC_8797868,55,oral/genital,benign,,,histopathology,,IL_0741459,,,,,,,,IP_4639224,,male,,,,,,,,1872,1053
+5e95f1e5396583e25a506a32,ISIC_8809821,60,lower extremity,benign,,,histopathology,,IL_2178244,,,,,,,,IP_3941296,,female,,,,,,,,640,480
+5e8106e274440928c0be1be3,ISIC_8814735,70,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_9386360,,,,,,False,,IP_9037179,,male,,,,,,,,3264,2448
+5e95f311396583e25a5082c5,ISIC_8819163,65,upper extremity,benign,,,histopathology,,IL_1745593,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e8403cb2a5a4415fe695fa0,ISIC_8823366,35,,benign,,nevus,histopathology,,IL_6788629,,,,,,True,,IP_3237448,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8faf01396583e25a505550,ISIC_8828670,50,upper extremity,benign,,lichenoid keratosis,histopathology,,IL_3634699,,,,,,False,,IP_2898839,,male,,,,,,,,1763,1763
+5e95f32a396583e25a50848b,ISIC_8835154,25,upper extremity,benign,,,histopathology,,IL_7357951,,,,,,,,IP_2738065,,female,,,,,,,,1872,1053
+5e95f1ca396583e25a5067c7,ISIC_8845891,35,anterior torso,benign,,,histopathology,,IL_2192600,,,,,,,,IP_8759634,,female,,,,,,,,640,480
+5e80f88e74440928c0bdec6b,ISIC_8847503,70,lower extremity,benign,,nevus,histopathology,,IL_9510656,,,,,,True,,IP_7335423,,female,,,,,,,,3264,2448
+5e81068374440928c0be1703,ISIC_8851901,80,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_0835100,,,,,,False,,IP_4615697,,male,,,,,,,,2592,1936
+5e8105b074440928c0be0b2c,ISIC_8858877,40,anterior torso,benign,,nevus,histopathology,,IL_4866214,,,,,,True,,IP_6420568,,male,,,,,,,,6000,4000
+5e95f287396583e25a507700,ISIC_8860429,50,palms/soles,benign,,,histopathology,,IL_7680410,,,,,,,,IP_0093378,,male,,,,,,,,640,480
+5e95f1d2396583e25a506874,ISIC_8876880,45,lower extremity,benign,,,histopathology,,IL_8832896,,,,,,,,IP_7702038,,male,,,,,,,,1872,1053
+5e8f8e6f4ad5f6bd588b0440,ISIC_8878967,30,upper extremity,benign,,nevus,histopathology,,IL_4565967,,,,,,True,combined,IP_3662918,,female,,,,,,,,5184,3456
+5e95f344396583e25a5086ba,ISIC_8882436,65,posterior torso,benign,,,histopathology,,IL_2315367,,,,,,,,IP_2322991,,male,,,,,,,,1872,1053
+5e80fc3674440928c0bdf5c2,ISIC_8889975,25,posterior torso,benign,,nevus,histopathology,,IL_0189935,,,,,,True,,IP_8839187,,male,,,,,,,,3264,2448
+5e80f8b674440928c0bdef3f,ISIC_8894528,35,posterior torso,benign,,lichenoid keratosis,histopathology,,IL_1478583,,,,,,False,,IP_4988871,,female,,,,,,,,4288,2848
+5e81035174440928c0be085d,ISIC_8904448,35,,benign,,nevus,histopathology,,IL_3751261,,,,,,True,,IP_8437394,,female,,,,,,,,3264,2448
+5e95f1f1396583e25a506b27,ISIC_8912122,75,lower extremity,benign,,,histopathology,,IL_2451012,,,,,,,,IP_0787478,,male,,,,,,,,1872,1053
+5e95f22b396583e25a506fbc,ISIC_8960456,35,posterior torso,benign,,,histopathology,,IL_0368323,,,,,,,,IP_6977878,,male,,,,,,,,640,480
+5e8f91f74ad5f6bd588b1014,ISIC_8965323,60,lower extremity,benign,,nevus,histopathology,,IL_5845947,,,,,,True,combined,IP_6267856,,female,,,,,,,,5184,3456
+5e81032774440928c0be052f,ISIC_8969855,25,lower extremity,benign,,nevus,histopathology,,IL_5844969,,,,,,True,,IP_4938382,,female,,,,,,,,3264,2448
+5e80fccf74440928c0bdfe4e,ISIC_8971137,40,head/neck,benign,,nevus,histopathology,,IL_7112777,,,,,,True,,IP_6153406,,female,,,,,,,,3264,2448
+5e8403862a5a4415fe695967,ISIC_9000901,60,lower extremity,benign,,nevus,histopathology,,IL_7572246,,,,,,True,,IP_2852433,,female,,,,contact polarized,,dermoscopic,,1872,1053
+5e81059774440928c0be0911,ISIC_9006160,55,lateral torso,benign,,seborrheic keratosis,histopathology,,IL_4400296,,,,,,False,,IP_7373371,,female,,,,,,,,4288,2848
+5e80fc4574440928c0bdf6ef,ISIC_9014393,25,posterior torso,benign,,nevus,histopathology,,IL_7875680,,,,,,True,,IP_6129542,,female,,,,,,,,3264,2448
+5e8f90c44ad5f6bd588b0bd3,ISIC_9016941,45,lower extremity,benign,,nevus,histopathology,,IL_8838682,,,,,,True,combined,IP_3752129,,male,,,,,,,,5184,3456
+5e95f2a8396583e25a5079cc,ISIC_9018338,45,lower extremity,benign,,,histopathology,,IL_2561418,,,,,,,,IP_6709202,,female,,,,,,,,640,480
+5e8faeff396583e25a50553d,ISIC_9028131,80,anterior torso,benign,,nevus,histopathology,,IL_0292301,,,,,,True,,IP_1665515,,male,,,,,,,,3456,5184
+5e95f274396583e25a50756f,ISIC_9056422,50,upper extremity,benign,,,histopathology,,IL_5455271,,,,,,,,IP_0512752,,male,,,,,,,,1872,1053
+5e95f1dc396583e25a50694d,ISIC_9059919,45,head/neck,benign,,,histopathology,,IL_0285086,,,,,,,,IP_2166250,,male,,,,,,,,1872,1053
+5e80f88b74440928c0bdec30,ISIC_9082696,55,lower extremity,benign,,nevus,histopathology,,IL_4650474,,,,,,True,,IP_5331792,,male,,,,,,,,3264,2448
+5e8faa2d396583e25a5051e6,ISIC_9088976,40,anterior torso,benign,,nevus,histopathology,,IL_4104861,,,,,,True,,IP_2520657,,male,,,,,,,,5184,3456
+5e81072974440928c0be1f0d,ISIC_9103289,45,lower extremity,benign,,nevus,histopathology,,IL_4479456,,,,,,True,,IP_3755407,,male,,,,,,,,3264,2448
+5e8105a374440928c0be0a15,ISIC_9105247,30,,benign,,nevus,histopathology,,IL_3903394,,,,,,True,,IP_6808872,,male,,,,,,,,3264,2448
+5e8105af74440928c0be0b12,ISIC_9111388,40,posterior torso,benign,,nevus,histopathology,,IL_5194468,,,,,,True,,IP_7357415,,female,,,,,,,,2592,1936
+5e81061e74440928c0be1168,ISIC_9117335,35,posterior torso,benign,,nevus,histopathology,,IL_6691293,,,,,,True,,IP_5795395,,female,,,,,,,,3264,2448
+5e95f1c4396583e25a506759,ISIC_9128304,60,oral/genital,benign,,,histopathology,,IL_2164595,,,,,,,,IP_2947236,,female,,,,,,,,640,480
+5e80fcbf74440928c0bdfd2d,ISIC_9141038,30,posterior torso,benign,,nevus,histopathology,,IL_5084159,,,,,,True,,IP_3938557,,male,,,,,,,,3264,2448
+5e80fc4574440928c0bdf6ee,ISIC_9150236,25,posterior torso,benign,,nevus,histopathology,,IL_4743980,,,,,,True,,IP_6129542,,female,,,,,,,,6000,4000
+5e80fc4d74440928c0bdf78d,ISIC_9177435,35,posterior torso,benign,,nevus,histopathology,,IL_8600897,,,,,,True,,IP_8989787,,male,,,,,,,,3264,2448
+5e84039b2a5a4415fe695b36,ISIC_9185624,75,,benign,,nevus,histopathology,,IL_5258321,,,,,,True,,IP_3293726,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e95f2bf396583e25a507bc3,ISIC_9186287,55,lower extremity,benign,,,histopathology,,IL_0526038,,,,,,,,IP_0718832,,female,,,,,,,,1872,1053
+5e81009674440928c0be014e,ISIC_9189897,35,posterior torso,benign,,nevus,histopathology,,IL_9982556,,,,,,True,,IP_6945048,,male,,,,,,,,3264,2448
+5e95f20d396583e25a506d45,ISIC_9202161,30,lower extremity,benign,,,histopathology,,IL_2418534,,,,,,,,IP_1253185,,male,,,,,,,,640,480
+5e95f23f396583e25a507143,ISIC_9214448,40,lower extremity,benign,,,histopathology,,IL_1340135,,,,,,,,IP_9644948,,female,,,,,,,,1872,1053
+5e8106cc74440928c0be1a0b,ISIC_9221004,60,posterior torso,benign,,seborrheic keratosis,histopathology,,IL_6500432,,,,,,False,,IP_7270568,,female,,,,,,,,4288,2848
+5e81065174440928c0be12f7,ISIC_9235862,65,posterior torso,benign,,nevus,histopathology,,IL_8584664,,,,,,True,,IP_8793264,,female,,,,,,,,6000,4000
+5e95f2ba396583e25a507b66,ISIC_9263944,65,lower extremity,benign,,,histopathology,,IL_7288079,,,,,,,,IP_2101945,,male,,,,,,,,1872,1053
+5e95f382396583e25a508c00,ISIC_9267202,55,palms/soles,benign,,,histopathology,,IL_4291753,,,,,,,,IP_5076578,,male,,,,,,,,1872,1053
+5e8105ef74440928c0be0d68,ISIC_9274776,75,anterior torso,benign,,lichenoid keratosis,histopathology,,IL_0184095,,,,,,False,,IP_2457893,,male,,,,,,,,4288,2848
+5e81067a74440928c0be165b,ISIC_9276442,40,posterior torso,benign,,nevus,histopathology,,IL_9440360,,,,,,True,,IP_9087899,,male,,,,,,,,2592,1936
+5e81007574440928c0bdff3d,ISIC_9280399,70,lateral torso,benign,,nevus,histopathology,,IL_0244034,,,,,,True,,IP_8135032,,male,,,,,,,,4288,2848
+5e81059774440928c0be0917,ISIC_9284203,55,upper extremity,benign,,nevus,histopathology,,IL_5237626,,,,,,True,,IP_7373371,,female,,,,,,,,6000,4000
+5e95f2f4396583e25a508046,ISIC_9287229,30,anterior torso,benign,,,histopathology,,IL_3851900,,,,,,,,IP_7785592,,male,,,,,,,,640,480
+5e81060e74440928c0be1009,ISIC_9308624,30,head/neck,benign,,nevus,histopathology,,IL_7385206,,,,,,True,,IP_6960402,,female,,,,,,,,4288,2848
+5e8107e374440928c0be28b2,ISIC_9318322,50,lower extremity,benign,,seborrheic keratosis,histopathology,,IL_4932148,,,,,,False,,IP_4096670,,female,,,,,,,,3264,2448
+5e8f8df04ad5f6bd588b02ce,ISIC_9323659,45,posterior torso,benign,,nevus,histopathology,,IL_2266694,,,,,,True,combined,IP_3047844,,male,,,,,,,,5184,3456
+5e81072174440928c0be1e68,ISIC_9330485,45,upper extremity,benign,,nevus,histopathology,,IL_2660728,,,,,,True,,IP_7345731,,male,,,,,,,,2592,1936
+5e8100ad74440928c0be02bd,ISIC_9345892,30,posterior torso,benign,,nevus,histopathology,,IL_9785327,,,,,,True,,IP_4898383,,male,,,,,,,,6000,4000
+5e80fbc774440928c0bdf10c,ISIC_9360610,60,head/neck,benign,,seborrheic keratosis,histopathology,,IL_4681924,,,,,,False,,IP_9067016,,male,,,,,,,,2592,1936
+5e95f207396583e25a506cc3,ISIC_9380228,60,oral/genital,benign,,,histopathology,,IL_0131662,,,,,,,,IP_5076578,,male,,,,,,,,1872,1053
+5e95f209396583e25a506cdb,ISIC_9417604,30,lower extremity,benign,,,histopathology,,IL_9355862,,,,,,,,IP_6977878,,male,,,,,,,,640,480
+5e8106ce74440928c0be1a42,ISIC_9424172,75,head/neck,benign,,seborrheic keratosis,histopathology,,IL_2782304,,,,,,False,,IP_6215369,,male,,,,,,,,2592,1936
+5e81079574440928c0be2527,ISIC_9448629,45,posterior torso,benign,,nevus,histopathology,,IL_6294687,,,,,,True,,IP_7748972,,male,,,,,,,,4288,2848
+5e95f30d396583e25a508268,ISIC_9466790,40,upper extremity,benign,,,histopathology,,IL_6876579,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e8106a774440928c0be172b,ISIC_9469079,35,upper extremity,benign,,nevus,histopathology,,IL_7566771,,,,,,True,,IP_1005794,,female,,,,,,,,3264,2448
+5e8106cd74440928c0be1a25,ISIC_9481406,40,lower extremity,benign,,nevus,histopathology,,IL_3508423,,,,,,True,,IP_8011614,,female,,,,,,,,3264,2448
+5e8403962a5a4415fe695ac1,ISIC_9482842,50,,benign,,nevus,histopathology,,IL_9190174,,,,,,True,,IP_0657134,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e80fbdf74440928c0bdf2cc,ISIC_9492000,45,posterior torso,benign,,lichenoid keratosis,histopathology,,IL_7302076,,,,,,False,,IP_6631780,,female,,,,,,,,2592,1936
+5e80fbed74440928c0bdf3c5,ISIC_9496738,50,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_6680181,,,,,,False,,IP_0892152,,male,,,,,,,,3264,2448
+5e81076974440928c0be2192,ISIC_9499185,30,lower extremity,benign,,nevus,histopathology,,IL_8403695,,,,,,True,,IP_9438537,,female,,,,,,,,6000,4000
+5e8f93094ad5f6bd588b14c0,ISIC_9514450,70,anterior torso,benign,,nevus,histopathology,,IL_7414146,,,,,,True,combined,IP_6128767,,male,,,,,,,,2237,2237
+5e95f1d4396583e25a50688c,ISIC_9522628,25,lower extremity,benign,,,histopathology,,IL_2221548,,,,,,,,IP_6614604,,male,,,,,,,,1872,1053
+5e95f1b4396583e25a506609,ISIC_9525721,40,lower extremity,benign,,,histopathology,,IL_7220555,,,,,,,,IP_6887203,,male,,,,,,,,1872,1053
+5e81061474440928c0be1097,ISIC_9525930,75,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_7774370,,,,,,False,,IP_8027787,,male,,,,,,,,3264,2448
+5e8f91574ad5f6bd588b0df6,ISIC_9526877,40,posterior torso,benign,,nevus,histopathology,,IL_0851104,,,,,,True,,IP_9156695,,female,,,,,,,,4032,3024
+5e8106d974440928c0be1b2b,ISIC_9535018,35,upper extremity,benign,,nevus,histopathology,,IL_7371807,,,,,,True,,IP_2049351,,male,,,,,,,,2592,1936
+5e80fcab74440928c0bdfbcb,ISIC_9540352,60,anterior torso,benign,,seborrheic keratosis,histopathology,,IL_7978685,,,,,,False,,IP_2725676,,female,,,,,,,,3264,2448
+5e8100a874440928c0be0260,ISIC_9540703,40,upper extremity,benign,,nevus,histopathology,,IL_2505669,,,,,,True,,IP_3549978,,female,,,,,,,,6000,4000
+5e95f378396583e25a508b23,ISIC_9554769,50,upper extremity,benign,,,histopathology,,IL_5997296,,,,,,,,IP_0718832,,female,,,,,,,,640,480
+5e81072474440928c0be1ea0,ISIC_9565194,30,upper extremity,benign,,nevus,histopathology,,IL_4770137,,,,,,True,spitz,IP_4959878,,female,,,,,,,,3264,2448
+5e80fc6174440928c0bdf8fe,ISIC_9574591,70,posterior torso,benign,,nevus,histopathology,,IL_4616153,,,,,,True,,IP_2860540,,male,,,,,,,,3264,2448
+5e95f329396583e25a50846c,ISIC_9578109,35,upper extremity,benign,,,histopathology,,IL_0494414,,,,,,,,IP_5627853,,female,,,,,,,,1872,1053
+5e8f92ea4ad5f6bd588b13a6,ISIC_9598453,75,upper extremity,benign,,nevus,histopathology,,IL_0454265,,,,,,True,,IP_1422713,,male,,,,,,,,5184,3456
+5e95f224396583e25a506f3b,ISIC_9599187,40,posterior torso,benign,,,histopathology,,IL_4868421,,,,,,,,IP_1512731,,male,,,,,,,,1872,1053
+5e95f30a396583e25a508225,ISIC_9608773,30,oral/genital,benign,,,histopathology,,IL_0944326,,,,,,,,IP_3281766,,female,,,,,,,,640,480
+5e8107e174440928c0be288c,ISIC_9626070,65,posterior torso,benign,,nevus,histopathology,,IL_4204800,,,,,,True,,IP_2789041,,male,,,,,,,,2592,1936
+5e8107ee74440928c0be2979,ISIC_9626110,50,,benign,,nevus,histopathology,,IL_7722883,,,,,,True,,IP_1705144,,female,,,,,,,,3264,2448
+5e8107a074440928c0be2611,ISIC_9628370,50,lower extremity,benign,,nevus,histopathology,,IL_4571534,,,,,,True,,IP_0877882,,female,,,,,,,,3264,2448
+5e8106c174440928c0be192b,ISIC_9631590,50,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_5590179,,,,,,False,,IP_6526534,,male,,,,,,,,3264,2448
+5e95f2b4396583e25a507adb,ISIC_9631669,40,lower extremity,benign,,,histopathology,,IL_7028338,,,,,,,,IP_3858753,,male,,,,,,,,1872,1053
+5e81067a74440928c0be1653,ISIC_9636881,40,posterior torso,benign,,nevus,histopathology,,IL_3871324,,,,,,True,,IP_9087899,,male,,,,,,,,2592,1936
+5e81079c74440928c0be25b6,ISIC_9648812,50,anterior torso,benign,,nevus,histopathology,,IL_7552944,,,,,,True,,IP_2666042,,male,,,,,,,,3264,2448
+5e8107a274440928c0be2630,ISIC_9657852,40,anterior torso,benign,,nevus,histopathology,,IL_7982749,,,,,,True,,IP_3222187,,female,,,,,,,,3264,2448
+5e81073874440928c0be204d,ISIC_9658175,30,lower extremity,benign,,nevus,histopathology,,IL_3440742,,,,,,True,,IP_3200260,,female,,,,,,,,2592,1936
+5e95f38b396583e25a508ce7,ISIC_9661108,65,palms/soles,benign,,,histopathology,,IL_8211117,,,,,,,,IP_2101945,,male,,,,,,,,1872,1053
+5e95f1c1396583e25a50672c,ISIC_9680231,70,upper extremity,benign,,,histopathology,,IL_2598713,,,,,,,,IP_4391034,,female,,,,,,,,1872,1053
+5e95f25c396583e25a5073a7,ISIC_9686296,65,upper extremity,benign,,,histopathology,,IL_7270244,,,,,,,,IP_8326844,,female,,,,,,,,1872,1053
+5e95f1ee396583e25a506afd,ISIC_9690865,65,lower extremity,benign,,,histopathology,,IL_1459038,,,,,,,,IP_2263888,,female,,,,,,,,640,480
+5e95f2f0396583e25a507fdb,ISIC_9696502,70,oral/genital,benign,,,histopathology,,IL_1156386,,,,,,,,IP_4116267,,female,,,,,,,,1872,1053
+5e8106d674440928c0be1ae9,ISIC_9697899,60,posterior torso,benign,,nevus,histopathology,,IL_2887456,,,,,,True,,IP_7753447,,male,,,,,,,,3264,2448
+5e80fc5674440928c0bdf834,ISIC_9698871,30,posterior torso,benign,,nevus,histopathology,,IL_6539622,,,,,,True,,IP_6814737,,female,,,,,,,,4288,2848
+5e8f92934ad5f6bd588b12cb,ISIC_9704624,85,anterior torso,benign,,nevus,histopathology,,IL_9198634,,,,,,True,,IP_3067471,,male,,,,,,,,1755,1755
+5e8105a274440928c0be09fd,ISIC_9711252,55,,benign,,seborrheic keratosis,histopathology,,IL_5214244,,,,,,False,,IP_9327025,,male,,,,,,,,2592,1936
+5e80fc6a74440928c0bdf98e,ISIC_9720236,60,posterior torso,benign,,nevus,histopathology,,IL_3868123,,,,,,True,,IP_7890415,,male,,,,,,,,3264,2448
+5e8100b274440928c0be0315,ISIC_9721056,65,posterior torso,benign,,nevus,histopathology,,IL_1301938,,,,,,True,blue,IP_4572846,,male,,,,,,,,4288,2848
+5e81070b74440928c0be1c98,ISIC_9727219,60,upper extremity,benign,,nevus,histopathology,,IL_7766644,,,,,,True,,IP_5119720,,male,,,,,,,,3264,2448
+5e80fca574440928c0bdfb57,ISIC_9728805,75,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_9916641,,,,,,False,,IP_3010556,,male,,,,,,,,3264,2448
+5e81060374440928c0be0f1d,ISIC_9748845,65,head/neck,benign,,nevus,histopathology,,IL_2407470,,,,,,True,,IP_2302748,,female,,,,,,,,3264,2448
+5e8106e674440928c0be1c28,ISIC_9756079,65,lower extremity,benign,,lichenoid keratosis,histopathology,,IL_6116194,,,,,,False,,IP_2881084,,female,,,,,,,,2592,1936
+5e8105c474440928c0be0cc7,ISIC_9773404,35,lower extremity,benign,,nevus,histopathology,,IL_2423502,,,,,,True,,IP_1039996,,male,,,,,,,,2592,1936
+5e95f315396583e25a508311,ISIC_9789240,35,posterior torso,benign,,,histopathology,,IL_6988737,,,,,,,,IP_1512731,,male,,,,,,,,640,480
+5e8f8eb94ad5f6bd588b055c,ISIC_9797578,65,posterior torso,benign,,nevus,histopathology,,IL_0355721,,,,,,True,,IP_8650344,,male,,,,,,,,5184,3456
+5e81073574440928c0be200c,ISIC_9806554,75,lower extremity,benign,,nevus,histopathology,,IL_4976302,,,,,,True,,IP_8590096,,male,,,,,,,,3264,2448
+5e81033d74440928c0be06d3,ISIC_9811367,70,upper extremity,benign,,seborrheic keratosis,histopathology,,IL_5535290,,,,,,False,,IP_2251085,,female,,,,,,,,2592,1936
+5e81065e74440928c0be13fe,ISIC_9825836,50,posterior torso,benign,,nevus,histopathology,,IL_9204202,,,,,,True,,IP_3713422,,male,,,,,,,,6000,4000
+5e95f221396583e25a506f17,ISIC_9826482,65,anterior torso,benign,,,histopathology,,IL_4344109,,,,,,,,IP_4116267,,female,,,,,,,,640,480
+5e80fc3a74440928c0bdf611,ISIC_9829781,65,head/neck,benign,,lentigo NOS,histopathology,,IL_9638610,,,,,,True,,IP_3034671,,male,,,,,,,,2592,1936
+5e8107e074440928c0be2883,ISIC_9838878,60,,benign,,nevus,histopathology,,IL_8709254,,,,,,True,,IP_2772363,,female,,,,,,,,3264,2448
+5e8faa3a396583e25a505274,ISIC_9855343,45,posterior torso,benign,,nevus,histopathology,,IL_9846889,,,,,,True,combined,IP_9362467,,female,,,,,,,,5184,3456
+5e95f1b6396583e25a50663b,ISIC_9859594,30,anterior torso,benign,,,histopathology,,IL_4122138,,,,,,,,IP_6796539,,female,,,,,,,,640,480
+5e95f33c396583e25a508610,ISIC_9874505,50,head/neck,benign,,,histopathology,,IL_5315196,,,,,,,,IP_9851472,,female,,,,,,,,1872,1053
+5e8100ac74440928c0be02b4,ISIC_9876779,30,posterior torso,benign,,nevus,histopathology,,IL_9122623,,,,,,True,,IP_4898383,,male,,,,,,,,2592,1936
+5e95f2f8396583e25a508089,ISIC_9877843,60,posterior torso,benign,,,histopathology,,IL_4274242,,,,,,,,IP_7151331,,female,,,,,,,,640,480
+5e95f1f0396583e25a506b0d,ISIC_9880258,40,posterior torso,benign,,,histopathology,,IL_7040224,,,,,,,,IP_1512731,,male,,,,,,,,1872,1053
+5e81073974440928c0be205a,ISIC_9880572,30,lower extremity,benign,,nevus,histopathology,,IL_1643697,,,,,,True,,IP_3200260,,female,,,,,,,,3264,2448
+5e81072274440928c0be1e87,ISIC_9883879,30,anterior torso,benign,,nevus,histopathology,,IL_9058240,,,,,,True,,IP_4959878,,female,,,,,,,,3264,2448
+5e8f930b4ad5f6bd588b14d5,ISIC_9884312,70,anterior torso,benign,,nevus,histopathology,,IL_7303683,,,,,,True,,IP_3983475,,male,,,,,,,,2448,3264
+5e81031d74440928c0be0467,ISIC_9891119,35,posterior torso,benign,,nevus,histopathology,,IL_6723751,,,,,,True,,IP_6017204,,female,,,,,,,,2592,1936
+5e8f92fa4ad5f6bd588b1435,ISIC_9898447,55,lower extremity,benign,,nevus,histopathology,,IL_9758071,,,,,,True,combined,IP_1658752,,male,,,,,,,,1775,1775
+5e95f247396583e25a5071f4,ISIC_9907793,35,upper extremity,benign,,,histopathology,,IL_2238554,,,,,,,,IP_1730314,,male,,,,,,,,1872,1053
+5e8f950c4ad5f6bd588b1c6c,ISIC_9922430,25,lower extremity,benign,,nevus,histopathology,,IL_8310710,,,,,,True,,IP_1921028,,male,,,,,,,,6000,4000
+5e81009e74440928c0be01c1,ISIC_9936937,75,anterior torso,benign,,nevus,histopathology,,IL_0973883,,,,,,True,,IP_2102792,,female,,,,,,,,4288,2848
+5e95f35c396583e25a5088ae,ISIC_9944671,40,lower extremity,benign,,,histopathology,,IL_7898583,,,,,,,,IP_6692103,,male,,,,,,,,640,480
+5e8f91ed4ad5f6bd588b0fbe,ISIC_9944931,30,posterior torso,benign,,nevus,histopathology,,IL_7624794,,,,,,True,,IP_9942136,,male,,,,,,,,6000,4000
+5e8106cc74440928c0be1a11,ISIC_9952575,35,upper extremity,benign,,nevus,histopathology,,IL_2021654,,,,,,True,,IP_8011614,,female,,,,,,,,2592,1936
+5e8402772a5a4415fe69512e,ISIC_9962388,50,,benign,,nevus,histopathology,,IL_1030926,,,,,,True,,IP_5820702,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8106cb74440928c0be1a03,ISIC_9965174,30,anterior torso,benign,,nevus,histopathology,,IL_7871891,,,,,,True,,IP_0065733,,female,,,,,,,,4288,2848
+5e95f388396583e25a508c9f,ISIC_9975260,40,anterior torso,benign,,,histopathology,,IL_5025537,,,,,,,,IP_5474292,,male,,,,,,,,1872,1053
+5e8106db74440928c0be1b4f,ISIC_9975949,40,,benign,,nevus,histopathology,,IL_1216689,,,,,,True,,IP_9245079,,male,,,,,,,,3264,2448
+5e84029a2a5a4415fe69545e,ISIC_9977219,60,,benign,,nevus,histopathology,,IL_4637503,,,,,,True,,IP_2673125,,male,,,,contact polarized,,dermoscopic,,1872,1053
+5e8107ee74440928c0be2971,ISIC_9997614,50,upper extremity,benign,,nevus,histopathology,,IL_5910182,,,,,,True,,IP_1705144,,female,,,,,,,,3264,2448
